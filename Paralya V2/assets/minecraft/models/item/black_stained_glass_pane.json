@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/black_stained_glass"
+  },
+	"overrides": [
+    {"predicate": {"custom_model_data":70120}, "model": "teplus:ui/none"},
+    {"predicate": {"custom_model_data":70121}, "model": "teplus:ui/base_merge"},
+    {"predicate": {"custom_model_data":70122}, "model": "teplus:ui/base_extract"}
+	]
+}

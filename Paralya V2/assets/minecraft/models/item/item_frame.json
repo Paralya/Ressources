@@ -1,0 +1,260 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/item_frame"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "ore_plants:item/seeds/coal_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "ore_plants:item/seeds/coal_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "ore_plants:item/seeds/iron_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "ore_plants:item/seeds/iron_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "ore_plants:item/seeds/copper_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "ore_plants:item/seeds/copper_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "ore_plants:item/seeds/gold_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "ore_plants:item/seeds/gold_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "ore_plants:item/seeds/diamond_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "ore_plants:item/seeds/diamond_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "ore_plants:item/seeds/redstone_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "ore_plants:item/seeds/redstone_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "ore_plants:item/seeds/lapis_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "ore_plants:item/seeds/lapis_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "ore_plants:item/seeds/emerald_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "ore_plants:item/seeds/emerald_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "ore_plants:item/seeds/quartz_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "ore_plants:item/seeds/quartz_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "ore_plants:item/seeds/netherite_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "ore_plants:item/seeds/netherite_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330000
+      },
+      "model": "tcc:item/phantom_item_frame"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330000
+      },
+      "model": "tcc:item/phantom_item_frame"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330000
+      },
+      "model": "tcc:item/phantom_item_frame"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330000
+      },
+      "model": "tcc:item/phantom_item_frame"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013200
+      },
+      "model": "stardust:others/seeds/diamond_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013200
+      },
+      "model": "stardust:others/seeds/diamond_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013201
+      },
+      "model": "stardust:others/seeds/advanced_diamond_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013201
+      },
+      "model": "stardust:others/seeds/advanced_diamond_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013202
+      },
+      "model": "stardust:others/seeds/stardust_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013202
+      },
+      "model": "stardust:others/seeds/stardust_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013203
+      },
+      "model": "stardust:others/seeds/advanced_stardust_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013203
+      },
+      "model": "stardust:others/seeds/advanced_stardust_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013204
+      },
+      "model": "stardust:others/seeds/elite_stardust_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013204
+      },
+      "model": "stardust:others/seeds/elite_stardust_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013205
+      },
+      "model": "stardust:others/seeds/legendarium_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013205
+      },
+      "model": "stardust:others/seeds/legendarium_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013206
+      },
+      "model": "stardust:others/seeds/solarium_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013206
+      },
+      "model": "stardust:others/seeds/solarium_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013207
+      },
+      "model": "stardust:others/seeds/darkium_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013207
+      },
+      "model": "stardust:others/seeds/darkium_seed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6425008
+      },
+      "model": "mechanization:assembly/item_extractor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6425009
+      },
+      "model": "mechanization:assembly/item_inserter"
+    }
+  ]
+}

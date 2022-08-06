@@ -1,0 +1,1340 @@
+{
+	"__Credit__":"Made by: v1ane_",
+	"CUSTOM ENCHANTMENTS":"CUSTOMOWE ZAKLĘCIA",
+	"__Comment__":"Second LORE for books",
+
+	"► Boots":"► Buty",
+	"► Leggings":"► Nogawice",
+	"► Chestplate":"► Napierśnik",
+	"► Helmet":"► Hełm",
+	"► Shield":"► Tarcza",
+	"► Axe":"► Siekiera",
+	"► Pickaxe":"► Kilof",
+	"► Shovel":"► Łopata",
+	"► Hoe":"► Motyka",
+	"► Sword":"► Miecz",
+	"► Trident":"► Trójząb",
+	"► Elytra":"► Elytra",
+	"► Shears":"► Nożyce",
+	"► Fishing Rod":"► Wędka",
+	"► Horse Armor":"► Konna Zbroja",
+	"► Bow":"► Łuk",
+	"► Crossbow":"► Kusza",
+	"► Everything":"► Wszystko",
+
+
+	"__Comment__":"Second LORE for books (shared enchantments)",
+
+	"► Sword-Bow":"► Miecz-Łuk",
+	"► Bow-Crossbow":"► Łuk-Kusza",
+	"► Sword-Trident":"► Miecz-Trójząb",
+	"► Pickaxe-Axe-Shovel":"► Kilof-Siekiera-Łopata",
+	"► Armor - Elytra - Shield":"► Zbroja-Elytra-Tarcza",
+	"► Tools - Weapons":"► Narzędzia-Bronie",
+
+
+
+
+	"__Comment__":"General LORE enchantments for books and items",
+
+	"Accuracy Shot":"Poziomy Strzał",
+	"Agility I":"Zwinność I",
+	"Agility II":"Zwinność II",
+	"Agility III":"Zwinność III",
+	"Anti-Explosion":"Saper",
+	"Anti-Knockback I":"Przylepienie I",
+	"Anti-Knockback II":"Przylepienie II",
+	"Anti-Venom I":"Antybiotyk I",
+	"Anti-Venom II":"Antybiotyk II",
+	"Arachnid":"Pajęczy Strzał",
+	"Armored I":"Wzmocnienie I",
+	"Armored II":"Wzmocnienie II",
+	"Attack Speed I":"Prędkość I",
+	"Attack Speed II":"Prędkość II",
+	"Attack Speed III":"Prędkość III",
+	"Auto-Feed":"Karmnik",
+	"Auto-Smelt":"Auto-Piec",
+	"Big Path":"Ścieżkomania",
+	"One Year Birthday!":"Pierwsze Urodziny!",
+	"1 Year Birthday Potion":"1-urodzinowa mikstura",
+	"Bloody Blade":"Krwawe Ostrze",
+	"Bright Vision":"Jasnowidzenie",
+	"Chopping":"Ścinak",
+	"Dasher I":"Szybcioch I",
+	"Dasher II":"Szybcioch II",
+	"Excavator":"Koparka 3000",
+	"Explosive":"Armatka",
+	"Fireball Wave":"Ściana Ognia",
+	"Flaming Skin":"Przyjaciel Lawy",
+	"Grand Tilling":"Zapalony Rolnik",
+	"Hardness+ I":"Ultratwardość I",
+	"Hardness+ II":"Ultratwardość II",
+	"Hardness+ III":"Ultratwardość III",
+	"Harvesting+":"Rolnik 3000",
+	"Haste I":"Pośpiech I",
+	"Haste II":"Pośpiech II",
+	"Last Life":"Ostatnia Deska Ratunku",
+	"Last Stand":"Ostatni Wdech",
+	"Lava Walker":"Lawowy Piechur",
+	"Leaping I":"Zwiękrzony Skok I",
+	"Leaping II":"Zwiękrzony Skok II",
+	"Leaping III":"Zwiękrzony Skok III",
+	"Life+ I":"Life+ I",
+	"Life+ II":"Life+ II",
+	"Life+ III":"Life+ III",
+	"Life+ IV":"Life+ IV",
+	"Life+ V":"Life+ V",
+	"Life Steal":"Vampir",
+	"Magnet":"Magnes",
+	"Marine Grace I":"Łaska Morza I",
+	"Marine Grace II":"Łaska Morza II",
+	"Mining+":"Górnik 3000",
+	"Multicolor":"Multicolor",
+	"Peaks":"Kolce",
+	"Poison Aspect I":"Truciciel I",
+	"Poison Aspect II":"Truciciel II",
+	"Poison Aspect III":"Truciciel III",
+	"Recovery I":"Odrodzenie I",
+	"Recovery II":"Odrodzenie II",
+	"Replant":"Siewnik",
+	"Scyther I":"Kosarz I",
+	"Scyther II":"Kosarz II",
+	"Shock Fangs":"Oszołomiające Kolce",
+	"Sky Walk":"Podniebny Spacer",
+	"Sniper":"Snajper",
+	"Soul Reaper I":"Żądza Krwi I",
+	"Soul Reaper II":"Żądza Krwi II",
+	"Soul Reaper III":"Żądza Krwi III",
+	"Splatter I":"Laser Wodny I",
+	"Splatter II":"Laser Wodny II",
+	"Splatter III":"Laser Wodny III",
+	"Striker I":"Pioruner I",
+	"Striker II":"Pioruner II",
+	"Striker III":"Pioruner III",
+	"Swim+":"Żabie Błonki",
+	"Timber":"Drwal",
+	"Time Breaker I":"Zakrzywienie Czasoprzestrzeni I",
+	"Time Breaker II":"Zakrzywienie Czasoprzestrzeni II",
+	"Transmission I":"Taktyczny Odwrót I",
+	"Transmission II":"Taktyczny Odwrót II",
+	"Transmission III":"Taktyczny Odwrót III",
+	"Transmission IV":"Taktyczny Odwrót IV",
+	"Transmission V":"Taktyczny Odwrót V",
+	"Turtle Stiffness":"Żłówie Wsparcie",
+	"Vein Miner":"Vein Miner",
+	"Waterjet":"Wystrzałowy Widelec",
+	"Xp Boost I":"Grabież XP I",
+	"Xp Boost II":"Grabież XP II",
+	"Xp Boost III":"Grabież XP III",
+
+	"Curse of Fragile":"Klątwa Zniszczenia",
+	"Curse of Sensitive":"Klątwa Delikatności",
+	"Curse of Slippery":"Klątwa Poślizgu",
+	
+
+	"__Comment__":"M u l t i c o l o r  LORE for books (each letter has a different color)",
+
+	"M":"M",
+	"u":"u",
+	"l":"l",
+	"t":"t",
+	"i":"i",
+	"c":"c",
+	"o":"o",
+	"l":"l",
+	"o":"o",
+	"r":"r",
+
+
+
+
+
+
+	"__Comment1__":"Config MENU information",
+
+	" | Settings MENU":" | MENU ustawień",
+	" Gameplay options:":" Opcje rozgrywki:",
+	" Configure the way the datapack works, like how to get and apply custom enchantments!":" Konfiguracja sposobu w jaki działa datapack (W jaki sposób nakładać customowe zaklęcia!)",
+	" Custom enchantments options:":" Opcje customowych zaklęć:",
+	" Enable and Disable the enchantments you want.":" Włącz lub wyłącz poszczególne zaklęcia",
+	"Get Special Enchanted Books!":"Zdobądź Specjalną Zaklętą Książkę!",
+	"[SUPER]":"[SUPER]",
+	"[MEGA]":"[MEGA]",
+	"[ULTRA]":"[ULTRA]",
+	"Super Enchanted Book":"SUPER zaklęta książka",
+	"Mega Enchanted Book":"MEGA zaklęta książka",
+	"Ultra Enchanted Book":"ULTRA zaklęta książka",
+
+
+
+
+	"__Comment1__":"Gameplay config MENU information",
+
+	"                       GAMEPLAY OPTIONS MENU":"                       Opcje rozgrywki",
+	"Exceed vanilla enchantment level limit for books          ":"Zwiękrz poziom podstawowych zaklęć dla książek          ",
+	"Echanting system with enchanting table for books        ":"System zaklinania z stołem do zaklęć dla książek          ",
+	"Echanting system with enchanting table for items         ":"System zaklinania z stołem do zaklęć dla przedmiotów    ",
+	"Combine an item with a custom enchanted book             ":"Łączenie przedmiotów z customowo zaklniętymi książkami                                                                                  ",
+	"Merge custom enchanted books in the Technical Anvil   ":"Łączenie customowo zaklniętych książek w Ultra Kowadle",
+	"Merge custom enchanted items in the Technical Anvil     ":"Łączenie customowo zaklniętych przedmiotów w Ultra Kowadle                                                                          ",
+	"Extract enchantments using the Technical Anvil           ":"Rozłączanie zaklęć używając Ultra Kowadła               ",
+	"Disenchant system using vanilla grindstone                ":"Rozłączanie używając kamienia szlifierskiego              ",
+	"Soul Reaper affects entity:                          ":"Żądza Krwi dotyczy bytów:                           ",
+	"Timber enchantment can break leaves                  ":"Zaklęcie Drwal może zniszczyć liście                    ",
+	" [METHOD 1] ":" [METODA 1] ",
+	" [METHOD 2] ":" [METODA 2] ",
+	" [METHOD 3] ":" [METODA 3] ",
+	" [METHOD 4] ":" [METODA 4] ",
+	"Xp level cost to enchant with the Technical Anvil        ":"Ultra Kowadło kosztuje poziomy doświadczenia          ",
+	"1 Year Birthday potion                                      ":"1-urodzinowa mikstura                                     ",
+	" Low performance mode                                 ":" Tryb niskiej jakości                                   ",
+	"[YES]":"[TAK]",
+	"[NO]":"[NIE]",
+
+
+
+
+	"__Comment1__":"Enchantments config MENU information",
+
+	"                       ENCHANTMENTS OPTIONS MENU":"                       MENU OPCJI ZAKLĘĆ",
+	"Agility":"Zwinność",
+	"Anti-Knockback":"Przylepienie",
+	"Anti-Venom":"Antybiotyk",
+	"Armored":"Wzmocnienie",
+	"Attack Speed":"Prędkość",
+	"Dasher":"Szybcioch",
+	"Hardness+":"Ultratwardość",
+	"Haste":"Pośpiech",
+	"Leaping":"Zwiękrzony Skok",
+	"Life+":"Life+",
+	"Marine Grace":"Łaska Morza",
+	"Poison Aspect":"Truciciel",
+	"Recovery":"Odrodzenie",
+	"Scyther":"Kosarz",
+	"Soul Reaper":"Żądza Krwi",
+	"Splatter":"Laser Wodny",
+	"Striker":"Pioruner",
+	"Time Breaker":"Zakrzywienie Czasoprzestrzeni",
+	"Transmission":"Taktyczny Odwrót",
+	"Xp Boost":"Grabież XP",
+
+	"__Comment1.1__":"Enchantments config MENU extra things",
+	"[ENABLED]":"[ZEZWOLONO]",
+	" WARNING!!! THIS IS PERMANENT  ":" UWAGA!!! To JEST TRWAŁA ZMIANA  ",
+	"Are you sure you want to enable this?":"Czy jesteś pewien, że chcesz na to zezwolić?",
+	"If you continue, each player is allowed to merge this enchantment book with its corresponding item.":"Jeśli będziesz kontynuował, każdy gracz będzie mógł połączyć tą zaklętą książkę z oddpowiadającym jej przedmiotem",
+	" Even if you uninstall this datapack, items with this enchantment will continue to work!":" Nawet jeśli odinstalujesz datapacka, przedmioty z tym zaklęciem będą dalej działać!",
+	"[RETURN]":"[ZATWIERDŹ]",
+	"[CONTINUE]":"[DALEJ]",
+
+
+
+	"__Comment2__":"Blocks and Technical Anvil UI",
+
+	"Charged Bookshelf":"Naładowane Biblioteczki",
+	"Technical Anvil":"Ultra Kowadło",
+	"Place it down to merge or":"Połóż tutaj aby połączyć, albo",
+	"extract custom enchantments":"wyodrębnić customowe zaklęcia",
+
+
+	"Merging Mode":"Tryb łączenia",
+	"Use it as a normal anvil to":"Używaj tego jak normalnego kowadła do",
+	"combine custom enchantments to your items!":"połączenia customowego zaklęcia z twoim przedmiotem",
+	"Clic this icon to wchange Technical Anvil mode":"Kliknij w tą ikonę, aby zmienić tryb Ultra Kowadła",
+	"Need 10 levels":"Potrzebne 10 poziomów doświadczenia",
+	"Need 5 levels":"Potrzebne 5 poziomów doświadczenia",
+	"Need 0 levels":"Potrzebne 0 poziomów doświadczenia",
+	"Clic this item to combine":"Kliknij na ten przedmiot, aby połączyć",
+	"You cannot combine those items!":"Nie możesz połączyć tych przedmiotów!",
+	"Error!":"Błąd!",
+	"You cannot add that enchantment":"Nie możesz dodać tego zaklęcia",
+	"to that item!":"do tego przedmiotu!",
+	"You don't have enough Experience Levels!":"Masz za mało poziomów doświadczenia!",
+	
+
+	"Extracting Mode":"Tryb rozdzielania",
+	"Place on the left any item with custom":"Połóż po lewej stronie jakikolwiek przedmiot z customowym",
+	"enchantments and on the right normal books":"zaklęciem, a po prawej normalne książki",
+	"Clic this item":"Kliknij na ten przedmiot,",
+	"to extract a custom enchantment":" aby rozdzielić customowe zaklęcia",
+	"This feature is":"Ta funkcja jest",
+	"currently disabled!":"obecnie nie dostępna",
+
+
+
+
+
+
+	"__Comment3__":"Advancements",
+
+	"__Comment3.1__":"General advancements",
+
+	"Technical Enchant+":"Techniczne Zaklęcia+",
+	"Discover a new power of enchantments":"Odkryj nową moc zaklęć",
+
+    "Detailed Information":"Informacje Szczegółowe",
+	"Drop a book and quill on top of a enchanting table":"Wyrzuć książkę z piórem na górę stołu do zaklinania",
+
+    "A bunch of enchantments":"Zaklęcia",
+	"Obtain your first custom enchantment to see the other ones":"Zdobądź swoje pierwsze customowe zaklęcie, aby zobaczyć pozostałe",
+
+	"Get this free potion from the Guide Book":"Zbierz darmową miksture z Przewodnika",
+
+    "Charging the power":"Naładuj moc",
+	"Get a charged bookshelf":"Zrób swoją pierwszą Naładowaną Biblioteczkę",
+
+    "Full enchanting power":"Moc Zaklęć",
+	"Create a Tier 3 enchanting setup":"Stwórz maksymalnie naładowany stół do zaklęć, z Naładowanych Biblioteczek",
+
+    "Easy combining":"Łatwe łączenie",
+	"Obtain a Technical Anvil":"Zdobądź Ultra Kowadło",
+
+    "Get back your enchantments":"Dawaj moje zaklęcia!",
+	"Switch to extracting mode using the Technical Anvil UI":"Przełącz na tryb rozdzielania w Ultra Kowadle",
+
+    "Customizable gameplay":"Zmienna rozgrywka",
+	"You have accessed the config Menu":"Masz dostęp do Menu ustawień",
+
+    "Feeling overpowered":"MOC nad moce!",
+	"Get every custom enchantment and curse":"Zdobądź wszystkie dostępne customowe zaklęcia i klątwy",
+
+    "All that power at once":"Cała moc na RAZ",
+	"Why did you made this?":"Dlaczego to zrobiłeś?",
+
+    "Exceed the limit":"Przełamuj bariery",
+	"Enable more enchantment level for vanilla books":"Zezwól na więkrzy poziom podstawowych zaklęć",
+
+	"Vanilla +":"Vanilla+",
+	"Get the 12 new max level enchantment books":"Zdobądź 12 nowych wymaksowanych zaklętych książek",
+
+
+
+	"__Comment3.2__":"Advancements sections",
+
+	"Armor +":"Zbrojka +",
+	"Over 18 enchantments":"Ponad 18 zaklęć",
+	"Technical Helmet":"Techniczny Hełm",
+	"Get every custom enchantment book for the helmet":"Zdobądź każde customowe zaklęcie dla Hełmu",
+	"Technical Chestplate":"Techniczny Napierśnik",
+	"Get every custom enchantment book for the chestplate":"Zdobądź każde customowe zaklęcie dla Napierśnika",
+	"Technical Leggings":"Techniczne Nogawice",
+	"Get every custom enchantment book for the leggings":"Zdobądź każde customowe zaklęcie dla Nogawic",
+	"Technical Boots":"Techniczne Buty",
+	"Get every custom enchantment book for the boots":"Zdobądź każde customowe zaklęcie dla Butów",
+	"Technical Shield":"Techniczna Tarcza",
+	"Get every custom enchantment book for the shield":"Zdobądź każde customowe zaklęcie dla Tarczy",
+
+	"Weapons +":"Bronie +",
+	"Over 16 more enchantments":"Ponad 16 zaklęć",
+	"Technical Bow":"Techniczny Łuk",
+	"Get every custom enchantment book for the bow":"Zdobądź każde customowe zaklęcie dla Łuku",
+	"Technical Crossbow":"Techniczna Kusza",
+	"Get every custom enchantment book for the crossbow":"Zdobądź każde customowe zaklęcie dla Kuszy",
+	"Technical Sword":"Techniczny Miecz",
+	"Get every custom enchantment book for the sword":"Zdobądź każde cusomowe zaklęcie dla Miecza",
+	"Technical Trident":"Techniczny Trójząb",
+	"Get every custom enchantment book for the trident":"Zdobądź każde customowe zaklęcie dla Trójzębu",
+
+	"Tools +":"Narzędzia +",
+	"Over 15 more enchantments":"Ponad 15 zaklęć",
+	"Technical Axe":"Techniczna Siekiera",
+	"Get every custom enchantment book for the axe":"Zdobądź każde customowe zaklęcie dla Siekiery",
+	"Technical Hoe":"Techiczna Motyka",
+	"Get every custom enchantment book for the hoe":"Zdobądź każde customowe zaklęcie dla Motyki",
+	"Technical Pickaxe":"Techniczny Kilof",
+	"Get every custom enchantment book for the pickaxe":"Zdobądź każde customowe zaklęcie dla Kilofu",
+	"Technical Shovel":"Techniczna Łopata",
+	"Get every custom enchantment book for the shovel":"Zdobądź każde customowe zaklęcie dla Łopaty",
+
+	"Extra items":"Dodatkowe Przedmioty",
+	"3 more enchantments":"3 zaklęcia",
+	"Armored Enchantment":"Zaklęcie Wzmocnienie",
+	"A bit of extra protection while you're flying":"Trochę więcej ochrony w trakcie latania",
+	"Multicolor Enchantment":"Zaklęcie Multicolor",
+	"Unlimited source of wool color":"Nie ograniczone źródło kolorowej wełny",
+	"Splatter Enchantment":"Zaklęcie Laser Wodny",
+	"Water beam goes brrr":"Wodna wiązka jest zimna, brrr",
+	"Technical Horse Armor":"Techniczna Konna Zbroja",
+	"Get every custom and vanilla enchantment book for any horse armor":"Zdobądź każde customowe i podstawowe zaklęcie dla Konnej Zbroji",
+	"Frost Walker for horse armor":"Mroźny Piechur dla Konnej Zbroji",
+	"A bit different from vanilla":"Mała różnica pomiędzy wersją podstawową",
+
+	"Better luck next time":"Powodzenia następnym razem",
+	"3 more custom curses":"O 3 więcej customowe klątwy",
+	"Same as golden items":"To samo co złote przedmioty",
+	"Has a lot of accumulated tension":"Ma w sobie dużo skumulowanego napięcia",
+	"Do you have butter finguers now?":"Masz teraz dziurawe ręce?",
+
+
+	"__Comment3.3__":"Enchantments description in Advancements",
+
+	"I'm fast, too fast":"Jestem szybki, zbyt szybki",
+	"Very fast that it hurts":"Bardzo szybko, dlatego boli",
+	"Striders may not like this one":"Magmołazy nie polubią tego...",
+	"Prevent unexpected falls":"Niespodziewana awaria, zapobiegnięta",
+	"Best under lava experience":"Najlepsze doznania podlawowe",
+	"Tasteless but effective":"Bez smaku, ale działa",
+	"Purify your body":"Oczyść swój organizm",
+	"Basically double hearts":"Teorytycznie podwójne serca",
+	"Watch out harming your pets":"Uważaj, aby nie zranić swoich zwierzątek",
+	"Your inventory may fill up faster":"Twój ekwipunek może napełnić się szybciej",
+	"Illuminate your view":"Oświetl swój wizerunek",
+	"No more holes in the ground":"Dziur...? Nigdy więcej!",
+	"Olympic swimmer":"Pływak olimpijski",
+	"Feel like someone new":"Na nowo urodzony",
+	"Become the expert mountain climber":"Zostań profesjonalnym alpinistą",
+	"Use it as a totem backup":"Użyj jako zapasowy totem",
+	"Without any scratch":"Bez żadnego zadrapania",
+	"Become a real tank":"Zostań prawdziwym czołgiem",
+	"Reinforced protection":"Wzmocniona ochrona",
+	"Harmful deflection":"Bolesne ugięcie",
+	"Thunder God":"Bóg piorunów",
+	"Be careful what you touch":"Uważaj czego dotykasz",
+	"Carpentry wrecker":"Niszczyciel drewna",
+	"Don't waste fuel":"Nie marnuj paliwa",
+	"Xp orbs stonks":"Wincyj xp'a",
+	"Where did it go?":"Gdzie to przepadło?",
+	"Remember to reforest":"Pamiętaj o ponownym zalesieniu",
+	"Become the death stalker":"Zostań prześladowcą śmierci",
+	"Undergrowth remover":"Chrusto-zbiórka",
+	"Master farmer":"Rolnik PRO",
+	"Summon vegetation":"Twórz roślinność",
+	"Optimize space":"Optymalizacja przestrzeni",
+	"Happy ore mining":"Miłego kopamia ród",
+	"Easy tunnel bore":"Łatwiutkie kopanie",
+	"Create better roads":"Stwórz lepsze drogi",
+	"Better terraformer":"Najlepszy projektant krajobrazu",
+	"No gravity physics?":"Bez grawitacji?!",
+	"Try to use it with responsibility, ok?":"Spróbuj używać tego z rozwagą, ok?",
+	"Easily trap your enemies":"Z łatwością złap swoich wrogów",
+	"Send them to hell":"Wyślij ich do piekła",
+	"Wait for the right moment":"Poczekaj na dobry moment",
+	"Use a part of the evoker's magic":"Użyj kawałek mocy przywoływacza",
+	"Nothing is in my way":"Nic już nie stoi mi na przeszkodzie",
+	"Good old memories":"Dobre stare wspomnienia...",
+	"Feel my venom":"Poczuj mój jad",
+	"Give me my health back!":"Oddaj moje życie z powrotem",
+	"With honor until the end":"Z honorem do końca",
+	"The ocean charmer":"Morski czrodziej",
+	"Prepare for the water drop":"Przygotuj się na krople wody",
+
+
+
+
+
+
+	"__Comment4__":"Tellraw Messages feedback",
+
+	" Items in your inventory have been updated to v6.0":" Przedmioty w twoim ekwipunku zostały zaktualizowane do v6.0",
+	" You have received":" Dostałeś",
+	" all max level":" wszystkie wymaksowane",
+	" custom and vanilla enchantments!":" customowe i podstawowe zaklęcia!",
+	"You have merged all custom enchantments, curses and exceeded vanilla enchantments at thier Max Level in one single book!":" Właśnie połączyłeś wszystkie wymaksowane customowe zaklęcia, klątwy i podwyższone podstawowe zaklęcia w jednej książce!",
+	" is ready, to protect you.":" Jest gotowa, aby cię chronić.",
+	" activated, wait 5 minutes to use it again!":" Aktywowano, poczekaj 5 minut aby użyć ponownie!",
+
+	"__Comment4.1__":"Give all command",
+
+	"Sword":"Miecz",
+	"Shield":"Tarcza",
+	"Trident":"Trójząb",
+	"Bow":"Łuk",
+	"Crossbow":"Kusza",
+	"Axe":"Siekiera",
+	"Pickaxe":"Kilof",
+	"Shovel":"Łopata",
+	"Hoe":"Motyka",
+	"Chestplate":"Napierśnik",
+	"Leggings":"Nogawice",
+	"Boots":"Buty",
+	"Helmet":"Hełm",
+	"Max enchanted vanilla books":"Wymaksowane książki podstawowe",
+
+	"Technical Enchanted Axe":"Technicznie Zaklęta Siekiera",
+	"Technical Enchanted Shovel":"Technicznie Zaklęta Łopata",
+	"Technical Enchanted Pickaxe":"Technicznie Zaklęta Kilof",
+	"Technical Enchanted Hoe":"Technicznie Zaklęta Motyka",
+	"Technical Enchanted Sword":"Technicznie Zaklęta Miecz",
+	"Technical Enchanted Trident":"Technicznie Zaklęty Trójząb",
+	"Technical Enchanted Bow":"Technicznie Zaklęty Łuk",
+	"Technical Enchanted Crossbow":"Technicznie Zaklęta Kusza",
+	"Technical Enchanted Helmet":"Technicznie Zaklęty Hełm",
+	"Technical Enchanted Chestplate":"Technicznie Zaklęty Napierśnik",
+	"Technical Enchanted Leggings":"Technicznie Zaklęte Nogawice",
+	"Technical Enchanted Boots":"Technicznie Zaklęte Buty",
+	"Technical Enchanted Shield":"Technicznie Zaklęta Tarcza",
+	"Technical Enchanted Elytra":"Technicznie Zaklęta Elytra",
+	"Technical Enchanted Shears":"Technicznie Zaklęte Nożyce",
+	"Technical Enchanted Fishing Rod":"Technicznie Zaklęta Wędka",
+	"Technical Enchanted Leather Horse Armor":"Technicznie Zaklęta Skórzana Konna Zbroja",
+	"Technical Enchanted Iron Horse Armor":"Technicznie Zaklęta Żelazna Konna Zbroja",
+	"Technical Enchanted Golden Horse Armor":"Technicznie Zaklęta Złota Konna Zbroja",
+	"Technical Enchanted Diamond Horse Armor":"Technicznie Zaklęta Diamentowa Konna Zbroja",
+
+
+
+
+
+
+
+	"__Comment5__":"Guide Book item, (literally the book item)",
+
+	" TE+ Guide Book ":" Przewodnik po TE+ ",
+
+	"__Comment5.1__":"Page 1",
+	"New Items":"Nowe Przedmioty",
+	"Main Mechanics":"Podstawowe Mechaniki",
+	"Enchanting":"Zaklinanie",
+	"rates":"Satystyki",
+	
+
+	"__Comment5.2__":"Page 2",
+	"List of":"Lista",
+	"enchantments":"z",
+	"Additional":"Dodatkowe",
+	"feature":"funkcjonalności",
+	"Find":"Znajdywanie",
+	"Admin Tools":"Narzędzia Admina",
+	"Credits":"Podziękowania",
+
+
+	"__Comment5.3__":"Page 3",
+	"Current datapack version:":"Aktualna wersja datapacka:",
+	"Compatible with  Minecraft 1.17+":"Działa z Minecraft 1.17+",
+	"Adds over 67 brand new enchantments for your tools, armor and weapons. With fully customisable gameplay.":"Dodaje ponad 67 całkowicie nowych zaklęć dla twoich narządzi, zbroji i broni. Z customizowaną rozgrywką.",
+	"(1 Year Birthday Potion)":"(1-urodzinowa mikstura)",
+	"Celebrate the best party,":"Baw się na najlepszej imprezie",
+	"with cakes, candles, fireworks":"z ciastami, świeczkami, fajerwerkami",
+	"and balloons!":"i balonami",
+	" (2:00)":" (2:00)",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"__Comment6__":"LOAD - UNINSTALL message",
+	"Custom Villagers Module:":"Custom Villagers Module:",
+	" Not installed":" Nie zainstalowano",
+	"In case you want villagers to sell Custom Enchanted Books from TE+, clic ":"Jeśli chciałbyć aby wieśniaki mieli w swojej ofercie customowo zaklęte książki z TE+, kliknij ",
+	"[HERE]":"[TU]",
+	" to download ;)":" aby pobrać ;)",
+	" Installed":" Zainstalowano",
+	"Enjoy villagers selling most of Technical Enchant+ books!":"Ciesz się nowymi ofertami wieśniaków!",
+	" has been":" Zostało",
+	" uninstalled":" odinstalowane",
+	" successfully.":" pomyślnie.",
+	"Be sure to remove it from your datapack folder!":"Pamiętaj, aby usunąć to z swojego folderu z datapackami!",
+
+
+
+
+
+
+
+	"__Comment7__":"GENERAL GUIDE BOOK INFORMATION",
+	"__Comment7.1__":"New items",
+	"Charged Bookshelf:":"Naładowana Biblioteczka:",
+	" To obtain one you need to have at least ":" Aby to pozyskać, potrzebujesz co najmniej ",
+	"8 lapis lazuli":"8 lazurytu",
+	" in your inventory and throw a normal bookshelf on the enchanting table.":" w swoim ekwipunku i musisz rzucić biblioteczkę na stół do zaklęć",
+
+	"Technical Anvil:":"Ultra Kowadło:",
+	"8 lapis blocks":"8 bloków lazurytu",
+	" in your inventory and throw an ":" w swoim ekwipunku i musisz rzucić ",
+	"UNDAMAGED anvil":"niezniszczone kowadło",
+	" on the enchanting table. You can remove it just by breaking the slab hitbox.":" na stół do zaklęć. Możesz je usunąć poprzez zniszczenie półbloku.",
+
+
+
+
+	"__Comment7.2__":"Main Mechanics",
+	"[Enchanting Setup]:":"[Konfiguracja Stołu do Zaklęć]:",
+	" The enchanting setup let you obtain and enchant your items with new custom enchnatments. You can know more about this ":" Nowa konfiguracja pozwoli ci zaklnąć swoje przedmioty nowymi zaklęciami. Możesz dowiedzieć się więcej ",
+	"(Here)":"(TUTAJ)",
+
+
+	"[Combine Enchantments]:":"[Łączenie Zaklęć]:",
+	" You can use the Technical Anvil UI as the vanilla anvil to combine books with books, item with books or items with items. For this you must need to have at least":" Możesz użyć UI Ultra Kowadła tak jak kowadła podstawowego, aby połączyć książki, przedmioty z książkami lub przedmioty z przedmiotami. Potrzebujesz do tego co najmniej",
+	" 10 levels.":" 10 poziomów.",
+
+
+	"[How to disenchant?]:":"[Jak zdjąć zaklęcie?]:",
+	" You can throw your enchanted item ":" Możesz wyżucić swój zaklęty przedmiot ",
+	"on top of a grindstone":"na górę kamienia szlifierskiego,",
+	" and all the enchantments are going to be removed.":" a wszystkie zaklęcia zostaną usunięte.",
+	" Except curses!":" Z wyjątkiem klątw!",
+	"Alternatively, you can use":"Możesz również użyć",
+	" Extracting Mode ":" Trybu Rozdzielania ",
+	"from the technical anvil. ":"z Ultra Kowadła. ",
+	" Extracting Mode ":" Tryb Rozdzielania ",
+	"[See more info]":"[Zobacz więcej informacji]",
+
+
+
+
+
+
+	"__Comment7.2.1__":"Enchanting Setup",
+	"Enchanting Setup":"Stanowisko do Customowego Zaklinania",
+	"You need to put the ":"Musisz położyć ",
+	"charged bookshelves":"Naładowane Biblioteczki",
+	" around the enchanting table, as you do it for vanilla. A max enchanting setup should look something like this:":" do okoła stołu do zaklinania, tak jak to zawsze robisz. Najpotężniejszy poziom powinien wyglądać tak:",
+
+	"       Tier one:":"       Poziom pierwszy:",
+	" 6 charged bookshelves":" 6 Naładowanych Biblioteczek",
+	"       Tier two:":"       Poziom drugi:",
+	" 12 charged bookshelves":" 12 Naładowanych Biblioteczek",
+	"       Tier three:":"       Poziom trzeci:",
+	" 18 charged bookshelves":" 18 Naładowanych Biblioteczek",
+
+	"Each time you upgrade your enchanting setup Tier, a ":"Za każdym razem kiedy ulepszysz poziom stołu do customowego zaklinania, ",
+	"lapis lazuli item":"przedmiot lazurytu",
+	" will show up in the enchanting table.":" Pojawi się na stole do zaklinania",
+
+
+
+
+
+
+	"__Comment7.2.2__":"Extracting Mode",
+	"You can extract a":"Możesz rozdzielić",
+	" custom enchantment ":" customowe zaklęcia ",
+	"from your items using this Technical Anvil mode ":"z twoich przedmiotów używając tego trybu w Ultra Kowadle ",
+	"at no cost!":"bez żadnych kosztów!",
+	" You just need your enchanted item and some ":" Potrzebujesz zaklęty przedmiot i trochę ",
+	"normal books":"normalnych książek",
+	"Note that the first enchantment in the Lore of the item":"Zauważ, że pierwsze zaklęcie z atrybutów tego przedmiotu",
+	" may not be ":" może nie być ",
+	"the one that you are currently extracting.":"tym które aktualnie rozdzielasz.",
+	"Custom curses":"Customowe klątwy",
+	" and ":" i ",
+	"Vanilla enchantments":"zaklęcia podstawowe",
+	" can't be extracted":" nie mogą być rozłączone",
+
+
+
+
+
+
+	"__Comment7.3__":"Enchanting rates",
+	"To get or apply a ":"Aby zdobyć albo nałożyć ",
+	"Custom enchantment:":"customowe zaklęcie:",
+	"You will need ":"Będziesz potrzebował ",
+	"levels":"poziomy doświadczenia",
+	"lapis":"lazuryt",
+	" (in your inventory).":" (W smoim ekwipunku).",
+	"Throw a book/item on an ":"Wyżuć książkę/przedmiot na górę ",
+	"enchanting table setup. ":"ustawionego stanowiska do zaklinania. ",
+	"That will consume the ":"To pochłonie twoją ",
+	"book/item,":"książkę/przedmiot, ",
+	"levels,":"poziomy,",
+	"and lapis.":"i lazuryt.",
+
+	"Level 10 to 19":"Poziom od 10 do 19",
+	"Low enchantment.":"Słabe zaklęcia.",
+	"Level 20 to 29":"Poziom od 20 do 29",
+	"Average enchantment.":"Średnie zaklęcia.",
+	"Level 30 to Infinity":"Poziom 30 do nieskończoności",
+	"Strong enchantment.":"Silne zaklęcia.",
+
+	"The rates :":"Statystyki :",
+	"Low enchantments":"Słabe zaklęcia",
+	" will cost you":" kosztować się będą",
+	" 1 Level":" 1 poziom",
+	"1 Lapis.":"1 lazuryt.",
+	"Average enchantments":"Średnie zaklęcia",
+	" 2 Levels":" 2 poziomy",
+	"2 Lapis.":" 2 sztuki lazurytu.",
+	"Strong enchantments":"Silne zaklęcia",
+	" 3 Levels":" 3 poziomy",
+	"3 Lapis.":" 3 sztuki lazurytu.",
+	"Notice that depending on your ":"Zauważ, że zależnie od ",
+	"Enchanting Tiers":"poziomu twojego stanowiska do customowego zaklinania",
+	", you can obtain low, average or strong enchantments.":", możesz dostać słabe, średnie lub silne zaklęcie.",
+
+
+
+
+
+
+	"__Comment7.4__":"Enchantments List",
+	"♦♦♦---||---||-- CUSTOM CURSES --||---||---♦♦♦":"♦♦♦---||---||-- CUSTOMOWE KLĄTWY --||---||---♦♦♦",
+	"►[GET MORE INFORMATION]◄":"►[WIĘCEJ INFORMACJI]◄",
+
+	"♦♦♦---||---||-- WEAPON ENCHANTMENTS --||---||---♦♦♦":"♦♦♦---||---||-- ZAKLĘCIA NA BRONIE --||---||---♦♦♦",
+	"►[SWORD]   ":"►[MIECZ]   ",
+	"►[TRIDENT]   ":"►[TRÓJZĄB]   ",
+	"►[BOW]   ":"►[ŁUK]   ",
+	"►[CROSSBOW]   ":"►[KUSZA]   ",
+
+	"♦♦♦---||---||-- ARMOR ENCHANTMENTS --||---||---♦♦♦":"♦♦♦---||---||-- ZAKLĘCIA NA ZBROJĘ --||---||---♦♦♦",
+	"►[HELMET]   ":"►[HEŁM]   ",
+	"►[CHESTPLATE]   ":"►[NAPIERŚNIK]   ",
+	"►[LEGGINGS]   ":"►[NOGAWICE]   ",
+	"►[BOOTS]   ":"►[BUTY]   ",
+	"►[SHIELD]":"►[TARCZA]",
+
+	"♦♦♦---||---||-- TOOLS ENCHANTMENTS --||---||---♦♦♦":"♦♦♦---||---||-- ZAKLĘCIA NA NARZĘDZIA --||---||---♦♦♦",
+	"►[PICKAXE]   ":"►[KILOF]   ",
+	"►[AXE]   ":"►[SIEKIERA]   ",
+	"►[SHOVEL]   ":"►[ŁOPATA]   ",
+	"►[HOE]":"►[MOTYKA]",
+
+	"♦♦♦---||---||-- EXTRA ENCHANTMENTS --||---||---♦♦♦":"♦♦♦---||---||-- ZAKLĘCIA DODATKOWE --||---||---♦♦♦",
+	"►[ELYTRA]   ":"►[ELYTRA]   ",
+	"►[FISHING ROD]   ":"►[WĘDKA]   ",
+	"►[HORSE ARMOR]   ":"►[KONNA ZBROJA]   ",
+	"►[SHEARS]   ":"►[NOŻYCE]   ",
+
+
+
+
+
+
+
+	"__Comment7.5__":"Additional Feature",
+	"\"This option is disabled by default\"":"\"Ta opcja jest domyślnie wyłączona \"",
+	"(You can enable it with Admin Tools Commands)":"(Możesz ją włączyć poprzez Narzędzia Admina TOOLS)",
+	"By placing ":"Stawiając ",
+	"two same (MAXED OUT) vanilla enchanted books ":"dwie takie same (wymaksowane) podstawowe zaklęte książki ",
+	"in the technical anvil, you can obtain an enchantment level higher than in vanilla!":"w Ultra Kowadle, możesz pozyskać poziom zaklęcia wyższy niż podstawowy!",
+	" Then, you can apply that book to the item using the Technical Anvil.":" Następnie, możesz nałożyć to zaklęcie na przedmiot używając Ultra Kowadła.",
+
+	"Efficiency ----> ":"Wydajność ----> ",
+	" Up to lvl 6":" do poziomu VI",
+	"Feather Falling ----> ":"Powolne Opadanie ----> ",
+	" Up to lvl 5":" do poziomu V",
+	"Fortune ----> ":"Szczęście ----> ",
+	" Up to lvl 4":" do poziomu IV",
+	"Impaling ----> ":"Przebicie ----> ",
+	"Looting ----> ":"Grabież ----> ",
+	"Luck of the Sea ----> ":"Morska Fortuna ----> ",
+	"Lure ----> ":"Przynenta ----> ",
+	"Power ----> ":"Moc ----> ",
+	"Protection ----> ":"Ochrona ----> ",
+	"Respiration ----> ":"Oddychanie ----> ",
+	"Sharpness ----> ":"Ostrość ----> ",
+	" Up to lvl 7":" do poziomu VII",
+	"Unbreaking ----> ":"Niezniszczalność ----> ",
+
+
+
+
+
+
+	"__Comment7.6__":"Find Enchantments",
+	"You can ":"Możesz ",
+	"find SOME enchantments Naturally":"znaleść trochę zaklęć podróżując po świecie",
+	" without going through the enchanting table:":" bez przechodzenia przez stół do zaklęć:",
+	"There are three ways to get one:":"Są trzy drogi, aby to osiągnąć:",
+	"- killing monsters ":"- zabijanie potworów ",
+	"(Rare Drops, only using looting III)":"(Bardzo rzadki drop, tylko używając Grabieży III)",
+	"- Exploring structures ":"- zwiedzanie struktur ",
+	"(In chests)":"(w skrzyniach)",
+	"- And by fishing ":"- i przez łowienie ",
+	"(Treasure Drops)":"(podwodne skarby)",
+	"The Strucutres and Mobs will have ":"Struktury i moby będą miały ",
+	"Themed enchantments.":"tematyczne zaklęcia",
+	"Enchantments":"Zaklęcia",
+	" are unique to Structures Executed by the loot-table.":" są specjalne dla każdej struktury.",
+	"Example:":"Przykład:",
+	"The chests of the Nether Fortresses can contain ":"Skrzynia z Netherowej Fortecy może zawierać ",
+	"Lava Walker.":"Lawowy Piechur",
+	"Evokers may drop ":"Przyzywacz może upuścić ",
+	"Shock Fangs.":"Oszołomiające Kolce",
+
+
+
+
+
+
+	"__Comment7.7__":"Admin Tools",
+	"If you have ACCESS TO COMMANDS, you can type in the chat: ":"Jeśli masz dostęp do komend, możesz napisać na czacie: ",
+	"[This command]":"[Tą komende]",
+	" To get a barrel full with ":" Aby dostać beczkę pełną ",
+	"all custom enchantments!":"wszystkich customowych zaklęć!",
+	" And items already enchanted at their max level.":" I wymaksowane przedmioty.",
+	" To uninstall the datpack. Keep in mind that items with: ":" Aby odinstalować datapack. Miej świadomość, że przedmioty z zaklęciami: ",
+	"Life+, Agility, Attack Speed, Anti-Knockback, Hardness+, Armored, or exceeded vanilla enchantment levels. ":"Life+, Zwinność, Prędkość, Przylepienie, Ultratwardość, Wzmocnienie i wzmocnionymi zaklęciami podstawowymi,  ",
+	"Are still going to work after using this command.":"będą nadal działać po użyciu tej komendy",
+	" To change the datapack configuration as you want. ":" Aby zmieniać ustawienia datapacka jak chcesz",
+	" Format, to enchant a held item using commands.":" Format, aby zaklnąć trzymany przedmiot używając komend.",
+	" Be aware that the Lore and Attributes will be overwritten.":" Bądź uważny, ponieważ wszystkie atrybuty zostaną nadpisane.",
+	"Error! ":"Błąd! ",
+	"You can't add this enchantment to this item":"Nie możesz dodać tego zaklęcia do tego przedmiotu!",
+	"This enchantment is already present in this item":"Ten przedmiot posiada już to zaklęcie!",
+
+
+
+
+
+
+
+
+
+	"__Comment8__":"GUIDE BOOK enchantments list sub-menu",
+	"__Comment8.1__":"Custom Curses",
+	"===>> Custom Curses <<===":"===>> Customowe Klątwy <<===",
+	"These curses can only be obtained from the enchanting table with more than 10 levels. As vanilla curses, these custom curses":"Te klątwy mogą zostać pozyskane tylko w stole do zaklęć z więcej niż 10 poziomem. Tak jak klątwy podstawowe",
+	" can't be disenchanted!":" nie mogą zostać odklniętne!",
+	"- Fragile":"- Zniszczenia",
+	"- Sensitive":"- Delikatności",
+	"- Slippery":"- Śliskości",
+
+
+
+	"__Comment8.2__":"Sword enchantments",
+	"===>> Sword Custom Enchantments <<===":"===>> Customowe Zaklęcia na Miecz <<===",
+	"- Anti Explosion":"- Saper",
+	"- Attack Speed":"- Prędkość",
+	"- Bloody Blade":"- Krwawe Ostrze",
+	"- Last Stand":"- Ostatni Wdech",
+	"- Life Steal":"- Vampir",
+	"- Poison Aspect":"- Truciciel",
+	"- Xp Boost":"- Grabież XP",
+
+
+
+	"__Comment8.3__":"Trident enchantments",
+	"===>> Trident Custom Enchantments <<===":"===>> Customowe Zaklęcia na Trójząb <<===",
+	"- Marine Grace":"- Łaska Morza",
+	"- Waterjet":"- Wystrzałowy Widelec",
+
+
+
+	"__Comment8.4__":"Bow enchantments",
+	"===>> Bow Custom Enchantments <<===":"===>> Customowe Zaklęcia na Łuk <<===",
+	"- Accuracy Shot":"- Poziomy Strzał",
+	"- Arachnid":"- Pajęczy Strzał",
+	"- Explosive":"- Armatka",
+
+
+
+
+	"__Comment8.5__":"Crossbow enchantments",
+	"===>> Crossbow Custom Enchantments <<===":"===>> Customowe Zaklęcia na Kuszę <<===",
+	"- Fireball Wave":"- Ściana Ognia",
+	"- Shock Fangs":"- Oszołomiające Kolce",
+	"- Sniper":"- Snajper",
+
+
+
+
+	"__Comment8.6__":"Helmet enchantments",
+	"===>> Helmet Custom Enchantments <<===":"===>> Customowe Zaklęcia na Hełm <<===",
+	"- Bright Vision":"- Jasnowidzenie",
+	"- Magnet":"- Magnes",
+	"- Time Breaker":"- Zakrzywienie Czasoprzestrzeni",
+
+
+
+	"__Comment8.7__":"Chestplate enchantments",
+	"===>> Chestplate Custom Enchantments <<===":"===>> Customowe Zaklęcia na Napierśnik <<===",
+	"- Anti Venom":"- Antybiotyk",
+	"- Auto Feed":"- Karmnik",
+	"- Flaming Skin":"- Przyjaciel Lawy",
+	"- Life+":"- Life+",
+
+
+
+	"__Comment8.2__":"Leggings enchantments",
+	"===>> Leggings Custom Enchantments <<===":"===>> Customowe Zaklęcia na Nogawicę <<===",
+	"- Last Life":"- Ostatnia Deska Ratunku",
+	"- Leaping":"- Zwiękrzony Skok",
+	"- Recovery":"- Odrodzenie",
+	"- Swim+":"- Żabie Błonki",
+
+
+
+	"__Comment8.3__":"Boots enchantments",
+	"===>> Boots Custom Enchantments <<===":"===>> Customowe Zaklęcia na Buty <<===",
+	"- Agility":"- Zwinność",
+	"- Dasher":"- Szybcioch",
+	"- Lava Walker":"- Lawowy Piechur",
+	"- Sky Walk":"- Podniebny Spacer",
+
+
+
+	"__Comment8.4__":"Shield enchantments",
+	"===>> Shield Custom Enchantments <<===":"===>> Customowe Zaklęcia na Tarczę <<===",
+	"- Anti Knockback":"- Przylepienie",
+	"- Hardness+":"- Ultratwardość",
+	"- Peaks":"- Kolce",
+	"- Turtle Stiffness":"- Żłówie Wsparcie",
+
+
+
+	"__Comment8.5__":"Pickaxe enchantments",
+	"===>> Pickaxe Custom Enchantments <<===":"===>> Customowe Zaklęcia na Kilof <<===",
+	"- Auto Smelt":"- Auto-Piec",
+	"- Haste":"- Pośpiech",
+	"- Mining+":"- Górnik 3000",
+	"- Vein Miner":"- Vein Miner",
+
+
+
+
+	"__Comment8.6__":"Axe enchantments",
+	"===>> Axe Custom Enchantments <<===":"===>> Customowe Zaklęcia na Siekierę <<===",
+	"- Chopping":"- Ścinak",
+	"- Striker":"- Pioruner",
+	"- Timber":"- Drwal",
+	"- Transmission":"- Taktyczny Odwrót",
+
+
+
+
+	"__Comment8.7__":"Shovel enchantments",
+	"===>> Shovel Custom Enchantments <<===":"===>> Customowe Zaklęcia na Łopatę <<===",
+	"- Big Path":"- Ścieżkomania",
+	"- Excavator":"- Koparka 3000",
+
+
+
+
+	"__Comment8.3__":"Hoe enchantments",
+	"===>> Hoe Custom Enchantments <<===":"===>> Customowe Zaklęcia na Motykę <<===",
+	"- Grand Tilling":"- Zapalony Rolnik",
+	"- Harvesting+":"- Rolnik 3000",
+	"- Replant":"- Siewnik",
+	"- Scyther":"- Kosarz",
+	"- Soul Reaper":"- Żądza Krwi",
+
+
+
+
+	"__Comment8.4__":"Shears enchantments",
+	"===>> Shears Custom Enchantments <<===":"===>> Customowe Zaklęcia na Nożycę <<===",
+	"- Multicolor":"- Multicolor",
+
+
+
+	"__Comment8.5__":"Elytra enchantments",
+	"===>> Elytra Custom Enchantments <<===":"===>> Customowe Zaklęcia na Elytrę <<===",
+	"- Armored":"- Wzmocnienie",
+
+
+
+	"__Comment8.6__":"Fishing Rod enchantments",
+	"===>> Fishing Rod Custom Enchantments <<===":"===>> Customowe Zaklęcia na Wędkę <<===",
+	"- Splatter":"- Laser Wodny",
+
+
+
+	"__Comment8.7__":"Horse Armor enchantments",
+	"===>> Horse Armor Custom Enchantments <<===":"===>> Customowe Zaklęcia na Konną Zbroję <<===",
+	"Now you can apply ":"Teraz możesz zaklnąć:",
+	"\"Frost Walker enchantment\"":"\"zaklęcie Mroźny Piechór\"",
+	" to any horse armor. Just combine it using the Technical Anvil.":" na każdą Konną Zbroję. Wystarczy użyć do tego Technicznego Kowadła",
+
+
+
+
+
+
+
+
+
+
+
+	"__Comment9__":"Enchantments descriptions",
+
+
+	"__Comment9.1__":"Curse of Fragile",
+	"Curse":"Klątwa",
+	"Fragile :":"Zniszczenia :",
+	"Every item is going to lose more durability each time you use the item. Unbreaking enchantment may counter this curse.":"Każdemu przedmiotowi zostanie odjęte więcej punktów twardości za każdym razem kiedy go użyjesz. Zaklęcie Niezniszczalności może przeciwdziałać tej klątwie.",
+
+
+	"__Comment9.2__":"Curse of Sensitive",
+	"Sensitive :":"Delikatności :",
+	"Each time you take damage, you have a small probability to explode. This curse is cumulative, be careful when wearing more than one armor piece.":"Każdego razu kiedy dostaniesz obrażenia, jest mała szansa wybuchu. Uważaj aby nie nosić więcej niż jednego kawałka zbroi z tym zaklęciem, ponieważ klątwa ta kumuluje się. ",
+	"Also, if you use a shield with this curse, each time it loses durability you have a chance to explode.":"Kiedy nosisz tarczę z tą klątwą, a tarcza straci punkt twardości, jest mała szansa abyś wybuchnął.",
+
+
+	"__Comment9.3__":"Curse of Slippery",
+	"Slippery :":"Śliskości :",
+	"When using an item, you'll have a small chance to drop it in front of you. A sound is going to play when this happens.":"Kiedy użyjesz przedmiotu jest mała szansa aby przedmiot wyślizgnął ci się z ręki. Upadnie wtedy przed tobą z charakterystycznym dźwiękiem.",
+
+
+	"__Comment9.4__":"Accuracy Shot",
+	"Enchantment":"Zaklęcie",
+	"Accuracy Shot :":"Poziomy Strzał :",
+	"The arrows you shoot are no longer affected by gravity , it stays straight.":"Na strzały nie działa grawitacja. Tor lotu strzały jest poziomy, nie paraboliczny",
+
+
+	"__Comment9.5__":"Agility",
+	"Agility :":"Zwinność :",
+	"It goes from ":"Zależy od ",
+	"Level":"poziomu doświadczenia",
+	"The Higher the ":"Im jest wyższy ",
+	", the faster you run.":", tym szybciej chodzisz.",
+
+
+	"__Comment9.6__":"Anti-Explosion",
+	"Anti-Explosion :":"Saper :",
+	"All Creepers and TNT nearby you, can't explode while using this enchantment.":"Żaden creeper i TNT nie może wybuchnąć koło ciebie kiedy używasz tego zaklęcia.",
+
+
+	"__Comment9.7__":"Anti-Knockback",
+	"Anti-Knockback :":"Przylepienie :",
+	"Level I to II.":"Poziomy od I do II.",
+	"This ":"To ",
+	"enchantment ":"Zaklęcie ",
+	"Transforms you into a real tank,":"zmienia ciebie w prawdziwy czołg,",
+	" ignoring most of the effects of knockback, if you wear ":" praktycznie nie działa na ciebie efekt odrzutu, kiedy nosisz ",
+	"full nehterite armor set with this shield!":"pełny netheritowy set z tą tarczą!",
+
+
+	"__Comment9.8__":"Anti-Venom",
+	"Anti-Venom :":"Antybiotyk :",
+	"Level I to II.":"Poziomy od I do II.",
+	"Level I ":"Poziom I ",
+	"Remove the Poison and wither effects.":"Usuwa Zatrucie i efekt Withera.",
+	"Level II ":"Poziom II ",
+	"Remove the slowness and weakness effects.":"Usuwa Spowolnienie i Słabość.",
+
+
+	"__Comment9.9__":"Arachnid",
+	"Arachnid :":"Pajęczy strzał :",
+	"When a the arrow lands, it generates a group od cobwebs.":"Kiedy strzała wyląduje, generuje dookoła sieci.",
+	"If the arrow hits a mob, it will pull it down the ground and generate the group of cobwebs arround it.":"Kiedy strzała uderzy moba, generuje sieci dookoła niego. ",
+
+
+	"__Comment9.9__":"Armored",
+	"Armored :":"Wzmocnienie :",
+	": Adds 2 armor points to your Elytra.":": Dodaje 2 punkty zbroji do twojej Elytry.",
+	": Adds 4 armor points to your Elytra.":": Dodaje 4 punkty zbroji do twojej Elytry. ",
+	"You can ONLY get \"Armored I\" through the enchanting table if you have ":":Możesz uzyskać tylko \"Wzmocnienie I\" poprzez stół do zaklęć, mając ",
+	" more than 30 levels.":": więcej niż 30 poziomów doświadczenia. ",
+	" You may have a better chance by exploring":": Lepiej będzie eksplorować",
+	" End city's loot.":": Miasta Endu i pozyskiwać z tamtąd itemi.",
+
+
+	"__Comment9.10__":"Attack Speed",
+	"Attack Speed :":" Prędkość:",
+	"It increases your attack speed, per level.":"Zwiękrza prędkość uderzenia, zależnie od poziomu zaklęcia.",
+
+
+	"__Comment9.11__":"Auto-Feed",
+	"Auto-Feed :":"Karmnik :",
+	" fills your hunger bar every minute.":" Napełnia twój pasek głodu każdej minuty.",
+
+
+	"__Comment9.12__":"Auto-Smelt",
+	"Auto-Smelt :":"Auto-Piec :",
+	"smelts the blocks you're mining.":"Przetapia bloki które wykopałeś.",
+	"Compatible with \"Mining+ and Vein Miner\" ONLY for ores!":"Działa z \"Mining+ i Vein Miner\" tylko dla ród!",
+
+
+	"__Comment9.13__":"Big Path",
+	"Big Path :":"Ścieżkomania :",
+	"Generates a 3x3 path when you use a shovel.":"Kiedy użyjesz łopaty generuje 3x3 bloki ścieżki.",
+
+
+	"__Comment9.14__":"Dasher",
+	"Dasher :":"Szybcioch :",
+	" creates a harmful trail behind you when you run.":" Zostawia rażącą smugę za tobą kiedy biegniesz",
+	"Has a duration of 5 seconds.":"Trwa 5 sekund.",
+	"Has a duration of 10 seconds.":"Trwa 10 sekund.",
+	"To trigger it, you need to run for 5 seconds straight.":"Aby ją wywołać musisz biec przez 5 sekund prosto.",
+	"The trail has a limited duration and can be vanished if you stop running.":"Smuga ma limitowany czas trwania i może zniknąć kiedy się zatrzymasz.",
+
+
+	"__Comment9.15__":"Bloody Blade",
+	"Bloody Blade :":"Krwawe ostrze :",
+	"gives you a thirst for blood!":"Daje ci pragnienie krwi!",
+	"The more you kill entities consecutively in a short period of time, the stronger and faster you are.":"Im więcej zabijesz bytów pod rząd w któtkim przedziale czasu, szybszy i silniejszy jesteś.",
+	"The effects disappear quickly.":"Niestety, efekt ten szybko zanika.",
+	"Killing mobs increases the duration of the effects.":"Zabijanie bytów zwiękrza trwanie efektu.",
+
+	"__Comment9.16__":"Bright Vision",
+	"Bright Vision :":"Jasnowidzenie :",
+	" gives you unlimited night vision.":" daje ci nielimitowany efekt noktowizji.",
+
+
+	"__Comment9.17__":"Chopping",
+	"Chopping :":"Ścinak :",
+	" Allows to break wood related blocks in a 3x3 area.":" Pozwala ci zniszczyć drewno w na terenie 3x3.",
+
+
+	"__Comment9.18__":"Excavator",
+	"Excavator :":" Koparka 3000:",
+	" Allows to mine in a 3x3 area.":" Pozwala ci kopać pole 3x3.",
+	"Only for shovel related blocks.":"Tylko dla bloków dedykowanych łopacie.",
+
+
+	"__Comment9.19__":"Explosive",
+	"Explosive :":"Armatka :",
+	" Makes an explosion around the arrows you shoot.":" Generuje wybuch dookoła strzały którą wystrzeliłeś.",
+
+
+	"__Comment9.20__":"Fireball Wave",
+	"Fireball Wave :":"Ściana ognia :",
+	" make your arrows when they hit a mob or the ground, it'll create a ring of fireballs.":" Po uderzeniu strzałą w byt, generuje pierścień z ognistuch kul.",
+
+
+	"__Comment9.21__":"Flaming Skin",
+	"Flaming Skin :":"Przyjaciel Lawy :",
+	" let you see clearly below lava! To trigger it you must be submerged into lava and then press shift.":" Pozwala ci widzieć pod lawą! Aby to wywołać musisz być w całości zanurzony w lawie i przycisnąć shift'a.",
+	"Once this happens you can't move around for 3 seconds, after that there's a delay of 2 seconds to trigger this again.":"Kiedy to zrobisz nie możesz się poruszać przez 3 sekundy, po tym jest dwu sekundowa przerwa przed kolejną możliwością wywołania efektu.",
+	"A sound may help you to know when you can sneak to see in lava.":"Dźwięki mogą ci pomóc w szacowaniu kiedy możesz znowu popatrzeć pod lawą.",
+
+
+	"__Comment9.22__":"Grand Tilling",
+	"Grand Tilling :":"Zapalony Rolnik :",
+	"Generates a 3x3 farmland area when you use a hoe.":"Tworzy pole 3x3 zaoranej ziemi, kiedy użyjesz tej motyki.",
+
+
+	"__Comment9.23__":"Hardness+",
+	"Hardness+ :":"Ultratrwardość :",
+	"give you extra armor toughness.":"Dodaje do zbrojki dodatkową twardość.",
+
+
+	"__Comment9.24__":"Harvesting+",
+	"Harvesting+ :":"Rolnik 3000 :",
+	"While holding this hoe, every 3 minutes you'll get random vegetation items.":"Kiedy trzymasz motykę z tym zaklęciem, co każde 3 minuty dostaniesz losową roślię.",
+	"This depends on the dimension you're in.":"Zależnie od wymiaru w którym aktualnie przebywasz.",
+
+
+	"__Comment9.25__":"Haste",
+	"Haste :":"Pośpiech :",
+	", the faster you mine.":", kopiesz szybciej.",
+
+
+	"__Comment9.26__":"Last Life",
+	"Last Life :":"Ostatnia Deska Ratunku :",
+	"When your HP is low, an Automatic Healing is done.":"Kiedy masz mało punktów życia, automatyczna regeneracja zostaje włączona.",
+	"This doesn't mean it protect you against death!":"To nie znaczy, że zostaniesz na pewno ochroniony przed śmiercią!",
+	"CoolDown : 5 minutes.":"Następne użycie za 5 minut.",
+
+
+	"__Comment9.27__":"Last Stand",
+	"Last Stand :":"Ostatni Wdech :",
+	"Makes you stronger the lower hp you are.":"Im masz mniej hp, tym bardziej jesteś silniejszy.",
+
+
+	"__Comment9.28__":"Lava Walker",
+	"Lava Walker :":"Lawowy Piechur :",
+	"Allows you to walk on lava.":"Możesz chodzić po lawie.",
+
+
+	"__Comment9.29__":"Leaping",
+	"Leaping :":"Zwiękrzony Skok :",
+	", the higher you jump.":", Wyżej skaczesz.",
+
+
+	"__Comment9.30__":"Life+",
+	"Life+ :":"Life+ :",
+	"Level I to V.":"Poziomy od I do V.",
+	"Gives you extra hearts.":"Daje ci dodatkowe serduszka.",
+	"2 extra ♥♥ by Level of enchantment.":"2 dodatkowe ♥♥ za jeden poziom zaklęcia.",
+
+
+	"__Comment9.31__":"Life Steal",
+	"Life Steal :":"Vampir :",
+	"Drains the health of your enemy.":"Możesz uraść serca od swojego przeciwnika.",
+
+
+	"__Comment9.32__":"Magnet",
+	"Magnet :":"Magnes :",
+	"Attracts all items arround you within 7 blocks.":"Przyciągasz wszystkie przedmioty w promieniu 7 kratek.",
+
+
+	"__Comment9.33__":"Marine Grace",
+	"Marine Grace :":"Łaska Morza :",
+	"will spin your enemies, keeping them away with the help of a poweful current.":"Będzie kręcić twoich wrogów, trzymając ich z daleka za pomocą potężnego strumienia.",
+	": Has a 25% chance to trigger.":": Masz 25% szans, aby to wywołać.",
+	": Has a 50% chance to trigger.":": Masz 50% szans, aby to wywołać.",
+	"You must attack an entity while being ":"Musisz zaatakować swoich wrogów będąc ",
+	"inside water or during raining or thundering.":"w wodzie, lub w deszu albo burzy.",
+
+
+	"__Comment9.34__":"Mining+",
+	"Mining+ :":"Górnik 3000 :",
+	" Allows you to mine in a 3x3 area.":" Możesz wykopać teren 3x3 używając tego zaklęcia.",
+	"Only for pickaxe related blocks.":"Zaklęcie działa tylko na bloki dedykowane dla kilofa.",
+
+
+	"__Comment9.35__":"Multicolor",
+	"Multicolor :":"Multicolor :",
+	" makes that each time you shear a sheep, you can get a random color of wool.":" Kiedy tylko ostrzyrzesz owcę, dostaniesz losowy kolor wełny.",
+	"This enchantment doesn't work with dispensers!":"To zaklęcie nie działa z Dozownikiem!",
+	"You can ONLY get this enchantment if you have 30+ lvls, lapis lazuli and by throwing a book on the enchanting table.":"Możesz tylko pozyskać to zaklęcie kiedy masz 30+ poziomów, lazuryt i przez rzucenie książki nadstół do zaklęć.",
+
+
+	"__Comment9.36__":"Peaks",
+	"Peaks :":"Kolce :",
+	" makes that whenever you block a mob with this shield, the mob will take damage.":" Kiedy tylko osłonisz się tarczą, mob dostanie obrażenia.",
+
+
+	"__Comment9.37__":"Poison Aspect",
+	"Poison Aspect :":"Truciciel :",
+	": Inflicts a Poison I effect on the attacked monster.":": Nakłada efekt Zatrucia I na zaatakowanego moba.",
+	": Inflicts a Poison II effect on the attacked monster.":": Nakłada efekt Zatrucia II na zaatakowanego moba.",
+	"Level III ":"Poziom III ",
+	": Inflicts a Poison III effect on the attacked monster.":": Nakłada efekt Zatrucia III na zaatakowanego moba.",
+
+
+	"__Comment9.38__":"Recovery",
+	"Recovery :":"Odrodzenie :",
+	"make you heal faster if you take too much damage.":"Leczy cię szybko, jeśli dostaniesz dużo punktów obrażeń.",
+	": Gives you regeneration II for 5 seconds.":": Daje Regeneracje II na 5 sekund.",
+	": Gives you regeneration III for 3 seconds.":": Daje Regeneracje III na 3 sekundy.",
+
+
+	"__Comment9.39__":"Replant",
+	"Replant :":"Siewnik :",
+	"Allows you to plant grown crops automatically (includes wheat, potatoes, carrots, beetroot and nether wart).":"Pozwala ci zasiewać plony automatycznie (wliczając w to przenice, ziemniaki, marchewkę, buraki i netherowe brodawki).",
+	"You need to break the crops while holding this hoe!":"Aby tego użyć, musisz zniszczyć plon trzymając w ręce tą motykę!",
+
+
+	"__Comment9.40__":"Scyther",
+	"Scyther :":"Kosarz :",
+	": Breaks hoe related blocks within a 3x3 surface.":": Niszczy wszystkie bloki, które da się zniszczyć motyką w zasięgu 3x3.",
+	": Breaks hoe related blocks, crops and vegetation within a 3x3 area.":": Niszczy wszystkie bloki, które da się zniszczyć motyką i roślinność w zasięgu 3x3 .",
+	"Be careful! it will destroy any hoe related block (like leaves).":"Uważaj! Ta motyka niszczy wszystko! (nawet liście).",
+	" You can avoid this if you combined it with silk touch.":" Aby tego uniknąć zaklnij ją dodatkowo na Jedwabny Dotyk.",
+
+
+	"__Comment9.41__":"Shock Fangs",
+	"Shock Fangs :":"Oszołomiające Kolce :",
+	" make your arrows when they hit a mob or the ground, it'll generate evoker fangs with the \"blindness\" effect.":" Kiedy twoja strzała trafi byt lub trafi w ziemie generuje kolce przyzywacza z efektem \"Oślepienia\".",
+
+
+	"__Comment9.42__":"Sky Walk",
+	"Sky Walk :":"Podniebny Spacer :",
+	"Allows you to walk into the sky, sneak to go down!":"Pozwala ci wznieść się w powietrze, skradaj się aby zejść niżej!",
+	"-For this to happen you need to have at least":"-Aby to się stało musisz mieć co najmniej",
+	" 4 blocks":" 4 bloki",
+	" of air below you.":"powietrza pod sobą.",
+	"-If you also have \"leaping\" enchantment, then you need to have at least":"-Jeśli masz na sobie zaklęcie \"Zwiękrzony Skok\"",
+	" 8 blocks":" 8 bloków",
+	"This enchantment doesn't work if you wear an Elytra!":"To zaklęcie nie zadziała kiedy będziesz miał na sobie Elytrę!",
+
+
+	"__Comment9.43__":"Sniper",
+	"Sniper :":"Snajper :",
+	"When you shoot an arrow, the furthest it goes, the more damage it will do.":"Im dalej strzała leci, tym więcej zadaje obrażeń.",
+
+
+	"__Comment9.44__":"Soul Reaper",
+	"Soul Reaper :":"Żądza Krwi :",
+	": Damage 3 mobs in a 5 block radious.":": Rani 3 moby w promieniu 5 bloków.",
+	": Damage 5 mobs in a 7 block radious.":": Rani 5 mobów w promieniu 7 bloków.",
+	": Damage 7 mobs in a 9 block radious.":": Rani 7 mobów w promieniu 9 bloków.",
+	"To trigger this enchantment, you need to hold this hoe on your":"Aby zaklęcie zadziałało musisz trzymać motykę w",
+	" offhand.":" drugiej ręce.",
+	"The hoe will lose durability over time, so be careful.":"Motyka ztraci punkty twardości, więc bądź czujny.",
+
+
+	"__Comment9.45__":"Splatter",
+	"Splatter :":"Laser Wodny :",
+	"When equiped of your ":"Kiedy jesteś w nią wyposażony i trzymasz w ",
+	" offhand":" drugiej ręce",
+	", each time you right clic, it'll shoot a powerfull water beam that damages entities ignoring their armor.":", za każdym razem kiedy klikniesz prawym przyciskiem myszy, wystrzeli śmiercionośna wiązka wody, która rani byty ignorując zbroję.",
+	" For each enchantment level, the distance of the beam increases ":" Za każdy poziom zaklęcia, zwiękrza się zasięg wodnej wiązki. ",
+	"10 blocks":"10 bloków",
+	"To obtain this enchantment you need more than 20 levels on the enchanting table, or by fishing.":"Aby zdobyć to zaklęcie musisz mieć więcej niż 20 poziomów na stole do zaklęć, albo łowiąc.",
+	"Note that each time you use this fishing rod, it will lose it's durability regardless of unbreaking enchantment!":"Zauważ, że za każdym razem kiedy jej użyjesz, zmniejsza się twardość niezważając na zaklęcie Niezniszczalności!",
+
+
+	"__Comment9.46__":"Striker",
+	"Striker :":"Pioruner :",
+	"Each time you do a":"Za każdym razem gdy zrobisz",
+	" critical hit ":" criticala ",
+	"with this axe, you will have a ":"z tej siekiery, masz ",
+	"25% chance":"25% szans",
+	" to summon a lightning bolt your target.":" na przyzwanie błyskawicy na swój cel.",
+	": Summons only 1 lightning bolt.":": Przyzywa tylko 1 błyskawice.",
+	": Summons 1 row of lightning bolts behind your target.":": Przyzywa 1 rząd błyskawic za twoim celem.",
+	": Summons 3 rows of lightning bolts behind your target.":": Przyzywa 3 rzędy błyskawic za twoim celem.",
+
+
+	"__Comment9.47__":"Swim+",
+	"Swim+ :":"Żabie błonki :",
+	"allows you to swim faster. It gives the \"dolphin's grace\" effect.":"pozwala ci szybciej pływać. Daje ci \"Gracje Delfina\".",
+
+
+	"__Comment9.48__":"Timber",
+	"Timber :":"Drwal :",
+	"allows you to break the entire tree by only breaking one log or stem block. (This includes it's leaves).":"pozwala ci zniszczyć całe drzewo, niszcząc tylko jedą kłodę. (Wliczając w to liście).",
+
+
+	"__Comment9.49__":"Time Breaker",
+	"Time Breaker :":"Zakrzywienie Czasoprzestrzeni :",
+	"To trigger it, you need to ":"Aby wywołąć efekt, musisz ",
+	"crouch for 4 seconds":"skradać się przez 4 sekundy",
+	" without leaving the floor (like: jumping or staying at the edge of a block).":" dotykając ciągle ziemi (np: nie możesz skakać ani stać na skraju bloku).",
+	": Apply a slowness V and weakness I effects to entities within 8 block radius.":": Daje efekt Spowolnienia V i Słabości I na byty w promieniu 8 bloków.",
+	": Apply a slowness V, weakness II and mining fatigue I effects to entities within 12 block radius.":": Daje efekt Spowolnienia V i Słabości II na byty w promieniu 12 bloków.",
+	"It has a 3 second cooldown each time you trigger it!":"Ma trzy sekundowe opóźnienie przed następnym użyciem!",
+
+
+	"__Comment9.50__":"Transmission",
+	"Transmission :":"Taktyczny Odwrót :",
+	"Each time you hit a mob, it will have a chance to randomly ":"Za każdym razem kiedy uderzysz byt masz szansę, aby zostać losowo ",
+	"teleport aroud you.":"przeteleportowanym do okoła siebie.",
+	" For each enchantment level, the probability increases by ":" Dla każego poziomu wyżej szansa rośnie o ",
+	"5%":"5%",
+
+
+	"__Comment9.51__":"Turtle Stiffness",
+	"Turtle Stiffness :":"Żłówie Wsparcie :",
+	" will defelct arrows and tridents and prevent other projectiles hitting you.":" Wszystkie strzały, trójzęby i inne pociski zostaną powstrzymane przed uderzeniem w ciebie.",
+	"Turtle shells will protect you against any enemy nerby enemy for":"Skorupa żłówia ochroni cię przed każdym wrogiem blisko ciebie przez",
+	" 10 seconds.":" 10 sekund.",
+	"To trigger it: ":"Aby wywołać ten efekt musisz: ",
+	"Crouch while holding this shield in your offhand or mainhand and ":"Skradać się podczas trzymania tarczy w ręce, następnie",
+	"successfully block an attack.":" musisz tarczą zblokować atak wroga.",
+
+
+	"__Comment9.52__":"Vein Miner",
+	"Vein Miner :":"Vein Miner :",
+	" break all veins of minerals [This includes overworld and nether]":" Niszczy wszystkie rudy z żyły [Włączając w to rudy z świata podstawowego i netheru]",
+	"Is compatible with \"Auto Smelt\", \"Fortune\", \"Silk Touch\"":" Działa z \"Auto-Piec\", \"Szczęście\", \"Jedwabny Dotyk\"",
+
+
+	"__Comment9.53__":"Waterjet",
+	"Waterjet :":"Wystrzałowy Widelec :",
+	"Makes that when you throw a trident and if it hits a mob or a player, it will be sent up through the air (doesn't work inside water).":"Działa kiedy rzucisz trójząb w moba lub gracza, następnie wyrzuci byt w powietrze (nie działa w wodzie).",
+
+
+	"__Comment9.54__":"Xp Boost",
+	"Xp Boost :":"Grabież XP :",
+	"give you additional experience when you kill a mob.":"Dostajesz dodatkowe punkty doświadczenia, kiedy zabijesz byt.",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"__Comment10__":"Addon Information",
+	"Custom Addons:":"Customowe Dodatki:",
+	" Not detected":" Nie wykryto",
+	"Want more enchantments? You can download addons created for Technical Enchant+ Renewed":"Chcesz więcej zaklęć? Możesz pobrać dodatki stwożone przez Technical Enchant+ Renewed",
+	" Were detected":" Wykryto",
+	"Enjoy new enchantments, you can even create your own!":"Baw się nowymi zaklęciami, możesz również stworzyć własne!"
+}

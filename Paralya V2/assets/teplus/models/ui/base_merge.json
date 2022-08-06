@@ -1,0 +1,6 @@
+{
+    "parent": "teplus:ui/root_merge",
+    "textures": {
+        "texture": "teplus:ui/base_merge"
+    }
+}

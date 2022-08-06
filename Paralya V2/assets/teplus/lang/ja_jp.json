@@ -1,0 +1,1340 @@
+{
+	"__Credit__":"Made by: 龍吾トルティーヤ",
+	"CUSTOM ENCHANTMENTS":"カスタムエンチャント",
+	"__Comment__":"Second LORE for books",
+
+	"► Boots":"► ブーツ",
+	"► Leggings":"► レギンス",
+	"► Chestplate":"► チェストプレート",
+	"► Helmet":"► ヘルメット",
+	"► Shield":"► 盾",
+	"► Axe":"► 斧",
+	"► Pickaxe":"► ツルハシ",
+	"► Shovel":"► シャベル",
+	"► Hoe":"► クワ",
+	"► Sword":"► 剣",
+	"► Trident":"► トライデント",
+	"► Elytra":"► エリトラ",
+	"► Shears":"► ハサミ",
+	"► Fishing Rod":"► 釣竿",
+	"► Horse Armor":"► 馬鎧",
+	"► Bow":"► 弓",
+	"► Crossbow":"► クロスボウ",
+	"► Everything":"► すべての",
+
+
+	"__Comment__":"Second LORE for books (shared enchantments)",
+
+	"► Sword-Bow":"► 剣-弓",
+	"► Bow-Crossbow":"► 弓-クロスボウ",
+	"► Sword-Trident":"► 剣-トライデント",
+	"► Pickaxe-Axe-Shovel":"► ツルハシ-斧-シャベル",
+	"► Armor - Elytra - Shield":"► 鎧 - エリトラ - 盾",
+	"► Tools - Weapons":"► ツール - 武器",
+
+
+
+
+	"__Comment__":"General LORE enchantments for books and items",
+
+	"Accuracy Shot":"ストレートショット",
+	"Agility I":"迅速 I",
+	"Agility II":"迅速 II",
+	"Agility III":"迅速 III",
+	"Anti-Explosion":"防爆",
+	"Anti-Knockback I":"ノックバック耐性 I",
+	"Anti-Knockback II":"ノックバック耐性 II",
+	"Anti-Venom I":"抗毒 I",
+	"Anti-Venom II":"抗毒 II",
+	"Arachnid":"捕縛",
+	"Armored I":"装甲 I",
+	"Armored II":"装甲 II",
+	"Attack Speed I":"攻撃速度 I",
+	"Attack Speed II":"攻撃速度 II",
+	"Attack Speed III":"攻撃速度 III",
+	"Auto-Feed":"自動食料",
+	"Auto-Smelt":"自動製錬",
+	"Big Path":"大道",
+	"One Year Birthday!":"1周年おめでとう！",
+	"1 Year Birthday Potion":"1周年バースデーポーション",
+	"Bloody Blade":"ブラッディブレード",
+	"Bright Vision":"暗視",
+	"Chopping":"チョッピング",
+	"Dasher I":"ダッシャー",
+	"Dasher II":"ダッシャー",
+	"Excavator":"掘削機",
+	"Explosive":"爆裂",
+	"Fireball Wave":"炎波",
+	"Flaming Skin":"炎の肌",
+	"Grand Tilling":"耕うん機",
+	"Hardness+ I":"硬度 I",
+	"Hardness+ II":"硬度 II",
+	"Hardness+ III":"硬度 III",
+	"Harvesting+":"収穫",
+	"Haste I":"速攻 I",
+	"Haste II":"速攻 II",
+	"Last Life":"ラストライフ",
+	"Last Stand":"底力",
+	"Lava Walker":"溶岩渡り",
+	"Leaping I":"跳躍 I",
+	"Leaping II":"跳躍 II",
+	"Leaping III":"跳躍 III",
+	"Life+ I":"ハート I",
+	"Life+ II":"ハート II",
+	"Life+ III":"ハート III",
+	"Life+ IV":"ハート IV",
+	"Life+ V":"ハート V",
+	"Life Steal":"奪命",
+	"Magnet":"磁石",
+	"Marine Grace I":"マリングレイス I",
+	"Marine Grace II":"マリングレイス II",
+	"Mining+":"採掘",
+	"Multicolor":"多色",
+	"Peaks":"トゲ",
+	"Poison Aspect I":"毒 I",
+	"Poison Aspect II":"毒 II",
+	"Poison Aspect III":"毒 III",
+	"Recovery I":"緊急回復 I",
+	"Recovery II":"緊急回復 II",
+	"Replant":"植え替え",
+	"Scyther I":"収穫範囲強化 I",
+	"Scyther II":"収穫範囲強化 II",
+	"Shock Fangs":"ショックファング",
+	"Sky Walk":"空渡り",
+	"Sniper":"狙撃手",
+	"Soul Reaper I":"魂刈り I",
+	"Soul Reaper II":"魂刈り II",
+	"Soul Reaper III":"魂刈り III",
+	"Splatter I":"スプラッター I",
+	"Splatter II":"スプラッター II",
+	"Splatter III":"スプラッター III",
+	"Striker I":"落雷 I",
+	"Striker II":"落雷 II",
+	"Striker III":"落雷 III",
+	"Swim+":"速泳",
+	"Timber":"木こり",
+	"Time Breaker I":"タイムブレーカー I",
+	"Time Breaker II":"タイムブレーカー II",
+	"Transmission I":"小空間移動 I",
+	"Transmission II":"小空間移動 II",
+	"Transmission III":"小空間移動 III",
+	"Transmission IV":"小空間移動 IV",
+	"Transmission V":"小空間移動 V",
+	"Turtle Stiffness":"カメ盾",
+	"Vein Miner":"一括採掘",
+	"Waterjet":"水撃",
+	"Xp Boost I":"レベルブースト I",
+	"Xp Boost II":"レベルブースト II",
+	"Xp Boost III":"レベルブースト III",
+
+	"Curse of Fragile":"脆弱の呪い",
+	"Curse of Sensitive":"爆発の呪い",
+	"Curse of Slippery":"滑落の呪い",
+	
+
+	"__Comment__":"M u l t i c o l o r  LORE for books (each letter has a different color)",
+
+	"M":"多",
+	"u":"色",
+	"l":"",
+	"t":"",
+	"i":"",
+	"c":"",
+	"o":"",
+	"l":"",
+	"o":"",
+	"r":"",
+
+
+
+
+
+
+	"__Comment1__":"Config MENU information",
+
+	" | Settings MENU":" | 設定メニュー",
+	" Gameplay options:":" ゲームプレイオプション:",
+	" Configure the way the datapack works, like how to get and apply custom enchantments!":" カスタムエンチャントを取得して適用する方法など、データパックの動作方法を説明します.",
+	" Custom enchantments options:":" カスタムエンチャントオプション:",
+	" Enable and Disable the enchantments you want.":" 必要なエンチャントを有効または無効にします",
+	"Get Special Enchanted Books!":"特別な魔法の本を手に入れよう!",
+	"[SUPER]":"[スーパー]",
+	"[MEGA]":"[メガ]",
+	"[ULTRA]":"[ウルトラ]",
+	"Super Enchanted Book":"スーパーエンチャントの本",
+	"Mega Enchanted Book":"メガエンチャントの本",
+	"Ultra Enchanted Book":"ウルトラエンチャントの本",
+
+
+
+
+	"__Comment1__":"Gameplay config MENU information",
+
+	"                       GAMEPLAY OPTIONS MENU":"                       ゲームプレイオプションメニュー",
+	"Exceed vanilla enchantment level limit for books          ":"書籍のバニラエンチャントレベルの制限を超える                     ",
+	"Echanting system with enchanting table for books        ":"本のエンチャントシステム                                           ",
+	"Echanting system with enchanting table for items         ":"アイテムのエンチャントシステム                                     ",
+	"Combine an item with a custom enchanted book             ":"アイテムをカスタムエンチャントされた本と組み合わせる            ",
+	"Merge custom enchanted books in the Technical Anvil   ":"テクニカル金床でカスタムエンチャントされた本を併合する         ",
+	"Merge custom enchanted items in the Technical Anvil     ":"テクニカル金床でカスタムエンチャントされたアイテムを併合する   ",
+	"Extract enchantments using the Technical Anvil           ":"テクニカル金床を使用してエンチャントを抽出する                  ",
+	"Disenchant system using vanilla grindstone                ":"バニラ砥石でエンチャントを無くすシステム                          ",
+	"Soul Reaper affects entity:                          ":"ソウルリーパーは実体に影響を与える:                          ",
+	"Timber enchantment can break leaves                  ":"木こりエンチャントは木の葉っぱも壊せます                 ",
+	" [METHOD 1] ":" [方法 1] ",
+	" [METHOD 2] ":" [方法 2] ",
+	" [METHOD 3] ":" [方法 3] ",
+	" [METHOD 4] ":" [方法 4] ",
+	"Xp level cost to enchant with the Technical Anvil        ":"テクニカル金床でのエンチャントコスト                            ",
+	"1 Year Birthday potion                                      ":"1周年誕生日ポーション                                      ",
+	" Low performance mode                                 ":" 低パフォーマンスモード                                 ",
+	"[YES]":"[はい]",
+	"[NO]":"[いいえ]",
+
+
+
+
+	"__Comment1__":"Enchantments config MENU information",
+
+	"                       ENCHANTMENTS OPTIONS MENU":"                       エンチャントオプションメニュー",
+	"Agility":"迅速",
+	"Anti-Knockback":"防爆",
+	"Anti-Venom":"ノックバック耐性",
+	"Armored":"装甲",
+	"Attack Speed":"攻撃速度",
+	"Dasher":"ダッシャー",
+	"Hardness+":"硬度",
+	"Haste":"速攻",
+	"Leaping":"跳躍",
+	"Life+":"ハート+",
+	"Marine Grace":"マリングレイス",
+	"Poison Aspect":"毒",
+	"Recovery":"緊急回復",
+	"Scyther":"収穫範囲強化",
+	"Soul Reaper":"魂刈り",
+	"Splatter":"スプラッター",
+	"Striker":"落雷",
+	"Time Breaker":"タイムブレーカー",
+	"Transmission":"小空間移動",
+	"Xp Boost":"レベルブースト",
+
+	"__Comment1.1__":"Enchantments config MENU extra things",
+	"[ENABLED]":"[有効]",
+	" WARNING!!! THIS IS PERMANENT  ":" 警告！！！これは永続的です  ",
+	"Are you sure you want to enable this?":"これを有効にしてよろしいですか?",
+	"If you continue, each player is allowed to merge this enchantment book with its corresponding item.":"続行すると、各プレイヤーはこのエンチャントブックを対応するアイテムとエンチャントできます。",
+	" Even if you uninstall this datapack, items with this enchantment will continue to work!":" このデータパックをアンインストールしても、このエンチャントのあるアイテムは引き続き機能します。",
+	"[RETURN]":"[戻る]",
+	"[CONTINUE]":"[はい]",
+
+
+
+	"__Comment2__":"Blocks and Technical Anvil UI",
+
+	"Charged Bookshelf":"充電された本棚",
+	"Technical Anvil":"テクニカル金床",
+	"Place it down to merge or":"併合する",
+	"extract custom enchantments":"カスタムエンチャントを抽出する",
+
+
+	"Merging Mode":"併合モード",
+	"Use it as a normal anvil to":"通常の金床をつかって（テクニカル金床）",
+	"combine custom enchantments to your items!":"カスタムエンチャントをアイテムに組み合わせましょう!",
+	"Clic this icon to change Technical Anvil mode":"このアイコンをクリックして、テクニカル金床モードを変更します",
+	"Need 10 levels":"必要なレベル 10",
+	"Need 5 levels":"必要なレベル 5",
+	"Need 0 levels":"必要なレベル 0",
+	"Clic this item to combine":"このアイテムをクリックして組み合わせる",
+	"You cannot combine those items!":"それらのアイテムを組み合わせることはできません!",
+	"Error!":"エラー！",
+	"You cannot add that enchantment":"そのエンチャントを追加することはできません",
+	"to that item!":"そのアイテムに",
+	"You don't have enough Experience Levels!":"十分な経験値レベルがありません!",
+	
+
+	"Extracting Mode":"抽出モード",
+	"Place on the left any item with custom":"カスタムアイテムを左側に配置します",
+	"enchantments and on the right normal books":"エンチャントと右側の通常の本",
+	"Clic this item":"このアイテムをクリックする",
+	"to extract a custom enchantment":"カスタムエンチャントを抽出するには",
+	"This feature is":"この機能は",
+	"currently disabled!":"現在無効になっています",
+
+
+
+
+
+
+	"__Comment3__":"Advancements",
+
+	"__Comment3.1__":"General advancements",
+
+	"Technical Enchant+":"テクニカルエンチャント",
+	"Discover a new power of enchantments":"エンチャントの新しい力を発見する",
+
+    "Detailed Information":"詳細な情報",
+	"Drop a book and quill on top of a enchanting table":"エンチャントテーブルの上に本と羽ペンをドロップします",
+
+    "A bunch of enchantments":"たくさんのエンチャント",
+	"Obtain your first custom enchantment to see the other ones":"最初のカスタムエンチャントを取得して、他のエンチャントを確認します",
+
+	"Get this free potion from the Guide Book":"ガイドブックからこのポーションを無料で入手する",
+
+    "Charging the power":"電力を充電する",
+	"Get a charged bookshelf":"充電された本棚を入手する",
+
+    "Full enchanting power":"フルエンチャントパワー",
+	"Create a Tier 3 enchanting setup":"ティア3のエンチャントセットアップを作成する",
+
+    "Easy combining":"簡単に組み合わせる",
+	"Obtain a Technical Anvil":"テクニカル金床を入手する",
+
+    "Get back your enchantments":"エンチャントを取り戻す",
+	"Switch to extracting mode using the Technical Anvil UI":"テクニカル金床UIを使用して抽出モードに切り替えます",
+
+    "Customizable gameplay":"カスタム可能なゲームプレイ",
+	"You have accessed the config Menu":"設定メニューにアクセスしました",
+
+    "Feeling overpowered":"圧倒された感じ",
+	"Get every custom enchantment and curse":"すべてのカスタムエンチャントと呪いを手に入れよう",
+
+    "All that power at once":"そのすべての力を一度に",
+	"Why did you made this?":"なぜこれを作ったのですか？",
+
+    "Exceed the limit":"制限を超えました",
+	"Enable more enchantment level for vanilla books":"バニラのエンチャントレベルを上げる",
+
+	"Vanilla +":"バニラ",
+	"Get the 12 new max level enchantment books":"12の新しい最大レベルのエンチャントブックを入手",
+
+
+
+	"__Comment3.2__":"詳細セクション",
+
+	"Armor +":"アーマー",
+	"Over 18 enchantments":"18以上のエンチャント",
+	"Technical Helmet":"テクニカルヘルメット",
+	"Get every custom enchantment book for the helmet":"ヘルメットのすべてのカスタムエンチャントブックを入手してください",
+	"Technical Chestplate":"テクニカルチェストプレート",
+	"Get every custom enchantment book for the chestplate":"チェストプレートのすべてのカスタムエンチャントブックを入手してください",
+	"Technical Leggings":"テクニカルレギンス",
+	"Get every custom enchantment book for the leggings":"レギンスのすべてのカスタムエンチャントブックを入手",
+	"Technical Boots":"テクニカルブーツ",
+	"Get every custom enchantment book for the boots":"ブーツのすべてのカスタムエンチャントブックを入手してください",
+	"Technical Shield":"テクニカルシールド",
+	"Get every custom enchantment book for the shield":"シールドのカスタムエンチャントブックをすべて入手する",
+
+	"Weapons +":"武器",
+	"Over 16 more enchantments":"さらに16以上のエンチャント",
+	"Technical Bow":"テクニカル弓",
+	"Get every custom enchantment book for the bow":"弓のすべてのカスタムエンチャントブックを入手する",
+	"Technical Crossbow":"テクニカルクロスボウ",
+	"Get every custom enchantment book for the crossbow":"クロスボウのすべてのカスタムエンチャントブックを入手",
+	"Technical Sword":"テクニカル剣",
+	"Get every custom enchantment book for the sword":"剣のカスタムエンチャントブックをすべて入手する",
+	"Technical Trident":"テクニカルトライデント",
+	"Get every custom enchantment book for the trident":"トライデントのすべてのカスタムエンチャントブックを入手してください",
+
+	"Tools +":"ツール",
+	"Over 15 more enchantments":"さらに15以上のエンチャント",
+	"Technical Axe":"テクニカルアックス",
+	"Get every custom enchantment book for the axe":"斧のすべてのカスタムエンチャントブックを入手",
+	"Technical Hoe":"テクニカルクワ",
+	"Get every custom enchantment book for the hoe":"クワのすべてのカスタムエンチャントブックを入手",
+	"Technical Pickaxe":"テクニカルツルハシ",
+	"Get every custom enchantment book for the pickaxe":"つるはしのすべてのカスタムエンチャントブックを入手する",
+	"Technical Shovel":"テクニカルショベル",
+	"Get every custom enchantment book for the shovel":"シャベルのすべてのカスタムエンチャントブックを入手してください",
+
+	"Extra items":"追加アイテム",
+	"3 more enchantments":"さらに3つのエンチャント",
+	"Armored Enchantment":"装甲エンチャント",
+	"A bit of extra protection while you're flying":"飛行中の保護を少し強化する",
+	"Multicolor Enchantment":"マルチカラーエンチャント",
+	"Unlimited source of wool color":"ウールの色の無制限のソース",
+	"Splatter Enchantment":"スプラッタエンチャント",
+	"Water beam goes brrr":"水ビームが出ます",
+	"Technical Horse Armor":"テクニカルホースアーマー",
+	"Get every custom and vanilla enchantment book for any horse armor":"あらゆる馬の鎧のためのすべてのカスタムとバニラのエンチャントブックを入手してください",
+	"Frost Walker for horse armor":"馬の鎧のための氷渡り",
+	"A bit different from vanilla":"バニラとは少し違う",
+
+	"Better luck next time":"次回は頑張ってください",
+	"3 more custom curses":"さらに3つのカスタム呪い",
+	"Same as golden items":"ゴールデンアイテムと同じ",
+	"Has a lot of accumulated tension":"緊張が溜まっている",
+	"Do you have butter finguers now?":"今よく物を落とす人ーはいますか？",
+
+
+	"__Comment3.3__":"Enchantments description in Advancements",
+
+	"I'm fast, too fast":"私は速い、速すぎる",
+	"Very fast that it hurts":"痛いほど速い",
+	"Striders may not like this one":"ストライダーはこれを気に入らないかもしれません",
+	"Prevent unexpected falls":"予期しない転倒を防ぐ",
+	"Best under lava experience":"溶岩体験の下で最高",
+	"Tasteless but effective":"味がないが効果的",
+	"Purify your body":"あなたの体を浄化する",
+	"Basically double hearts":"基本的にダブルハート",
+	"Watch out harming your pets":"ペットに危害を加えることに注意してください",
+	"Your inventory may fill up faster":"在庫が早くいっぱいになる可能性があります",
+	"Illuminate your view":"あなたの味方を照らしてください",
+	"No more holes in the ground":"地面に穴はもうありません",
+	"Olympic swimmer":"オリンピック水泳選手",
+	"Feel like someone new":"新しい人のように感じる",
+	"Become the expert mountain climber":"熟練した登山家になる",
+	"Use it as a totem backup":"トーテムバックアップとして使用",
+	"Without any scratch":"傷なし",
+	"Become a real tank":"本物の戦車になる",
+	"Reinforced protection":"強化された保護",
+	"Harmful deflection":"有害なたわみ",
+	"Thunder God":"雷神",
+	"Be careful what you touch":"触れるものに注意してください",
+	"Carpentry wrecker":"カーペントリーレッカー",
+	"Don't waste fuel":"燃料を無駄にしないでください",
+	"Xp orbs stonks":"経験値オーブストック",
+	"Where did it go?":"どこに行ったの？",
+	"Remember to reforest":"再植林することを忘れないでください",
+	"Become the death stalker":"デスストーカーになる",
+	"Undergrowth remover":"下草除去剤",
+	"Master farmer":"マスターファーマー",
+	"Summon vegetation":"植生を召喚する",
+	"Optimize space":"スペースの最適化",
+	"Happy ore mining":"ハッピーな鉱石採掘",
+	"Easy tunnel bore":"簡単なトンネルボア",
+	"Create better roads":"より良い道路を作成する",
+	"Better terraformer":"より良いテラフォーマー",
+	"No gravity physics?":"重力物理学はありませんか?",
+	"Try to use it with responsibility, ok?":"責任を持って使ってみてくださいね、いい?",
+	"Easily trap your enemies":"敵を簡単に捕まえる",
+	"Send them to hell":"彼らを地獄に送ってください",
+	"Wait for the right moment":"適切な瞬間を待つ",
+	"Use a part of the evoker's magic":"エヴォーカーの魔法の一部を使う",
+	"Nothing is in my way":"私の邪魔になるものは何もない",
+	"Good old memories":"古き良き思い出",
+	"Feel my venom":"私の毒を感じて",
+	"Give me my health back!":"私に健康を取り戻してください",
+	"With honor until the end":"最後まで名誉をもって",
+	"The ocean charmer":"海の魅力",
+	"Prepare for the water drop":"水滴の準備",
+
+
+
+
+
+
+	"__Comment4__":"Tellraw Messages feedback",
+
+	" Items in your inventory have been updated to v6.0":" インベントリ内のアイテムがv6.0に更新されました",
+	" You have received":" 受け取りました",
+	" all max level":" すべての最大レベル",
+	" custom and vanilla enchantments!":" カスタムとバニラのエンチャント!",
+	"You have merged all custom enchantments, curses and exceeded vanilla enchantments at thier Max Level in one single book!":" すべてのカスタムエンチャント、呪い、バニラエンチャントを超えたものを、最大レベルで1冊の本に統合しました!",
+	" is ready, to protect you.":" は、あなたを保護するために、準備されています.",
+	" activated, wait 5 minutes to use it again!":" を起動し、5分待って再度使用します!",
+
+	"__Comment4.1__":"Give all command",
+
+	"Sword":"剣",
+	"Shield":"盾",
+	"Trident":"トライデント",
+	"Bow":"弓",
+	"Crossbow":"クロスボウ",
+	"Axe":"斧",
+	"Pickaxe":"ツルハシ",
+	"Shovel":"シャベル",
+	"Hoe":"クワ",
+	"Chestplate":"チェストプレート",
+	"Leggings":"レギンス",
+	"Boots":"ブーツ",
+	"Helmet":"ヘルメット",
+	"Max enchanted vanilla books":"マックスエンチャントされたバニラブック",
+
+	"Technical Enchanted Axe":"テクニカルエンチャントされた斧",
+	"Technical Enchanted Shovel":"テクニカルエンチャントショベル",
+	"Technical Enchanted Pickaxe":"テクニカルエンチャントされたツルハシ",
+	"Technical Enchanted Hoe":"テクニカルエンチャントクワ",
+	"Technical Enchanted Sword":"テクニカルエンチャントソード",
+	"Technical Enchanted Trident":"テクニカルエンチャントトライデント",
+	"Technical Enchanted Bow":"テクニカルエンチャントボウ",
+	"Technical Enchanted Crossbow":"テクニカルエンチャントクロスボウ",
+	"Technical Enchanted Helmet":"テクニカルエンチャントヘルメット",
+	"Technical Enchanted Chestplate":"テクニカルエンチャントチェストプレート",
+	"Technical Enchanted Leggings":"テクニカルエンチャントレギンス",
+	"Technical Enchanted Boots":"テクニカルエンチャントブーツ",
+	"Technical Enchanted Shield":"テクニカルエンチャントシールド",
+	"Technical Enchanted Elytra":"テクニカルエンチャントエリトラ",
+	"Technical Enchanted Shears":"テクニカルエンチャントハサミ",
+	"Technical Enchanted Fishing Rod":"テクニカルエンチャントフィッシングロッド",
+	"Technical Enchanted Leather Horse Armor":"テクニカルエンチャント革のホースアーマー",
+	"Technical Enchanted Iron Horse Armor":"テクニカルエンチャント鉄のホースアーマー",
+	"Technical Enchanted Golden Horse Armor":"テクニカルエンチャントされた金のホースアーマー",
+	"Technical Enchanted Diamond Horse Armor":"テクニカルエンチャントされたダイアモンドのホースアーマー",
+
+
+
+
+
+
+
+	"__Comment5__":"Guide Book item, (literally the book item)",
+
+	" TE+ Guide Book ":" ガイドブック ",
+
+	"__Comment5.1__":"Page 1",
+	"New Items":"新商品",
+	"Main Mechanics":"メインメカニックス",
+	"Enchanting":"魅惑的",
+	"rates":"レート",
+	
+
+	"__Comment5.2__":"Page 2",
+	"List of":"リスト",
+	"enchantments":"エンチャント",
+	"Additional":"追加",
+	"feature":"機能",
+	"Find":"検索",
+	"Admin Tools":"管理ツール",
+	"Credits":"クレジット",
+
+
+	"__Comment5.3__":"Page 3",
+	"Current datapack version:":"現在のデータパックのバージョン:",
+	"Compatible with  Minecraft 1.17+":"change  Minecraft 1.17+",
+	"Adds over 67 brand new enchantments for your tools, armor and weapons. With fully customisable gameplay.":"ツール、鎧、武器に67以上の新しいエンチャントを追加します。完全にカスタマイズ可能なゲームプレイを使用します。",
+	"(1 Year Birthday Potion)":"(1周年ポーション)",
+	"Celebrate the best party,":"最高のパーティを祝って",
+	"with cakes, candles, fireworks":"ケーキ、ろうそく、花火で",
+	"and balloons!":"そして風船",
+	" (2:00)":" (2:00)",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"__Comment6__":"LOAD - UNINSTALL message",
+	"Custom Villagers Module:":"カスタム村人モジュール:",
+	" Not installed":" インストールされていません",
+	"In case you want villagers to sell Custom Enchanted Books from TE+, clic ":"村人にカスタムエンチャントされた本を販売してもらいたい場合は、クリックしてください ",
+	"[HERE]":"[ここ]",
+	" to download ;)":" ダウンロードするには ;)",
+	" Installed":" インストール済み",
+	"Enjoy villagers selling most of Technical Enchant+ books!":"TechnicalEnchant+の本を販売している村人を楽しもう！",
+	" has been":" されている",
+	" uninstalled":" アンインストール",
+	" successfully.":" 正常に.",
+	"Be sure to remove it from your datapack folder!":"必ずデータパックフォルダから削除してください！",
+
+
+
+
+
+
+
+	"__Comment7__":"GENERAL GUIDE BOOK INFORMATION",
+	"__Comment7.1__":"New items",
+	"Charged Bookshelf:":"充電された本棚:",
+	" To obtain one you need to have at least ":" 取得するには、少なくとも ",
+	"8 lapis lazuli":"8ラピスラズリが必要です.",
+	" in your inventory and throw a normal bookshelf on the enchanting table.":" あなたのインベントリにあり、エンチャントテーブルに通常の本棚を投げます",
+
+	"Technical Anvil:":"テクニカル金床:",
+	"8 lapis blocks":"8ラピスラズリブロック",
+	" in your inventory and throw an ":" あなたのインベントリに入れて投げる ",
+	"UNDAMAGED anvil":"損傷を受けていない金床",
+	" on the enchanting table. You can remove it just by breaking the slab hitbox.":" エンチャントテーブルの上に。スラブヒットボックスを壊すだけで削除できます",
+
+
+
+
+	"__Comment7.2__":"Main Mechanics",
+	"[Enchanting Setup]:":"[エンチャントセットアップ]:",
+	" The enchanting setup let you obtain and enchant your items with new custom enchnatments. You can know more about this ":" 魅惑的なセットアップでは、新しいカスタムエンチャントでアイテムを取得してエンチャントできます。これについて説明します ",
+	"(Here)":"(ここ)",
+
+
+	"[Combine Enchantments]:":"[エンチャントを組み合わせる]:",
+	" You can use the Technical Anvil UI as the vanilla anvil to combine books with books, item with books or items with items. For this you must need to have at least":" テクニカル金床UIをバニラ金床として使用して、本と本、アイテムと本、またはアイテムとアイテムを組み合わせることができます。このためには、少なくとも",
+	" 10 levels.":" 10レベル.",
+
+
+	"[How to disenchant?]:":"[エンチャントを解除する方法は？]:",
+	" You can throw your enchanted item ":" あなたはあなたの魔法のアイテムを投げることができます ",
+	"on top of a grindstone":"砥石の上に",
+	" and all the enchantments are going to be removed.":" そしてすべてのエンチャントが削除されます.",
+	" Except curses!":" 呪いを除いて!",
+	"Alternatively, you can use":"または",
+	" Extracting Mode ":" 抽出モード ",
+	"from the technical anvil. ":"テクニカル金床から. ",
+	" Extracting Mode ":" 抽出モード ",
+	"[See more info]":"[詳細を見る]",
+
+
+
+
+
+
+	"__Comment7.2.1__":"Enchanting Setup",
+	"Enchanting Setup":"エンチャントセットアップ",
+	"You need to put the ":"あなたは置く必要があります ",
+	"charged bookshelves":"充電された本棚を",
+	" around the enchanting table, as you do it for vanilla. A max enchanting setup should look something like this:":" バニラの場合と同じように、エンチャントテーブルの周り。最大のエンチャントセットアップは次のようになります:",
+
+	"       Tier one:":"       ティア1:",
+	" 6 charged bookshelves":" 6つの充電された本棚",
+	"       Tier two:":"       ティア2:",
+	" 12 charged bookshelves":" 12本の充電された本棚",
+	"       Tier three:":"       ティア3:",
+	" 18 charged bookshelves":" 18本の充電された本棚",
+
+	"Each time you upgrade your enchanting setup Tier, a ":"エンチャントセットアップティアをアップグレードするたびに ",
+	"lapis lazuli item":"ラピスラズリアイテムが",
+	" will show up in the enchanting table.":" エンチャントテーブルに表示されます.",
+
+
+
+
+
+
+	"__Comment7.2.2__":"Extracting Mode",
+	"You can extract a":"あなたは抽出することができます",
+	" custom enchantment ":" カスタムエンチャント ",
+	"from your items using this Technical Anvil mode ":"このテクニカル金床モードを使用してアイテムから ",
+	"at no cost!":"無料で！!",
+	" You just need your enchanted item and some ":" あなたはあなたのエンチャントされたアイテムといくつかの ",
+	"normal books":"普通の本が",
+	"Note that the first enchantment in the Lore of the item":"アイテムの伝承の最初のエンチャントに注意してください",
+	" may not be ":" ではない可能性があります ",
+	"the one that you are currently extracting.":"現在抽出しているもの.",
+	"Custom curses":"カスタム呪い",
+	" and ":" と ",
+	"Vanilla enchantments":"バニラエンチャント",
+	" can't be extracted":" 抽出できません",
+
+
+
+
+
+
+	"__Comment7.3__":"Enchanting rates",
+	"To get or apply a ":"取得または適用するには ",
+	"Custom enchantment:":"カスタムエンチャントが:",
+	"You will need ":"必要になります ",
+	"levels":"レベル",
+	"lapis":"ラピスラズリ",
+	" (in your inventory).":" (インベントリ内)",
+	"Throw a book/item on an ":"本/アイテムを投げる ",
+	"enchanting table setup. ":"エンチャントテーブルのセットアップに ",
+	"That will consume the ":"それは消費します ",
+	"book/item,":"本/アイテム, ",
+	"levels,":"レベル,",
+	"and lapis.":"とラピスラズリ.",
+
+	"Level 10 to 19":"レベル10から19",
+	"Low enchantment.":"低いエンチャント.",
+	"Level 20 to 29":"レベル20から29",
+	"Average enchantment.":"平均エンチャント.",
+	"Level 30 to Infinity":"レベル30から無限",
+	"Strong enchantment.":"強力なエンチャント.",
+
+	"The rates :":"料金 :",
+	"Low enchantments":"低いエンチャント",
+	" will cost you":" 費用がかかります",
+	" 1 Level":" 1レベル",
+	"1 Lapis.":"1ラピス.",
+	"Average enchantments":"平均エンチャント",
+	" 2 Levels":" 2レベル",
+	"2 Lapis.":" 2ラピス.",
+	"Strong enchantments":"強力なエンチャント",
+	" 3 Levels":" 3レベル",
+	"3 Lapis.":" 3ラピス.",
+	"Notice that depending on your ":"あなたに応じて注意してください ",
+	"Enchanting Tiers":"エンチャントティア",
+	", you can obtain low, average or strong enchantments.":", あなたは低い、平均的な、または強いエンチャントを得ることができます。",
+
+
+
+
+
+
+	"__Comment7.4__":"Enchantments List",
+	"♦♦♦---||---||-- CUSTOM CURSES --||---||---♦♦♦":"♦♦♦---||---||-- カスタムカース --||---||---♦♦♦",
+	"►[GET MORE INFORMATION]◄":"►[詳細情報を取得]◄",
+
+	"♦♦♦---||---||-- WEAPON ENCHANTMENTS --||---||---♦♦♦":"♦♦♦---||---||-- 武器の強化 --||---||---♦♦♦",
+	"►[SWORD]   ":"►[剣]   ",
+	"►[TRIDENT]   ":"►[トライデント]   ",
+	"►[BOW]   ":"►[弓]   ",
+	"►[CROSSBOW]   ":"►[クロスボウ]   ",
+
+	"♦♦♦---||---||-- ARMOR ENCHANTMENTS --||---||---♦♦♦":"♦♦♦---||---||-- 鎧の強化 --||---||---♦♦♦",
+	"►[HELMET]   ":"►[ヘルメット]   ",
+	"►[CHESTPLATE]   ":"►[チェストプレート]   ",
+	"►[LEGGINGS]   ":"►[レギンス]   ",
+	"►[BOOTS]   ":"►[ブーツ]   ",
+	"►[SHIELD]":"►[盾]",
+
+	"♦♦♦---||---||-- TOOLS ENCHANTMENTS --||---||---♦♦♦":"♦♦♦---||---||-- ツールエンチャント --||---||---♦♦♦",
+	"►[PICKAXE]   ":"►[つるはし]   ",
+	"►[AXE]   ":"►[斧]   ",
+	"►[SHOVEL]   ":"►[シャベル]   ",
+	"►[HOE]":"►[クワ]",
+
+	"♦♦♦---||---||-- EXTRA ENCHANTMENTS --||---||---♦♦♦":"♦♦♦---||---||-- 追加のエンチャント --||---||---♦♦♦",
+	"►[ELYTRA]   ":"►[エリトラ]   ",
+	"►[FISHING ROD]   ":"►[釣り竿]   ",
+	"►[HORSE ARMOR]   ":"►[馬の鎧]   ",
+	"►[SHEARS]   ":"►[ハサミ]   ",
+
+
+
+
+
+
+
+	"__Comment7.5__":"Additional Feature",
+	"\"This option is disabled by default\"":"\"このオプションはデフォルトで無効になっています\"",
+	"(You can enable it with Admin Tools Commands)":"(管理ツールコマンドで有効にできます)",
+	"By placing ":"配置することにより ",
+	"two same (MAXED OUT) vanilla enchanted books ":"2冊の同じ（限界に達した）バニラエンチャントされた本 ",
+	"in the technical anvil, you can obtain an enchantment level higher than in vanilla!":"テクニカル金床では、バニラよりも高いエンチャントレベルを得ることができます!",
+	" Then, you can apply that book to the item using the Technical Anvil.":" 次に、テクニカル金床を使用してその本をアイテムに適用できます.",
+
+	"Efficiency ----> ":"効率 ----> ",
+	" Up to lvl 6":" レベル6まで",
+	"Feather Falling ----> ":"落下耐性 ----> ",
+	" Up to lvl 5":" レベル5まで",
+	"Fortune ----> ":"幸運 ----> ",
+	" Up to lvl 4":" レベル4まで",
+	"Impaling ----> ":"水生特効 ----> ",
+	"Looting ----> ":"ドロップ増加 ----> ",
+	"Luck of the Sea ----> ":"宝釣り ----> ",
+	"Lure ----> ":"入れ食い ----> ",
+	"Power ----> ":"射撃ダメージ増加 ----> ",
+	"Protection ----> ":"飛び道具耐性 ----> ",
+	"Respiration ----> ":"水中呼吸 ----> ",
+	"Sharpness ----> ":"ダメージ増加 ----> ",
+	" Up to lvl 7":" レベル7まで",
+	"Unbreaking ----> ":"耐久力 ----> ",
+
+
+
+
+
+
+	"__Comment7.6__":"Find Enchantments",
+	"You can ":"あなたは ",
+	"find SOME enchantments Naturally":"自然にいくつかのエンチャントを見つけられる",
+	" without going through the enchanting table:":" エンチャントテーブルを見つける",
+	"There are three ways to get one:":"1つを取得するには3つの方法があります:",
+	"- killing monsters ":"- モンスターを殺す ",
+	"(Rare Drops, only using looting III)":"(レアドロップ、略奪IIIのみを使用)",
+	"- Exploring structures ":"- 構造の探索 ",
+	"(In chests)":"(チェスト内)",
+	"- And by fishing ":"- そして釣りで ",
+	"(Treasure Drops)":"(宝物ドロップ)",
+	"The Strucutres and Mobs will have ":"スケルトンとモブが持っている",
+	"Themed enchantments.":"テーマのエンチャント",
+	"Enchantments":"エンチャント",
+	" are unique to Structures Executed by the loot-table.":" 戦利品テーブルによって実行される構造に固有です.",
+	"Example:":"例:",
+	"The chests of the Nether Fortresses can contain ":"ネザー要塞のチェストには",
+	"Lava Walker.":"溶岩ウォーカー.",
+	"Evokers may drop ":"エヴォーカーが落ちるかもしれない ",
+	"Shock Fangs.":"ショックファング",
+
+
+
+
+
+
+	"__Comment7.7__":"Admin Tools",
+	"If you have ACCESS TO COMMANDS, you can type in the chat: ":"コマンドにアクセスできる場合は、チャットに次のように入力できます: ",
+	"[This command]":"[このコマンド]",
+	" To get a barrel full with ":" で樽いっぱいにすること。 ",
+	"all custom enchantments!":"すべてのカスタムエンチャント!",
+	" And items already enchanted at their max level.":" そして、アイテムはすでに最大レベルでエンチャントされています.",
+	" To uninstall the datpack. Keep in mind that items with: ":" datpackをアンインストールします。次のアイテムがあることに注意してください: ",
+	"Life+, Agility, Attack Speed, Anti-Knockback, Hardness+, Armored, or exceeded vanilla enchantment levels. ":"ライフ+、敏捷性、攻撃速度、アンチノックバック、ハードネス+、装甲、またはバニラエンチャントレベルを超えました.",
+	"Are still going to work after using this command.":"このコマンドを使用した後も引き続き機能します.",
+	" To change the datapack configuration as you want. ":" 要に応じてデータパック構成を変更します.",
+	" Format, to enchant a held item using commands.":" フォーマット、コマンドを使用して保有アイテムをエンチャントする.",
+	" Be aware that the Lore and Attributes will be overwritten.":" 伝承と属性が上書きされることに注意してください.",
+	"Error! ":"エラー! ",
+	"You can't add this enchantment to this item":"このアイテムにはエンチャントを付けられません",
+	"This enchantment is already present in this item":"このエンチャントはこのアイテムに既に存在しています",
+
+
+
+
+
+
+
+
+
+	"__Comment8__":"GUIDE BOOK enchantments list sub-menu",
+	"__Comment8.1__":"Custom Curses",
+	"===>> Custom Curses <<===":"===>> カスタム呪い <<===",
+	"These curses can only be obtained from the enchanting table with more than 10 levels. As vanilla curses, these custom curses":"これらの呪いは、10レベル以上のエンチャントテーブルからしか手に入りません。バニラの呪いとして、これらのカスタムの呪い",
+	" can't be disenchanted!":" エンチャント出来ません!",
+	"- Fragile":"- 脆弱",
+	"- Sensitive":"- 爆発",
+	"- Slippery":"- 滑落",
+
+
+
+	"__Comment8.2__":"Sword enchantments",
+	"===>> Sword Custom Enchantments <<===":"===>> 剣のカスタムエンチャント <<===",
+	"- Anti Explosion":"- 防爆",
+	"- Attack Speed":"- 攻撃速度",
+	"- Bloody Blade":"- ブラッディブレード",
+	"- Last Stand":"- 底力",
+	"- Life Steal":"- 奪命",
+	"- Poison Aspect":"- 毒",
+	"- Xp Boost":"- レベルブースト",
+
+
+
+	"__Comment8.3__":"Trident enchantments",
+	"===>> Trident Custom Enchantments <<===":"===>> トライデントカスタムエンチャント <<===",
+	"- Marine Grace":"- マリングレイス",
+	"- Waterjet":"- 水撃",
+
+
+
+	"__Comment8.4__":"Bow enchantments",
+	"===>> Bow Custom Enchantments <<===":"===>> 弓カスタムエンチャント <<===",
+	"- Accuracy Shot":"- ストレートショット",
+	"- Arachnid":"- 捕縛",
+	"- Explosive":"- 爆裂",
+
+
+
+
+	"__Comment8.5__":"Crossbow enchantments",
+	"===>> Crossbow Custom Enchantments <<===":"===>> クロスボウカスタムエンチャント <<===",
+	"- Fireball Wave":"- 炎波",
+	"- Shock Fangs":"- ショックファング",
+	"- Sniper":"- 狙撃手",
+
+
+
+
+	"__Comment8.6__":"Helmet enchantments",
+	"===>> Helmet Custom Enchantments <<===":"===>> ヘルメットカスタムエンチャント <<===",
+	"- Bright Vision":"- 暗視",
+	"- Magnet":"- 磁石",
+	"- Time Breaker":"- タイムブレーカー",
+
+
+
+	"__Comment8.7__":"Chestplate enchantments",
+	"===>> Chestplate Custom Enchantments <<===":"===>> チェストプレートカスタムエンチャント <<===",
+	"- Anti Venom":"- 抗毒",
+	"- Auto Feed":"- 自動食料",
+	"- Flaming Skin":"- 炎の肌",
+	"- Life+":"- ハート",
+
+
+
+	"__Comment8.2__":"Leggings enchantments",
+	"===>> Leggings Custom Enchantments <<===":"===>> レギンスカスタムエンチャント <<===",
+	"- Last Life":"- ラストライフ",
+	"- Leaping":"- 跳躍",
+	"- Recovery":"- 緊急回復",
+	"- Swim+":"- 速泳",
+
+
+
+	"__Comment8.3__":"Boots enchantments",
+	"===>> Boots Custom Enchantments <<===":"===>> ブーツカスタムエンチャント <<===",
+	"- Agility":"- 迅速",
+	"- Dasher":"- ダッシャー",
+	"- Lava Walker":"- 溶岩渡り",
+	"- Sky Walk":"- 空渡り",
+
+
+
+	"__Comment8.4__":"Shield enchantments",
+	"===>> Shield Custom Enchantments <<===":"===>> シールドカスタムエンチャント <<===",
+	"- Anti Knockback":"- ノックバック耐性",
+	"- Hardness+":"- 硬度",
+	"- Peaks":"- トゲ",
+	"- Turtle Stiffness":"- カメ盾",
+
+
+
+	"__Comment8.5__":"Pickaxe enchantments",
+	"===>> Pickaxe Custom Enchantments <<===":"===>> ツルハシカスタムエンチャント <<===",
+	"- Auto Smelt":"- 自動製錬",
+	"- Haste":"- 速攻",
+	"- Mining+":"- 採掘",
+	"- Vein Miner":"- 一括採掘",
+
+
+
+
+	"__Comment8.6__":"Axe enchantments",
+	"===>> Axe Custom Enchantments <<===":"===>> 斧カスタムエンチャント <<===",
+	"- Chopping":"- チョッピング",
+	"- Striker":"- 落雷",
+	"- Timber":"- 木こり",
+	"- Transmission":"- 小空間移動",
+
+
+
+
+	"__Comment8.7__":"Shovel enchantments",
+	"===>> Shovel Custom Enchantments <<===":"===>> シャベルカスタムエンチャント <<===",
+	"- Big Path":"- 大道",
+	"- Excavator":"- 掘削機",
+
+
+
+
+	"__Comment8.3__":"Hoe enchantments",
+	"===>> Hoe Custom Enchantments <<===":"===>> クワカスタムエンチャント <<===",
+	"- Grand Tilling":"- 耕うん機",
+	"- Harvesting+":"- 収穫",
+	"- Replant":"- 植え替え",
+	"- Scyther":"- 収穫範囲強化",
+	"- Soul Reaper":"- 魂刈り",
+
+
+
+
+	"__Comment8.4__":"Shears enchantments",
+	"===>> Shears Custom Enchantments <<===":"===>> ハサミカスタムエンチャント <<===",
+	"- Multicolor":"- 多色",
+
+
+
+	"__Comment8.5__":"Elytra enchantments",
+	"===>> Elytra Custom Enchantments <<===":"===>> エリトラカスタムエンチャント <<===",
+	"- Armored":"- 装甲",
+
+
+
+	"__Comment8.6__":"Fishing Rod enchantments",
+	"===>> Fishing Rod Custom Enchantments <<===":"===>> 釣り竿のカスタムエンチャント <<===",
+	"- Splatter":"- スプラッター",
+
+
+
+	"__Comment8.7__":"Horse Armor enchantments",
+	"===>> Horse Armor Custom Enchantments <<===":"===>> 馬の鎧カスタムエンチャント <<===",
+	"Now you can apply ":"今、あなたは適用することができます ",
+	"\"Frost Walker enchantment\"":"\"氷渡りエンチャント",
+	" to any horse armor. Just combine it using the Technical Anvil.":" どんな馬の鎧にも。テクニカル金床使って組み合わせるだけです.",
+
+
+
+
+
+
+
+
+
+
+	"__Comment9__":"Enchantments descriptions",
+
+
+	"__Comment9.1__":"Curse of Fragile",
+	"Curse":"呪い",
+	"Fragile :":"壊れやすい :",
+	"Every item is going to lose more durability each time you use the item. Unbreaking enchantment may counter this curse.":"あらゆるアイテムは、そのアイテムを使うたびに耐久力が低下していく。解呪エンチャントがこの呪いを打ち消すことがある.",
+
+
+	"__Comment9.2__":"Curse of Fragile",
+	"Sensitive :":"感応 :",
+	"Each time you take damage, you have a small probability to explode. This curse is cumulative, be careful when wearing more than one armor piece.":"ダメージを受けるたびに、わずかな確率で爆発する。この呪いは累積される、複数の鎧を身につけるときは注意.",
+	"Also, if you use a shield with this curse, each time it loses durability you have a chance to age, you have a small probability to explode.":"また、この呪いのかかった盾を使用すると、耐久力がなくなるたびに、わずかな確率で爆発する.",
+
+
+	"__Comment9.3__":"Curse of Fragile",
+	"Slippery :":"滑りやすい（滑落） :",
+	"When using an item, you'll have a small chance to drop it in front of you. A sound is going to play when this happens.":"アイテム使用時、わずかな確率でアイテムを手前に落とします。この時、音が鳴ります.",
+
+
+	"__Comment9.4__":"Accuracy Shot",
+	"Enchantment":"エンチャント",
+	"Accuracy Shot :":"ストレートショット :",
+	"The arrows you shoot are no longer affected by gravity , it stays straight.":"射る矢が重力の影響を受けなくなった、まっすぐのままだ.",
+
+
+	"__Comment9.5__":"Agility",
+	"Agility :":"敏捷性(迅速) :",
+	"It goes from ":"から ",
+	"Level":"レベル",
+	"The Higher the ":"高ければ高いほど ",
+	", the faster you run.":", 速く走れる.",
+
+
+	"__Comment9.6__":"Anti-Explosion",
+	"Anti-Explosion :":"アンチ爆発（防爆） :",
+	"All Creepers and TNT nearby you, can't explode while using this enchantment.":"このエンチャントを使用している間、あなたの近くにいる全てのクリーパーとTNTは爆発しない.",
+
+
+	"__Comment9.7__":"Anti-Explosion",
+	"Anti-Knockback :":"ノックバック耐性 :",
+	"Level I to II.":"レベルIからIIへ.",
+	"This ":"この ",
+	"enchantment ":"エンチャント ",
+	"Transforms you into a real tank,":"本物の戦車に変身する,",
+	" ignoring most of the effects of knockback, if you wear ":" ノックバックの効果をほとんど無視する、もしあなたが",
+	"full nehterite armor set with this shield!":"この盾とフルーネザーライトアーマーならば!",
+
+
+	"__Comment9.8__":"Anti-Venom",
+	"Anti-Venom :":"抗毒 :",
+	"Level I to II.":"レベルIからIIへ.",
+	"Level I ":"レベルⅠ ",
+	"Remove the Poison and wither effects.":"毒とウィザーの効果を取り除く.",
+	"Level II ":"レベルII ",
+	"Remove the slowness and weakness effects.":"鈍化と弱体化の効果を取り除く.",
+
+
+	"__Comment9.9__":"Arachnid",
+	"Arachnid :":"クモ糸(捕縛) :",
+	"When a the arrow lands, it generates a group od cobwebs.":"矢が着弾すると、クモの巣の群れを生成する.",
+	"If the arrow hits a mob, it will pull it down the ground and generate the group of cobwebs arround it.":"矢がモブに当たると、モブを地面に引きずり下ろし、その周りにクモの巣を発生させます. ",
+
+
+	"__Comment9.9__":"Armored",
+	"Armored :":"装甲 :",
+	": Adds 2 armor points to your Elytra.":": エリトラにアーマーポイントを2つ追加する.",
+	": Adds 4 armor points to your Elytra.":": エリトラに4アーマーポイントを追加します. ",
+	"You can ONLY get \"Armored I\" through the enchanting table if you have ":":エンチャントテーブルで \"装甲 I\" を手に入れられるのは ",
+	" more than 30 levels.":": 30レベル以上でないと手に入らない. ",
+	" You may have a better chance by exploring":": 探索することでより良いチャンスがあるかもしれない",
+	" End city's loot.":": エンドシティの戦利品.",
+
+
+	"__Comment9.10__":"Attack Speed",
+	"Attack Speed :":"攻撃速度 :",
+	"It increases your attack speed, per level.":"レベル毎に、攻撃速度が上昇します.",
+
+
+	"__Comment9.11__":"Auto-Feed",
+	"Auto-Feed :":"自動食料 :",
+	" fills your hunger bar every minute.":" 1分ごとに空腹バーを満たす.",
+
+
+	"__Comment9.12__":"Auto-Smelt",
+	"Auto-Smelt :":"自動製錬 :",
+	"smelts the blocks you're mining.":"採掘中のブロックを錬成します.",
+	"Compatible with \"Mining+ and Vein Miner\" ONLY for ores!":"互換性あり \"採掘＋鉱石採掘に対応\" 鉱石専用!",
+
+
+	"__Comment9.13__":"Big Path",
+	"Big Path :":"ビッグパス(大道) :",
+	"Generates a 3x3 path when you use a shovel.":"ショベルを使用した際に3x3の道を生成します.",
+
+
+	"__Comment9.14__":"Dasher",
+	"Dasher :":"ダッシャー :",
+	" creates a harmful trail behind you when you run.":" あなたが走るとあなたの後ろに有害な道を作ります",
+	"Has a duration of 5 seconds.":"持続時間は5秒.",
+	"Has a duration of 10 seconds.":"持続時間は10秒.",
+	"To trigger it, you need to run for 5 seconds straight.":"発動するには5秒間の連続走行が必要.",
+	"The trail has a limited duration and can be vanished if you stop running.":"持続時間は限られており、走るのをやめれば消滅する.",
+
+
+	"__Comment9.15__":"Bloody Blade",
+	"Bloody Blade :":"ブラッディブレード :",
+	"gives you a thirst for blood!":"血への渇望を与える!",
+	"The more you kill entities consecutively in a short period of time, the stronger and faster you are.":"短時間に連続して敵を殺すほど、強く、速くなる.",
+	"The effects disappear quickly.":"効果はすぐに消える.",
+	"Killing mobs increases the duration of the effects.":"モブを殺すと効果時間が伸びる.",
+
+
+	"__Comment9.16__":"Bright Vision",
+	"Bright Vision :":"暗視 :",
+	" gives you unlimited night vision.":" あなたは無制限に夜間視界を得ることができる.",
+
+
+	"__Comment9.17__":"Chopping",
+	"Chopping :":"チョッピング :",
+	" Allows to break wood related blocks in a 3x3 area.":" 3×3の範囲で木材関連のブロックを壊せるようにする.",
+
+
+	"__Comment9.18__":"Excavator",
+	"Excavator :":"掘削機 :",
+	" Allows to mine in a 3x3 area.":" 3x3の領域で採掘できるようにします.",
+	"Only for shovel related blocks.":"ショベル関連のブロックにのみ対応.",
+
+
+	"__Comment9.19__":"Explosive",
+	"Explosive :":"爆裂 :",
+	" Makes an explosion around the arrows you shoot.":" 射た矢の周囲に爆発を起こす.",
+
+
+	"__Comment9.20__":"Fireball Wave",
+	"Fireball Wave :":"炎の波(炎波) :",
+	" make your arrows when they hit a mob or the ground, it'll create a ring of fireballs.":" あなたの矢がモブや地面に当たった時、火の玉の輪を作る.",
+
+
+	"__Comment9.21__":"Flaming Skin",
+	"Flaming Skin :":"炎の肌 :",
+	" let you see clearly below lava! To trigger it you must be submerged into lava and then press shift.":" 岩の下をはっきりと見ることができるようになります! 発動するには溶岩の中に潜り込み、シフトを押す必要があります.",
+	"Once this happens you can't move around for 3 seconds, after that there's a delay of 2 seconds to trigger this again.":"一度これが起こると3秒間動き回ることができず、その後2秒間の遅延があり、再びこれを発動させることができます.",
+	"A sound may help you to know when you can sneak to see in lava.":"溶岩の中でこっそり見ることができるタイミングを音で知らせることができるかもしれません.",
+
+
+	"__Comment9.22__":"Grand Tilling",
+	"Grand Tilling :":"耕うん機 :",
+	"Generates a 3x3 farmland area when you use a hoe.":"クワを使うと3×3の農地エリアを生成する.",
+
+
+	"__Comment9.23__":"Hardness+",
+	"Hardness+ :":"硬度 :",
+	"give you extra armor toughness.":"装備品の強靭さを増加させる.",
+
+
+	"__Comment9.24__":"Harvesting+",
+	"Harvesting+ :":"収穫 :",
+	"While holding this hoe, every 3 minutes you'll get random vegetation items.":"このクワを持っている間、3分ごとにランダムな植生アイテムを得ることができます.",
+	"This depends on the dimension you're in.":"これはあなたがいる世界に依存します.",
+
+
+	"__Comment9.25__":"Haste",
+	"Haste :":"速攻 :",
+	", the faster you mine.":", 採掘が速くなる.",
+
+
+	"__Comment9.26__":"Last Life",
+	"Last Life :":"ラストライフ :",
+	"When your HP is low, an Automatic Healing is done.":"HPが少なくなると、自動回復が行われます.",
+	"This doesn't mean it protect you against death!":"これは死から守ってくれるわけではありません!",
+	"CoolDown : 5 minutes.":"クールダウン時間：5分",
+
+
+	"__Comment9.27__":"Last Stand",
+	"Last Stand :":"底力 :",
+	"Makes you stronger the lower hp you are.":"HPが低いほど強くなる.",
+
+
+	"__Comment9.28__":"Lava Walker",
+	"Lava Walker :":"溶岩渡り :",
+	"Allows you to walk on lava.":"溶岩の上を歩けるようになる.",
+
+
+	"__Comment9.29__":"Leaping",
+	"Leaping :":"跳躍 :",
+	", the higher you jump.":", 高くジャンプできる.",
+
+
+	"__Comment9.30__":"Life+",
+	"Life+ :":"ハート+ :",
+	"Level I to V.":"レベルIからVまで.",
+	"Gives you extra hearts.":"ハートを追加で貰える.",
+	"2 extra ♥♥ by Level of enchantment.":"エンチャントのレベルにより ♥♥ 2つ余分に.",
+
+
+	"__Comment9.31__":"Life Steal",
+	"Life Steal :":"奪命 :",
+	"Drains the health of your enemy.":"敵の体力を消耗させる.",
+
+
+	"__Comment9.32__":"Magnet",
+	"Magnet :":"磁石 :",
+	"Attracts all items arround you within 7 blocks.":"7ブロック以内の周囲のアイテムを全て引き寄せる.",
+
+
+	"__Comment9.33__":"Marine Grace",
+	"Marine Grace :":"マリングレース :",
+	"will spin your enemies, keeping them away with the help of a poweful current.":"強力な電流の助けを借りて、敵を遠ざけ、回転させる.",
+	": Has a 25% chance to trigger.":": 25%の確率で発動する.",
+	": Has a 50% chance to trigger.":": 50%の確率で発動する.",
+	"You must attack an entity while being ":"である間に敵を攻撃する必要があります。 ",
+	"inside water or during raining or thundering.":"水中、雨天、雷雨のとき.",
+
+
+	"__Comment9.34__":"Mining+",
+	"Mining+ :":"採掘 :",
+	" Allows you to mine in a 3x3 area.":" 3x3のエリアで採掘できるようにする.",
+	"Only for pickaxe related blocks.":"ツルハシ関連のブロックのみ.",
+
+
+	"__Comment9.35__":"Multicolor",
+	"Multicolor :":"多色 :",
+	" makes that each time you shear a sheep, you can get a random color of wool.":" は、羊の毛を刈るたびにランダムな色の羊毛を得ることができるようにする.",
+	"This enchantment doesn't work with dispensers!":"このエンチャントはディスペンサーでは使えない!",
+	"You can ONLY get this enchantment if you have 30+ lvls, lapis lazuli and by throwing a book on the enchanting table.":"このエンチャントはLv30以上でラピスラズリを持ち、本をエンチャントテーブルに投げないと手に入りません.",
+
+
+	"__Comment9.36__":"Peaks",
+	"Peaks :":"トゲ :",
+	" makes that whenever you block a mob with this shield, the mob will take damage.":" シフトキーを使うと、この盾でMobをブロックするたびに、そのMobがダメージを受けるようになる.",
+
+
+	"__Comment9.37__":"Poison Aspect",
+	"Poison Aspect :":"ポイズンアスペクト(毒) :",
+	": Inflicts a Poison I effect on the attacked monster.":": 攻撃されたモンスターにポイズンIの効果を与える.",
+	": Inflicts a Poison II effect on the attacked monster.":": 攻撃したモンスターに毒IIの効果を与える.",
+	"Level III ":"レベルIII ",
+	": Inflicts a Poison III effect on the attacked monster.":": 攻撃したモンスターに毒IIIの効果を与える.",
+
+
+	"__Comment9.38__":"Recovery",
+	"Recovery :":"緊急回復 :",
+	"make you heal faster if you take too much damage.":"ダメージを受けすぎた時に回復を早める.",
+	": Gives you regeneration II for 5 seconds.":": 5秒間、再生IIを付与する.",
+	": Gives you regeneration III for 3 seconds.":": 3秒間再生IIIを与えます.",
+
+
+	"__Comment9.39__":"Replant",
+	"Replant :":"植え替え :",
+	"Allows you to plant grown crops automatically (includes wheat, potatoes, carrots, beetroot and nether wart).":"成長した作物を自動的に植えることができる(小麦、ジャガイモ、ニンジン、ビートルート、ネザーイボを含む).",
+	"You need to break the crops while holding this hoe!":"このクワを持ちながら作物を割ってください!",
+
+
+	"__Comment9.40__":"Scyther",
+	"Scyther :":"収穫範囲強化 :",
+	": Breaks hoe related blocks within a 3x3 surface.":": 3x3の面内の鍬に関連するブロックを壊す.",
+	": Breaks hoe related blocks, crops and vegetation within a 3x3 area.":": 3×3面内の鍬関連ブロック、作物、植物を破壊する.",
+	"Be careful! it will destroy any hoe related block (like leaves).":"注意！鍬に関連するブロック(葉っぱなど)を破壊します.",
+	" You can avoid this if you combined it with silk touch.":" シルクタッチと組み合わせれば回避できる.",
+
+
+	"__Comment9.41__":"Shock Fangs",
+	"Shock Fangs :":"ショックファング :",
+	" make your arrows when they hit a mob or the ground, it'll generate evoker fangs with the \"blindness\" effect.":" 矢がモブや地面に当たると, \"失明\" の効果でエヴォーカーの牙を発生させる.",
+
+
+	"__Comment9.42__":"Sky Walk",
+	"Sky Walk :":"空渡り :",
+	"Allows you to walk into the sky, sneak to go down!":"空に向かってこっそり歩けるようになる!",
+	"-For this to happen you need to have at least":"-これが起こるために少なくとも持っている必要があります",
+	" 4 blocks":" 4つのブロック",
+	" of air below you.":"下には空気がある.",
+	"-If you also have \"leaping\" enchantment, then you need to have at least":"-もし, \"跳躍\" エンチャントがあるなら、少なくとも...",
+	" 8 blocks":" 8ブロック",
+	"This enchantment doesn't work if you wear an Elytra!":"エリトラを着るとこの魔法は効かない!",
+
+
+	"__Comment9.43__":"Sniper",
+	"Sniper :":"狙撃手 :",
+	"When you shoot an arrow, the furthest it goes, the more damage it will do.":"矢を放つとき、遠くへ行くほどダメージが大きくなる.",
+
+
+	"__Comment9.44__":"Soul Reaper",
+	"Soul Reaper :":"魂刈り :",
+	": Damage 3 mobs in a 5 block radious.":": 5ブロックの半径で3体のMobにダメージを与える.",
+	": Damage 5 mobs in a 7 block radious.":": 7ブロックの半径で5体のmobにダメージを与える.",
+	": Damage 7 mobs in a 9 block radious.":": 9ブロックの範囲にいるMobに7ダメージを与える.",
+	"To trigger this enchantment, you need to hold this hoe on your":"このエンチャントを発動させるには、この鍬を",
+	" offhand.":" オフハンドに持つ必要がある.",
+	"The hoe will lose durability over time, so be careful.":"クワは経年変化で耐久性が落ちるので注意が必要です.",
+
+
+	"__Comment9.45__":"Splatter",
+	"Splatter :":"スプラッター :",
+	"When equiped of your ":"に装備している時 ",
+	" offhand":" オフハンド",
+	", each time you right clic, it'll shoot a powerfull water beam that damages entities ignoring their armor.":", 右クリックするたびに強力な水中ビームを放ち、装甲を無視したダメージを与える.",
+	" For each enchantment level, the distance of the beam increases ":" エンチャントレベルが上がるごとに、ビームの飛距離は ",
+	"10 blocks":"10ブロック",
+	"To obtain this enchantment you need more than 20 levels on the enchanting table, or by fishing.":"このエンチャントを入手するには、エンチャントテーブルで20レベル以上、もしくは釣りによって入手する必要がある.",
+	"Note that each time you use this fishing rod, it will lose it's durability regardless of unbreaking enchantment!":"この釣竿を使用するたびに、エンチャントの解除に関係なく耐久度が下がるので注意!",
+
+
+	"__Comment9.46__":"Striker",
+	"Striker :":"落雷 :",
+	"Each time you do a":"するたびに",
+	" critical hit ":" クリティカルヒット ",
+	"with this axe, you will have a ":"この斧で ",
+	"25% chance":"25％の確率で",
+	" to summon a lightning bolt your target.":" 対象に稲妻を召喚する.",
+	": Summons only 1 lightning bolt.":": 稲妻を1つだけ召喚する.",
+	": Summons 1 row of lightning bolts behind your target.":": 対象の後ろに1列の稲妻を召喚する.",
+	": Summons 3 rows of lightning bolts behind your target.":": 対象の後ろに3列の稲妻を召喚する.",
+
+
+	"__Comment9.47__":"Swim+",
+	"Swim+ :":"速泳 :",
+	"allows you to swim faster. It gives the \"dolphin's grace\" effect.":"速く泳ぐことができるようになります \"イルカの恩寵\" の効果を得られる.",
+
+
+	"__Comment9.48__":"Timber",
+	"Timber :":"木こり :",
+	"allows you to break the entire tree by only breaking one log or stem block. (This includes it's leaves).":"丸太や幹を1本だけ折って,木全体を壊すことができる.(その葉も含む).",
+
+
+	"__Comment9.49__":"Time Breaker",
+	"Time Breaker :":"タイムブレイカー :",
+	"To trigger it, you need to ":"発動するには ",
+	"crouch for 4 seconds":"4秒間しゃがむ",
+	" without leaving the floor (like: jumping or staying at the edge of a block).":" 床から離れずに(例：ジャンプやブロックの端にとどまる).",
+	": Apply a slowness V and weakness I effects to entities within 8 block radius.":": 半径8ブロック以内の存在に、遅さVと弱さIの効果を適用する.",
+	": Apply a slowness V, weakness II and mining fatigue I effects to entities within 12 block radius.":": 半径12ブロック以内の存在に遅さV、弱さII、採掘疲れIの効果を適用する.",
+	"It has a 3 second cooldown each time you trigger it!":"発動するたびに3秒のクールダウンを持つ!",
+
+
+	"__Comment9.50__":"Transmission",
+	"Transmission :":"小空間移動 :",
+	"Each time you hit a mob, it will have a chance to randomly ":"モブにぶつかるたびに ",
+	"teleport aroud you.":"ランダムに周囲にテレポートさせるチャンスがある.",
+	" For each enchantment level, the probability increases by ":" エンチャントレベルごとに、確率は上昇します ",
+	"5%":"change%",
+
+
+	"__Comment9.51__":"Turtle Stiffness",
+	"Turtle Stiffness :":"カメの盾 :",
+	" will defelct arrows and tridents and prevent other projectiles hitting you.":" 矢やトライデントを防御し、他の投擲物が当たるのを防ぐことができる.",
+	"Turtle shells will protect you against any enemy nerby enemy for":"亀の甲羅は10秒間、あらゆる敵の攻撃から身を守る",
+	" 10 seconds.":" 10秒間.",
+	"To trigger it: ":"発動するには: ",
+	"Crouch while holding this shield in your offhand or mainhand and ":"この盾をオフハンドまたはメインハンドに持ったまましゃがみ ",
+	"successfully block an attack.":"攻撃阻止に成功する.",
+
+
+	"__Comment9.52__":"Vein Miner",
+	"Vein Miner :":"一括採掘 :",
+	" break all veins of minerals [This includes overworld and nether]":" 全ての鉱脈を断ち切る[オーバーワールドとネザーも含む]",
+	"Is compatible with \"Auto Smelt\", \"Fortune\", \"Silk Touch\"":" との互換性があります \"自動製錬\", \"幸運\", \"シルクタッチ\"",
+
+
+	"__Comment9.53__":"Waterjet",
+	"Waterjet :":"水撃 :",
+	"Makes that when you throw a trident and if it hits a mob or a player, it will be sent up through the air (doesn't work inside water).":"トライデントを投げてモブやプレイヤーに当たると空中に舞い上がるようにする(水中では機能しない).",
+
+
+	"__Comment9.54__":"Xp Boost",
+	"Xp Boost :":"レベルブースト :",
+	"give you additional experience when you kill a mob.":"Mobを倒した時に追加で経験値を与える.",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"__Comment10__":"Addon Information",
+	"Custom Addons:":"カスタムアドオン:",
+	" Not detected":" 検出されませんでした",
+	"Want more enchantments? You can download addons created for Technical Enchant+ Renewed":"もっとエンチャントが欲しい？テクニカルエンチャント+リニューアル用に作成されたアドオンがダウンロードできます",
+	" Were detected":" 検出されました",
+	"Enjoy new enchantments, you can even create your own!":"新しいエンチャントを楽しもう！自分で作ることもできます!"
+}

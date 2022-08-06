@@ -1,0 +1,45 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/potion_overlay",
+    "layer1": "item/potion"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 330000
+      },
+      "model": "tcc:item/riftjuice_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330000
+      },
+      "model": "tcc:item/riftjuice_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330001
+      },
+      "model": "tcc:item/teacup"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330001
+      },
+      "model": "tcc:item/teacup"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6421106
+      },
+      "model": "mechanization:base/bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6421108
+      },
+      "model": "mechanization:base/vial"
+    }
+  ]
+}

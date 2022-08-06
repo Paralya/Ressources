@@ -1,0 +1,6 @@
+{
+    "parent": "teplus:ui/abstract/slot",
+    "textures": {
+        "layer0": "teplus:ui/action/merge"
+    }
+}

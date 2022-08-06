@@ -1,0 +1,1341 @@
+{
+	"__Credit__":"Made by: SuetinLoL",
+	"CUSTOM ENCHANTMENTS":"ENCANTAMIENTOS CUSTOM",
+	"__Comment__":"Second LORE for books",
+
+	"► Boots":"► Botas",
+	"► Leggings":"► Grebas",
+	"► Chestplate":"► Pechera",
+	"► Helmet":"► Yelmo",
+	"► Shield":"► Escudo",
+	"► Axe":"► Hacha",
+	"► Pickaxe":"► Pico",
+	"► Shovel":"► Pala",
+	"► Hoe":"► Azada",
+	"► Sword":"► Espada",
+	"► Trident":"► Tridente",
+	"► Elytra":"► Elytra",
+	"► Shears":"► Tijeras",
+	"► Fishing Rod":"► Caña de pescar",
+	"► Horse Armor":"► Armadura de caballo",
+	"► Bow":"► Arco",
+	"► Crossbow":"► Ballesta",
+	"► Everything":"► Todo",
+
+
+	"__Comment__":"Second LORE for books (shared enchantments)",
+
+	"► Sword-Bow":"► Arco-Espada",
+	"► Bow-Crossbow":"► Arco-Ballesta",
+	"► Sword-Trident":"► Espada-Tridente",
+	"► Pickaxe-Axe-Shovel":"► Hacha-Pala-Pico",
+	"► Armor - Elytra - Shield":"► Armadura - Elytra - Escudo",
+	"► Tools - Weapons":"► Armas - Herramientas",
+
+
+
+
+	"__Comment__":"General LORE enchantments for books and items",
+
+	"Accuracy Shot":"Disparo Certero",
+	"Agility I":"Agilidad I",
+	"Agility II":"Agilidad II",
+	"Agility III":"Agilidad III",
+	"Anti-Explosion":"Anti-Explosivo",
+	"Anti-Knockback I":"Solidez I",
+	"Anti-Knockback II":"Solidez II",
+	"Anti-Venom I":"Purificador I",
+	"Anti-Venom II":"Purificador II",
+	"Arachnid":"Arácnido",
+	"Armored I":"Blindaje I",
+	"Armored II":"Blindaje II",
+	"Attack Speed I":"Rapidez de Ataque I",
+	"Attack Speed II":"Rapidez de Ataque II",
+	"Attack Speed III":"Rapidez de Ataque III",
+	"Auto-Feed":"Alimentar",
+	"Auto-Smelt":"Calentar",
+	"Big Path":"Gran Camino",
+	"One Year Birthday!":"¡1er Aniversario!",
+	"1 Year Birthday Potion":"¡Poción de 1er Aniversario!",
+	"Bloody Blade":"Cuchilla Sangrienta",
+	"Bright Vision":"Claridad",
+	"Chopping":"Triturador",
+	"Dasher I":"Estela I",
+	"Dasher II":"Estela II",
+	"Excavator":"Excavador",
+	"Explosive":"Explosivo",
+	"Fireball Wave":"Ola de Fuego",
+	"Flaming Skin":"Piel Llameante",
+	"Grand Tilling":"Labranza",
+	"Hardness+ I":"Dureza+ I",
+	"Hardness+ II":"Dureza+ II",
+	"Hardness+ III":"Dureza+ III",
+	"Harvesting+":"Cosechador",
+	"Haste I":"Prisa I",
+	"Haste II":"Prisa II",
+	"Last Life":"Resurgir",
+	"Last Stand":"Último Aliento",
+	"Lava Walker":"Paso Caliente",
+	"Leaping I":"Salto I",
+	"Leaping II":"Salto II",
+	"Leaping III":"Salto III",
+	"Life+ I":"Vitalidad I",
+	"Life+ II":"Vitalidad II",
+	"Life+ III":"Vitalidad III",
+	"Life+ IV":"Vitalidad IV",
+	"Life+ V":"Vitalidad V",
+	"Life Steal":"Sanguijuela",
+	"Magnet":"Magnetismo",
+	"Marine Grace I":"Gracia Marina I",
+	"Marine Grace II":"Gracia Marina II",
+	"Mining+":"Tunelador",
+	"Multicolor":"Multicolor",
+	"Peaks":"Pinchos",
+	"Poison Aspect I":"Aspecto Venenoso I",
+	"Poison Aspect II":"Aspecto Venenoso II",
+	"Poison Aspect III":"Aspecto Venenoso III",
+	"Recovery I":"Recuperación I",
+	"Recovery II":"Recuperación II",
+	"Replant":"Replantar",
+	"Scyther I":"Guadaña I",
+	"Scyther II":"Guadaña II",
+	"Shock Fangs":"Colmillos Afilados",
+	"Sky Walk":"Paso Flotante",
+	"Sniper":"Francotirador",
+	"Soul Reaper I":"Segador de Almas I",
+	"Soul Reaper II":"Segador de Almas II",
+	"Soul Reaper III":"Segador de Almas III",
+	"Splatter I":"Salpicadura I",
+	"Splatter II":"Salpicadura II",
+	"Splatter III":"Salpicadura III",
+	"Striker I":"Estruendo I",
+	"Striker II":"Estruendo II",
+	"Striker III":"Estruendo III",
+	"Swim+":"Nado+",
+	"Timber":"Talador",
+	"Time Breaker I":"Inmovilidad I",
+	"Time Breaker II":"Inmovilidad II",
+	"Transmission I":"Teletransporte I",
+	"Transmission II":"Teletransporte II",
+	"Transmission III":"Teletransporte III",
+	"Transmission IV":"Teletransporte IV",
+	"Transmission V":"Teletransporte V",
+	"Turtle Stiffness":"Rigidez de Tortuga",
+	"Vein Miner":"Mineralista",
+	"Waterjet":"Torrente",
+	"Xp Boost I":"Experiencia+ I",
+	"Xp Boost II":"Experiencia+ II",
+	"Xp Boost III":"Experiencia+ III",
+
+	"Curse of Fragile":"Maldición de fragilidad",
+	"Curse of Sensitive":"Maldición de sensibilidad",
+	"Curse of Slippery":"Maldición de resbalamiento",
+	
+
+	"__Comment__":"M u l t i c o l o r  LORE for books (each letter has a different color)",
+
+	"M":"M",
+	"u":"u",
+	"l":"l",
+	"t":"t",
+	"i":"i",
+	"c":"c",
+	"o":"o",
+	"l":"l",
+	"o":"o",
+	"r":"r",
+
+
+
+
+
+
+	"__Comment1__":"Config MENU information",
+
+	" | Settings MENU":" | MENÚ de Ajustes",
+	" Gameplay options:":" Opciones de gameplay:",
+	" Configure the way the datapack works, like how to get and apply custom enchantments!":" Modifica como el datpack funciona, desde como obtienes o aplicas los nuevos encantamientos",
+	" Custom enchantments options:":" Opciones de encantamientos:",
+	" Enable and Disable the enchantments you want.":" Activa y desactiva los encantamientos que quieras.",
+	"Get Special Enchanted Books!":"Libros Especiales",
+	"[SUPER]":"[SÚPER]",
+	"[MEGA]":"[MEGA]",
+	"[ULTRA]":"[ULTRA]",
+	"Super Enchanted Book":"Super Libro Encantado",
+	"Mega Enchanted Book":"Mega Libro Encantado",
+	"Ultra Enchanted Book":"Ultra Libro Encantado",
+
+
+
+
+	"__Comment1__":"Gameplay config MENU information",
+
+	"                       GAMEPLAY OPTIONS MENU":"                       OPCIONES DE GAMEPLAY",
+	"Exceed vanilla enchantment level limit for books          ":"Exceder el límite de encatamiento para libros             ",
+	"Echanting system with enchanting table for books        ":"Sistema de encantamiento custom para libros              ",
+	"Echanting system with enchanting table for items         ":"Sistema de encantamiento custom para objetos            ",
+	"Combine an item with a custom enchanted book             ":"Combinar un objeto con un libro encantado custom      ",
+	"Merge custom enchanted books in the Technical Anvil   ":"Combinar libros encantados con el Yunque Técnico       ",
+	"Merge custom enchanted items in the Technical Anvil     ":"Combinar objetos encantados con el Yunque Técnico    ",
+	"Extract enchantments using the Technical Anvil           ":"Extracción de encantamientos con el Yunque Técnico    ",
+	"Disenchant system using vanilla grindstone                ":"Usar la afiladora para desencantar                        ",
+	"Soul Reaper affects entity:                          ":"Segador de almas afecta a las entidades:        ",
+	"Timber enchantment can break leaves                  ":"Talador puede romper las hojas                           ",
+	" [METHOD 1] ":" [MÉTODO 1] ",
+	" [METHOD 2] ":" [MÉTODO 2] ",
+	" [METHOD 3] ":" [MÉTODO 3] ",
+	" [METHOD 4] ":" [MÉTODO 4] ",
+	"Xp level cost to enchant with the Technical Anvil        ":"Nivel de xp necesario para usar el Yunque Técnico    ",
+	"1 Year Birthday potion                                      ":"Poción de 1er Aniversario                                   ",
+	" Low performance mode                                 ":" Modo de bajo rendimiento                                ",
+	"[YES]":"[SÍ]",
+	"[NO]":"[NO]",
+
+
+
+
+	"__Comment1__":"Enchantments config MENU information",
+
+	"                       ENCHANTMENTS OPTIONS MENU":"                       OPCIONES DE ENCANTAMIENTOS",
+	"Agility":"Agilidad",
+	"Anti-Knockback":"Solidez",
+	"Anti-Venom":"Purificador",
+	"Armored":"Blindaje",
+	"Attack Speed":"Rapidez de Ataque",
+	"Dasher":"Estela",
+	"Hardness+":"Dureza+",
+	"Haste":"Prisa",
+	"Leaping":"Salto",
+	"Life+":"Vitalidad",
+	"Marine Grace":"Gracia Marina",
+	"Poison Aspect":"Aspecto de Veneno",
+	"Recovery":"Recuperación",
+	"Scyther":"Guadaña",
+	"Soul Reaper":"Segador de Almas",
+	"Splatter":"Salpicadura",
+	"Striker":"Estruendo",
+	"Time Breaker":"Inmovilidad",
+	"Transmission":"Teletransporte",
+	"Xp Boost":"Experiencia+",
+
+	"__Comment1.1__":"Enchantments config MENU extra things",
+	"[ENABLED]":"[ACTIVADO]",
+	" WARNING!!! THIS IS PERMANENT  ":" ¡ADVERTENCIA! ESTO ES PERMANENTE  ",
+	"Are you sure you want to enable this?":"¿Seguro que quieres activarlo?",
+	"If you continue, each player is allowed to merge this enchantment book with its corresponding item.":"Si continuas, cada jugador podrá combinar este libro encantado con su objeto correspondiente.",
+	" Even if you uninstall this datapack, items with this enchantment will continue to work!":" Inluso si desinstalas este datapack, ¡los objetos con este encantamiento seguirán funcionado!",
+	"[RETURN]":"[REGRESAR]",
+	"[CONTINUE]":"[CONTINUAR]",
+
+
+
+
+	"__Comment2__":"Blocks and Technical Anvil UI",
+
+	"Charged Bookshelf":"Estante de libros cargado",
+	"Technical Anvil":"Yunque Técnico",
+	"Place it down to merge or":"Colócalo para cocmbinar o",
+	"extract custom enchantments":"extraer encantamientos custom",
+
+
+	"Merging Mode":"Modo de Combinación",
+	"Use it as a normal anvil to":"Úsalo como un yunque normal para",
+	"combine custom enchantments to your items!":"combinar encantamientos custom a tus objetos",
+	"Clic this icon to change Technical Anvil mode":"Da clic a este ícono para cambiar de modo",
+	"Need 10 levels":"Necesitas 10 niveles",
+	"Need 5 levels":"Necesitas 5 niveles",
+	"Need 0 levels":"Necesitas 0 niveles",
+	"Clic this item to combine":"Clic en este ícono para combinar",
+	"You cannot combine those items!":"¡No puedes combinar esos objetos!",
+	"Error!":"¡Error!",
+	"You cannot add that enchantment":"¡No puedes añadir ese encantamiento",
+	"to that item!":"a ese objeto!",
+	"You don't have enough Experience Levels!":"¡No tienes los suficientes niveles!",
+	
+
+	"Extracting Mode":"Modo Extracción",
+	"Place on the left any item with custom":"Coloca cualquier objeto con encantamientos custom",
+	"enchantments and on the right normal books":"en la izquierda y en la derecha libros normales",
+	"Clic this item":"Clic en este ícono",
+	"to extract a custom enchantment":"para extraer nuevos encantamientos",
+	"This feature is":"¡Esta opción",
+	"currently disabled!":"está desactivada!",
+
+
+
+
+
+
+	"__Comment3__":"Advancements",
+
+	"__Comment3.1__":"General advancements",
+
+	"Technical Enchant+":"Technical Enchant+",
+	"Discover a new power of enchantments":"Descubre un nuevo poder de encantamientos",
+
+    "Detailed Information":"Información detallada",
+	"Drop a book and quill on top of a enchanting table":"Tira un libro y pluma encima de una mesa de encantamientos",
+
+    "A bunch of enchantments":"Un montón de encantamientos",
+	"Obtain your first custom enchantment to see the other ones":"Obtén tu primer encantamiento custom para ver los demás",
+
+	"Get this free potion from the Guide Book":"Obtén esta poción gratis de la Guía",
+
+    "Charging the power":"Cargando el popder",
+	"Get a charged bookshelf":"Obtén un estante de libros cargado",
+
+    "Full enchanting power":"Poder de encantamiento al máximo",
+	"Create a Tier 3 enchanting setup":"Crea un área de encantamiento nivel 3",
+
+    "Easy combining":"Fácil combinación",
+	"Obtain a Technical Anvil":"Obtén un Yunque Técnico",
+
+    "Get back your enchantments":"Recupera tus encantamientos",
+	"Switch to extracting mode using the Technical Anvil UI":"Cambia a modo extracción usando la interfáz del Yunque Técnico",
+
+    "Customizable gameplay":"Personaliza tu gameplay",
+	"You have accessed the config Menu":"Haz accedido al Menú de configuraciones",
+
+    "Feeling overpowered":"Esto está muy roto",
+	"Get every custom enchantment and curse":"Obtén todos los encantamientos y maldiciones custom",
+
+    "All that power at once":"Todo este poder de golpe",
+	"Why did you made this?":"Simplemente, ¿por qué?",
+
+    "Exceed the limit":"Sobrepasa el límite",
+	"Enable more enchantment level for vanilla books":"Activa la opción de superar el nivel de encantamiento de algunos libros vanilla",
+
+	"Vanilla +":"Vanilla +",
+	"Get the 12 new max level enchantment books":"Obtén los 12 encantamientos con nuevo nivel máximo",
+
+
+
+	"__Comment3.2__":"Advancements sections",
+
+	"Armor +":"Armadura +",
+	"Over 18 enchantments":"18 nuevos encantamientos",
+	"Technical Helmet":"Yelmo Técnico",
+	"Get every custom enchantment book for the helmet":"Consigue todos los libros encantados custom para el yelmo",
+	"Technical Chestplate":"Pechera Técnico",
+	"Get every custom enchantment book for the chestplate":"Consigue todos los libros encantados custom para la pechera",
+	"Technical Leggings":"Grebas Técnicas",
+	"Get every custom enchantment book for the leggings":"Consigue todos los libros encantados custom para las grebas",
+	"Technical Boots":"Botas Técnicas",
+	"Get every custom enchantment book for the boots":"Consigue todos los libros encantados custom para las botas",
+	"Technical Shield":"Escudo Técnico",
+	"Get every custom enchantment book for the shield":"Consigue todos los libros encantados custom para el escudo",
+
+	"Weapons +":"Armas +",
+	"Over 16 more enchantments":"16 nuevos encantamientos",
+	"Technical Bow":"Arco Técnico",
+	"Get every custom enchantment book for the bow":"Consigue todos los libros encantados custom para el arco",
+	"Technical Crossbow":"Ballesta Técnica",
+	"Get every custom enchantment book for the crossbow":"Consigue todos los libros encantados custom para la ballesta",
+	"Technical Sword":"Espada Técnica",
+	"Get every custom enchantment book for the sword":"Consigue todos los libros encantados custom para la espada",
+	"Technical Trident":"Tridente Técnico",
+	"Get every custom enchantment book for the trident":"Consigue todos los libros encantados custom para el tridente",
+
+	"Tools +":"Herramientas +",
+	"Over 15 more enchantments":"15 nuevos encantamientos",
+	"Technical Axe":"Hacha Técnica",
+	"Get every custom enchantment book for the axe":"Consigue todos los libros encantados custom para la hacha",
+	"Technical Hoe":"Azada Técnica",
+	"Get every custom enchantment book for the hoe":"Consigue todos los libros encantados custom para la azada",
+	"Technical Pickaxe":"Pico Técnico",
+	"Get every custom enchantment book for the pickaxe":"Consigue todos los libros encantados custom para el pico",
+	"Technical Shovel":"Pala Técnica",
+	"Get every custom enchantment book for the shovel":"Consigue todos los libros encantados custom para la pala",
+
+	"Extra items":"Objetos Adicionales",
+	"3 more enchantments":"3 nuevos encantamientos",
+	"Armored Enchantment":"Encantamiento de Blindaje",
+	"A bit of extra protection while you're flying":"Algo de protección extra mientras vuelas",
+	"Multicolor Enchantment":"Encantamiento de Multicolor",
+	"Unlimited source of wool color":"Fuente ilimitada de color para lana",
+	"Splatter Enchantment":"Encantamiento de Salpicadura",
+	"Water beam goes brrr":"Un chorro de agua potente",
+	"Technical Horse Armor":"Armadura de Caballo Técnica",
+	"Get every custom and vanilla enchantment book for any horse armor":"Consigue todos los libros encantados custom para la armadura de caballo",
+	"Frost Walker for horse armor":"Paso Helado para armadura de caballo",
+	"A bit different from vanilla":"Un poco diferente a lo normal",
+
+	"Better luck next time":"Mejor suerte para la próxima",
+	"3 more custom curses":"3 nuevas maldiciones",
+	"Same as golden items":"Lo mismo que objetos de oro",
+	"Has a lot of accumulated tension":"Mucha tensión acumulada",
+	"Do you have butter finguers now?":"",
+
+
+	"__Comment3.3__":"Enchantments description in Advancements",
+
+	"I'm fast, too fast":"Soy veloz, muy veloz",
+	"Very fast that it hurts":"Tan rápido que hasta duele",
+	"Striders may not like this one":"A los Striders no les gustará",
+	"Prevent unexpected falls":"Previene caídas inesperadas",
+	"Best under lava experience":"La mejor experiencia bajo la lava",
+	"Tasteless but effective":"Sin sabor, pero efectiva",
+	"Purify your body":"Purifica tu alma",
+	"Basically double hearts":"Básicamente vida x2",
+	"Watch out harming your pets":"Cuidado con herir a tus mascotas",
+	"Your inventory may fill up faster":"Tu inventario se llenará mas rápido",
+	"Illuminate your view":"Ilumina tu visión",
+	"No more holes in the ground":"No más agujeros en el piso",
+	"Olympic swimmer":"Nadador olímpico",
+	"Feel like someone new":"Estoy joya",
+	"Become the expert mountain climber":"Alpinista experto",
+	"Use it as a totem backup":"Úsalo como un repuesto para el tótem",
+	"Without any scratch":"Sin ningún rasguño",
+	"Become a real tank":"Sientete como un tanque",
+	"Reinforced protection":"Protección reforzada",
+	"Harmful deflection":"Desviación dañina",
+	"Thunder God":"El retumbar del rayo",
+	"Be careful what you touch":"¡Mucho ojo con lo que tocas!",
+	"Carpentry wrecker":"Carpintería destructura",
+	"Don't waste fuel":"No gastes más combustible",
+	"Xp orbs stonks":"Muchas orbes de xp",
+	"Where did it go?":"¿Ha dónde ha ido?",
+	"Remember to reforest":"Recuerda reforestar",
+	"Become the death stalker":"Asechador de la muerte viviente",
+	"Undergrowth remover":"Removedor de maleza",
+	"Master farmer":"Agricultor maestro",
+	"Summon vegetation":"Invoca vegetación",
+	"Optimize space":"Optimiza el espacio",
+	"Happy ore mining":"Feliz minería",
+	"Easy tunnel bore":"Facil creación de túneles",
+	"Create better roads":"Crea mejores caminos",
+	"Better terraformer":"Perfecto para terraformar",
+	"No gravity physics?":"¿Y gravedad?",
+	"Try to use it with responsibility, ok?":"Trata de no spamearlo, ¿okay?",
+	"Easily trap your enemies":"Atrapa a tus enemigos facilmente",
+	"Send them to hell":"Envíalos al infierno",
+	"Wait for the right moment":"Espera al momento indicado",
+	"Use a part of the evoker's magic":"Usa parte la mágia del invocador",
+	"Nothing is in my way":"Nada está en tu camino",
+	"Good old memories":"Hermosos recuerdos",
+	"Feel my venom":"Siente mi veneno",
+	"Give me my health back!":"¡Devuelvemé mi vida!",
+	"With honor until the end":"Con honor, hasta el final",
+	"The ocean charmer":"El encantador oceánico",
+	"Prepare for the water drop":"Prepara el water drop",
+
+
+
+
+
+
+	"__Comment4__":"Tellraw Messages feedback",
+
+	" Items in your inventory have been updated to v6.0":" Objetos en tu inventario han sido actualizados a la versión 6.0",
+	" You have received":" Haz obtenido,",
+	" all max level":" a su máximo nivel",
+	" custom and vanilla enchantments!":" todos los encantamientos custom y vanilla.",
+	"You have merged all custom enchantments, curses and exceeded vanilla enchantments at thier Max Level in one single book!":" Haz combinado todos los encantamientos y maldiciones custom, y los encatamientos excedidos vanilla a su Máximo Nivel ¡en un solo libro!",
+	" is ready, to protect you.":" está listo para protegerte.",
+	" activated, wait 5 minutes to use it again!":" activado, ahora espera ¡5 minutos para usarlo de nuevo!",
+
+
+	"__Comment4.1__":"Give all command",
+
+	"Sword":"Espada",
+	"Shield":"Escudo",
+	"Trident":"Tridente",
+	"Bow":"Arco",
+	"Crossbow":"Ballesta",
+	"Axe":"Hacha",
+	"Pickaxe":"Pico",
+	"Shovel":"Pala",
+	"Hoe":"Azada",
+	"Chestplate":"Pechera",
+	"Leggings":"Grebas",
+	"Boots":"Botas",
+	"Helmet":"Yelmo",
+	"Max enchanted vanilla books":"Libros encantados a nivel máximo",
+
+	"Technical Enchanted Axe":"Hacha TE+ Encantada",
+	"Technical Enchanted Shovel":"Pala TE+ Encantada",
+	"Technical Enchanted Pickaxe":"Pico TE+ Encantado",
+	"Technical Enchanted Hoe":"Azada TE+ Encantada",
+	"Technical Enchanted Sword":"Espada TE+ Encantada",
+	"Technical Enchanted Trident":"Tridente TE+ Encantado",
+	"Technical Enchanted Bow":"Arco TE+ Encantado",
+	"Technical Enchanted Crossbow":"Ballesta TE+ Encantada",
+	"Technical Enchanted Helmet":"Yelmo TE+ Encantado",
+	"Technical Enchanted Chestplate":"Pechera TE+ Encantada",
+	"Technical Enchanted Leggings":"Grebas TE+ Encantadas",
+	"Technical Enchanted Boots":"Botas TE+ Encantadas",
+	"Technical Enchanted Shield":"Escudo TE+ Encantado",
+	"Technical Enchanted Elytra":"Elytra TE+ Encantada",
+	"Technical Enchanted Shears":"Tijeras TE+ Encantadas",
+	"Technical Enchanted Fishing Rod":"Caña de Pescar TE+ Encantada",
+	"Technical Enchanted Leather Horse Armor":"Armadura de caballo de cuero TE+ Encantado",
+	"Technical Enchanted Iron Horse Armor":"Armadura de caballo de hierro TE+ Encantado",
+	"Technical Enchanted Golden Horse Armor":"Armadura de caballo de oro TE+ Encantado",
+	"Technical Enchanted Diamond Horse Armor":"Armadura de caballo de diamantes TE+ Encantada",
+
+
+
+
+
+	"__Comment5__":"Guide Book item, (literally the book item)",
+
+	" TE+ Guide Book ":" Guía de TE+ ",
+
+	"__Comment5.1__":"Page 1",
+	"New Items":"Nuevos objetos",
+	"Main Mechanics":"Mecánicas",
+	"Enchanting":"Costos para",
+	"rates":"encantar",
+	
+
+	"__Comment5.2__":"Page 2",
+	"List of":"Lista de",
+	"enchantments":"encantamientos",
+	"Additional":"Característica",
+	"feature":"adicional",
+	"Find":"Encontrar",
+	"Admin Tools":"Comandos",
+	"Credits":"Créditos",
+
+
+	"__Comment5.3__":"Page 3",
+	"Current datapack version:":"Versión de datapack:",
+	"Compatible with  Minecraft 1.17+":"Compatible con  Minecraft 1.17+",
+	"Adds over 67 brand new enchantments for your tools, armor and weapons. With fully customisable gameplay.":"Agrega 67 nuevos encantamientos para tus herramientas, armadura y armas. Más configuración de gameplay.",
+	"(1 Year Birthday Potion)":"(Poción Aniversario)",
+	"Celebrate the best party,":"¡Celebra la mejor fiesta",
+	"with cakes, candles, fireworks":"con pasteles, velas, fuegos",
+	"and balloons!":"artificiales y globos!",
+	" (2:00)":" (2:00)",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"__Comment6__":"LOAD - UNINSTALL message",
+	"Custom Villagers Module:":"Módulos de Aldeanos:",
+	" Not installed":" No instalado",
+	"In case you want villagers to sell Custom Enchanted Books from TE+, clic ":"En caso de que quieras aldenos que vendan libros encantados custom de TE+, haz clic ",
+	"[HERE]":"[AQUÍ]",
+	" to download ;)":" para descargar ;)",
+	" Installed":" Instalado",
+	"Enjoy villagers selling most of Technical Enchant+ books!":"Disfruta de aldeanos ofreciendo TE+ libros",
+	" has been":" ha sido",
+	" uninstalled":" desinstalado",
+	" successfully.":" correctamente.",
+	"Be sure to remove it from your datapack folder!":"Recuarda eliminarlo de tu carpeta de datapacks.",
+
+
+
+
+
+
+
+	"__Comment7__":"GENERAL GUIDE BOOK INFORMATION",
+	"__Comment7.1__":"New items",
+	"Charged Bookshelf:":"Estante de libros cargado:",
+	" To obtain one you need to have at least ":" Para obtenerlo, debes tener al menos ",
+	"8 lapis lazuli":"8 lapislázuli",
+	" in your inventory and throw a normal bookshelf on the enchanting table.":" en tu inventario y tirar una estantería de libros normal en la mesa de encantamientos.",
+
+	"Technical Anvil:":"Yunque Técnico:",
+	"8 lapis blocks":"8 bloques de lapislázuli",
+	" in your inventory and throw an ":" en tu inventario y tirar un ",
+	"UNDAMAGED anvil":"yunque sin dañar",
+	" on the enchanting table. You can remove it just by breaking the slab hitbox.":" en la mesa de encantamientos. Puedes quitarlo solo con romper la hitbox de losa.",
+
+
+
+
+	"__Comment7.2__":"Main Mechanics",
+	"[Enchanting Setup]:":"[Montaje de encantamientos]:",
+	" The enchanting setup let you obtain and enchant your items with new custom enchnatments. You can know more about this ":" El montaje de encantamientos te permite obtener y encantar tus objetos con los nuevos encantamientos custom. Puedes conocer más de esto ",
+	"(Here)":"(Aquí)",
+
+
+	"[Combine Enchantments]:":"[Combina encantamientos]:",
+	" You can use the Technical Anvil UI as the vanilla anvil to combine books with books, item with books or items with items. For this you must need to have at least":" Puedes usar la interfaz del Yunque Técnico como el yunque normal para combinar libros con libros, objetos con libros u objetos con objetos. Para esto, debes tener al menos",
+	" 10 levels.":" 10 niveles.",
+
+
+	"[How to disenchant?]:":"[¿Cómo desencantar?]:",
+	" You can throw your enchanted item ":" Puedes tirar tu objeto encantado ",
+	"on top of a grindstone":"encima de una afiladora",
+	" and all the enchantments are going to be removed.":" y todos los encantamientos serán eliminados",
+	" Except curses!":" ¡Salvo las maldiciones!",
+	"Alternatively, you can use":"Alternativamente, puedes usar el",
+	" Extracting Mode ":" Modo Extracción ",
+	"from the technical anvil. ":"del yunque técnico ",
+	" Extracting Mode ":" Modo Extracción ",
+	"[See more info]":"[Conoce más]",
+
+
+
+
+
+
+	"__Comment7.2.1__":"Enchanting Setup",
+	"Enchanting Setup":"Montaje de encantamientos",
+	"You need to put the ":"Necesitas colocar las ",
+	"charged bookshelves":"estanterías de libros cargadas",
+	" around the enchanting table, as you do it for vanilla. A max enchanting setup should look something like this:":" alrededor de la mesa de encantamientos, como lo haces en vanilla. Un montaje de encantamientos debería verse algo así:",
+
+	"       Tier one:":"       Nivel uno:",
+	" 6 charged bookshelves":" 6 estanterías de libros cargadas",
+	"       Tier two:":"       Nivel dos:",
+	" 12 charged bookshelves":" 12 estanterías de libros cargadas",
+	"       Tier three:":"       Nivel tres:",
+	" 18 charged bookshelves":" 18 estanterías de libros cargadas",
+
+	"Each time you upgrade your enchanting setup Tier, a ":"Cada vez que mejoras el nivel de tu montaje de encantamientos, un ",
+	"lapis lazuli item":"lapislázuli",
+	" will show up in the enchanting table.":" aparecerá en la mesa de encantamientos.",
+
+
+
+
+
+
+	"__Comment7.2.2__":"Extracting Mode",
+	"You can extract a":"Puedes extraer un",
+	" custom enchantment ":" encantamiento custom ",
+	"from your items using this Technical Anvil mode ":"de tus objetos usando este modo del Yunque Técnico ",
+	"at no cost!":"¡A ningún costo!",
+	" You just need your enchanted item and some ":" Solo necesitas tu objeto encantado y algunos ",
+	"normal books":"libros",
+	"Note that the first enchantment in the Lore of the item":"Tomar en cuenta que el primer encantamiento en la descripción del objeto",
+	" may not be ":" puede no ser ",
+	"the one that you are currently extracting.":"el que se está extrayendo actualmente.",
+	"Custom curses":"Las maldiciones custom",
+	" and ":" y ",
+	"Vanilla enchantments":"los encantamientos vanilla",
+	" can't be extracted":" no pueden ser extraidos",
+
+
+
+
+
+
+	"__Comment7.3__":"Enchanting rates",
+	"To get or apply a ":"Para obtener o aplicar un ",
+	"Custom enchantment:":"Encantamiento Custom:",
+	"You will need ":"Necesitarás ",
+	"levels":"niveles",
+	"lapis":"lapislázuli",
+	" (in your inventory).":" (en tu inventario)",
+	"Throw a book/item on an ":"Tira un libro/objeto en una ",
+	"enchanting table setup. ":"mesa de encantamientos que tenga un montaje de encantamientos. ",
+	"That will consume the ":"Eso consumirá el ",
+	"book/item,":"libro/objeto ",
+	"levels,":"niveles,",
+	"and lapis.":"y lapislázuli",
+
+	"Level 10 to 19":"De nivel 10 a 19",
+	"Low enchantment.":"Bajo encantamiento.",
+	"Level 20 to 29":"De nivel 20 a 29",
+	"Average enchantment.":"Medio encantamiento.",
+	"Level 30 to Infinity":"De nivel 30 al infinito",
+	"Strong enchantment.":"Fuerte encantamiento.",
+
+	"The rates :":"Los precios :",
+	"Low enchantments":"Bajos encantamientos",
+	" will cost you":" te costarán",
+	" 1 Level":" 1 nivel",
+	"1 Lapis.":"1 lapislázuli.",
+	"Average enchantments":"Medios encantamientos",
+	" 2 Levels":" 2 niveles",
+	"2 Lapis.":"2 lapislázuli.",
+	"Strong enchantments":"Fuertes encantamientos",
+	" 3 Levels":" 3 niveles",
+	"3 Lapis.":"3 lapislázuli.",
+	"Notice that depending on your ":"Tomar en cuenta que dependiendo de tu ",
+	"Enchanting Tiers":"nivel de montaje de encantamientos",
+	", you can obtain low, average or strong enchantments.":", obtendrás bajos, medios o fuertes encantamientos",
+
+
+
+
+
+
+	"__Comment7.4__":"Enchantments List",
+	"♦♦♦---||---||-- CUSTOM CURSES --||---||---♦♦♦":"♦♦♦---||---||-- MALDICIONES CUSTOM --||---||---♦♦♦",
+	"►[GET MORE INFORMATION]◄":"►[CONOCE MÁS]◄",
+
+	"♦♦♦---||---||-- WEAPON ENCHANTMENTS --||---||---♦♦♦":"♦♦♦---||--- ENCANTAMIENTOS PARA ARMAS ---||---♦♦♦",
+	"►[SWORD]   ":"►[ESPADA]   ",
+	"►[TRIDENT]   ":"►[TRIDENTE]   ",
+	"►[BOW]   ":"►[ARCO]   ",
+	"►[CROSSBOW]   ":"►[BALLESTA]   ",
+
+	"♦♦♦---||---||-- ARMOR ENCHANTMENTS --||---||---♦♦♦":"♦♦♦--- ENCANTAMIENTOS PARA ARMADURAS ---♦♦♦",
+	"►[HELMET]   ":"►[YELMO]   ",
+	"►[CHESTPLATE]   ":"►[PECHERA]   ",
+	"►[LEGGINGS]   ":"►[GREBAS]   ",
+	"►[BOOTS]   ":"►[BOTAS]   ",
+	"►[SHIELD]":"►[ESCUDO]",
+
+	"♦♦♦---||---||-- TOOLS ENCHANTMENTS --||---||---♦♦♦":"♦♦♦--- ENCANTAMIENTOS PARA HERRAMIENTAS ---♦♦♦",
+	"►[PICKAXE]   ":"►[PICO]   ",
+	"►[AXE]   ":"►[HACHA]   ",
+	"►[SHOVEL]   ":"►[PALA]   ",
+	"►[HOE]":"►[AZADA]",
+
+	"♦♦♦---||---||-- EXTRA ENCHANTMENTS --||---||---♦♦♦":"♦♦♦---||--- ENCANTAMIENTOS EXTRA ---||---♦♦♦",
+	"►[ELYTRA]   ":"►[ELYTRA]   ",
+	"►[FISHING ROD]   ":"►[CAÑA DE PESCAR]   ",
+	"►[HORSE ARMOR]   ":"►[ARMADURA DE CABALLO]   ",
+	"►[SHEARS]   ":"►[TIJERAS]   ",
+
+
+
+
+
+
+
+	"__Comment7.5__":"Additional Feature",
+	"\"This option is disabled by default\"":"\"Esta opción está desactivada por defecto\"",
+	"(You can enable it with Admin Tools Commands)":"(Puedes actviarla mediante Comandos)",
+	"By placing ":"Colocando ",
+	"two same (MAXED OUT) vanilla enchanted books ":"dos libros encantados vanilla (A NIVEL MÁXIMO) ",
+	"in the technical anvil, you can obtain an enchantment level higher than in vanilla!":"en el yunque técnico, puedes obtener un nivel de encantamiento ¡más alto que en vanilla!",
+	" Then, you can apply that book to the item using the Technical Anvil.":" Luego, puedes aplicar ese libro en el objeto correspondiente usando el Yunque Técnico",
+
+	"Efficiency ----> ":"Eficiencia ----> ",
+	" Up to lvl 6":" Hasta nivel 6",
+	"Feather Falling ----> ":"Caída de Pluma ----> ",
+	" Up to lvl 5":" Hasta nivel 5",
+	"Fortune ----> ":"Fortuna ----> ",
+	" Up to lvl 4":" Hasta nivel 4",
+	"Impaling ----> ":"Empalamiento ----> ",
+	"Looting ----> ":"Saqueo ----> ",
+	"Luck of the Sea ----> ":"Suerte Marina ----> ",
+	"Lure ----> ":"Atracción ----> ",
+	"Power ----> ":"Poder ----> ",
+	"Protection ----> ":"Protección ----> ",
+	"Respiration ----> ":"Respiración ----> ",
+	"Sharpness ----> ":"Filo ----> ",
+	" Up to lvl 7":" Hasta nivel 7",
+	"Unbreaking ----> ":"Irrompibilidad ----> ",
+
+
+
+
+
+
+	"__Comment7.6__":"Find Enchantments",
+	"You can ":"Puedes ",
+	"find SOME enchantments Naturally":"encontrar ALGUNOS encantamientos de manera natural",
+	" without going through the enchanting table:":" sin la necesida de usar la mesa de encantamientos:",
+	"There are three ways to get one:":"Hay 3 formas de obtenerlos:",
+	"- killing monsters ":"- matando mounstruos ",
+	"(Rare Drops, only using looting III)":"(Drops Raros, únicamente usando saqueo III)",
+	"- Exploring structures ":"- Explorando estructuras ",
+	"(In chests)":"(En cofres)",
+	"- And by fishing ":"- Y pescando ",
+	"(Treasure Drops)":"(Drops de Tesoro)",
+	"The Strucutres and Mobs will have ":"Las estructuras y los mobs tendrán ",
+	"Themed enchantments.":"encantamientos temáticos.",
+	"Enchantments":"Los encantamientos",
+	" are unique to Structures Executed by the loot-table.":" de las estructuras están excluidos por las loot-tables.",
+	"Example:":"Ejemplo:",
+	"The chests of the Nether Fortresses can contain ":"Los cofres en las fortalezas del nether pueden contener ",
+	"Lava Walker.":"Paso Caliente",
+	"Evokers may drop ":"Invocadores pueden soltar ",
+	"Shock Fangs.":"Colmillos Afilados.",
+
+
+
+
+
+
+	"__Comment7.7__":"Admin Tools",
+	"If you have ACCESS TO COMMANDS, you can type in the chat: ":"Si tienes ACCESO A COMANDOS, puedes colocar en el chat: ",
+	"[This command]":"[Este comando]",
+	" To get a barrel full with ":" Para obtener un barril lleno con ",
+	"all custom enchantments!":"¡todos los encantamientos custom!",
+	" And items already enchanted at their max level.":" Y objetos previamente encantados a su máximo nivel",
+	" To uninstall the datpack. Keep in mind that items with: ":" Para desinstalar este datapack. Ten en cuenta que objetos encantados con:",
+	"Life+, Agility, Attack Speed, Anti-Knockback, Hardness+, Armored, or exceeded vanilla enchantment levels. ":"Vitalidad, Agilidad, Rapidez de Ataque, Solidez, Dureza+, Blindaje o niveles de encantamiento vanilla excedidos. ",
+	"Are still going to work after using this command.":"Segurán funcionando despues de haber ejecutado este comando.",
+	" To change the datapack configuration as you want. ":" Para cambiar la configuración del datapack como quieras.",
+	" Format, to enchant a held item using commands.":" Para encantar directamente un objeto en la mano principal mediante comandos.",
+	" Be aware that the Lore and Attributes will be overwritten.":" Considerar que la descripción y otros atributos serán reemplazados.",
+	"Error! ":"¡Error! ",
+	"You can't add this enchantment to this item":"No puedes agregar este encantamiento a este objeto",
+	"This enchantment is already present in this item":"Este encantamiento ya se encuentra presente en este objeto",
+
+
+
+
+
+
+
+
+
+	"__Comment8__":"GUIDE BOOK enchantments list sub-menu",
+	"__Comment8.1__":"Custom Curses",
+	"===>> Custom Curses <<===":"===>> Maldiciones Custom <<===",
+	"These curses can only be obtained from the enchanting table with more than 10 levels. As vanilla curses, these custom curses":"Estas maldiciones solo pueden ser obtenidos en la mesa de encantamientos con más de 10 niveles. Como las maldiciones vanilla, estas maldiciones custom",
+	" can't be disenchanted!":" ¡no pueden ser desencantados!",
+	"- Fragile":"- Fragilidad",
+	"- Sensitive":"- Sensibilidad",
+	"- Slippery":"- Resbalamiento",
+
+
+
+	"__Comment8.2__":"Sword enchantments",
+	"===>> Sword Custom Enchantments <<===":"===>> Encantamientos Custom para la Espada <<===",
+	"- Anti Explosion":"- Anti-Explosivo",
+	"- Attack Speed":"- Rapidez de Ataque",
+	"- Bloody Blade":"- Cuchilla Sangrienta",
+	"- Last Stand":"- Último Aliento",
+	"- Life Steal":"- Sanguijuela",
+	"- Poison Aspect":"- Aspecto Venenoso",
+	"- Xp Boost":"- Experiencia+",
+
+
+
+	"__Comment8.3__":"Trident enchantments",
+	"===>> Trident Custom Enchantments <<===":"===>> Encantamientos Custom para el Tridente <<===",
+	"- Marine Grace":"- Gracia Marina",
+	"- Waterjet":"- Torrente",
+
+
+
+	"__Comment8.4__":"Bow enchantments",
+	"===>> Bow Custom Enchantments <<===":"===>> Encantamientos Custom para el Arco <<===",
+	"- Accuracy Shot":"- Disparo Certero",
+	"- Arachnid":"- Arácnido",
+	"- Explosive":"- Explosivo",
+
+
+
+
+	"__Comment8.5__":"Crossbow enchantments",
+	"===>> Crossbow Custom Enchantments <<===":"===>> Encantamientos Custom para la Ballesta <<===",
+	"- Fireball Wave":"- Ola de Fuego",
+	"- Shock Fangs":"- Colmillos Afilados",
+	"- Sniper":"- Francotirador",
+
+
+
+
+	"__Comment8.6__":"Helmet enchantments",
+	"===>> Helmet Custom Enchantments <<===":"===>> Encantamientos Custom para el Yelmo <<===",
+	"- Bright Vision":"- Claridad",
+	"- Magnet":"- Magnetismo",
+	"- Time Breaker":"- Inmovilidad",
+
+
+
+	"__Comment8.7__":"Chestplate enchantments",
+	"===>> Chestplate Custom Enchantments <<===":"===>> Encantamientos Custom para la Pechera <<===",
+	"- Anti Venom":"- Purificador",
+	"- Auto Feed":"- Alimentar",
+	"- Flaming Skin":"- Piel Llameante",
+	"- Life+":"- Vitalidad",
+
+
+
+	"__Comment8.2__":"Leggings enchantments",
+	"===>> Leggings Custom Enchantments <<===":"===>> Encantamientos Custom para las Grebas <<===",
+	"- Last Life":"- Resurgir",
+	"- Leaping":"- Salto",
+	"- Recovery":"- Recuperación",
+	"- Swim+":"- Nado+",
+
+
+
+	"__Comment8.3__":"Boots enchantments",
+	"===>> Boots Custom Enchantments <<===":"===>> Encantamientos Custom para las Botas <<===",
+	"- Agility":"- Agilidad",
+	"- Dasher":"- Estela",
+	"- Lava Walker":"- Paso Caliente",
+	"- Sky Walk":"- Paso Flotante",
+
+
+
+	"__Comment8.4__":"Shield enchantments",
+	"===>> Shield Custom Enchantments <<===":"===>> Encantamientos Custom para el Escudo <<===",
+	"- Anti Knockback":"- Solidez",
+	"- Hardness+":"- Dureza+",
+	"- Peaks":"- Pinchos",
+	"- Turtle Stiffness":"- Rigidez de Tortuga",
+
+
+
+	"__Comment8.5__":"Pickaxe enchantments",
+	"===>> Pickaxe Custom Enchantments <<===":"===>> Encantamientos Custom para el Pico <<===",
+	"- Auto Smelt":"- Calentar",
+	"- Haste":"- Prisa",
+	"- Mining+":"- Tunelador",
+	"- Vein Miner":"- Mineralista",
+
+
+
+
+	"__Comment8.6__":"Axe enchantments",
+	"===>> Axe Custom Enchantments <<===":"===>> Encantamientos Custom para la Hacha <<===",
+	"- Chopping":"- Triturador",
+	"- Striker":"- Estruendo",
+	"- Timber":"- Talador",
+	"- Transmission":"- Teletransporte",
+
+
+
+
+	"__Comment8.7__":"Shovel enchantments",
+	"===>> Shovel Custom Enchantments <<===":"===>> Encantamientos Custom para la Pala <<===",
+	"- Big Path":"- Gran Camino",
+	"- Excavator":"- Excavador",
+
+
+
+
+	"__Comment8.3__":"Hoe enchantments",
+	"===>> Hoe Custom Enchantments <<===":"===>> Encantamientos Custom para la Azada <<===",
+	"- Grand Tilling":"- Labranza",
+	"- Harvesting+":"- Cosechador",
+	"- Replant":"- Replantar",
+	"- Scyther":"- Guadaña",
+	"- Soul Reaper":"- Segador de Almas",
+
+
+
+
+	"__Comment8.4__":"Shears enchantments",
+	"===>> Shears Custom Enchantments <<===":"===>> Encantamientos Custom para las Tijeras <<===",
+	"- Multicolor":"- Multicolor",
+
+
+
+	"__Comment8.5__":"Elytra enchantments",
+	"===>> Elytra Custom Enchantments <<===":"===>> Encantamientos Custom para la Elytra <<===",
+	"- Armored":"- Blindaje",
+
+
+
+	"__Comment8.6__":"Fishing Rod enchantments",
+	"===>> Fishing Rod Custom Enchantments <<===":"===>> Encantamientos Custom para la Caña de Pescar <<===",
+	"- Splatter":"- Salpicadura",
+
+
+
+	"__Comment8.7__":"Horse Armor enchantments",
+	"===>> Horse Armor Custom Enchantments <<===":"===>> Encantamientos Custom para la Armadura de Caballo <<===",
+	"Now you can apply ":"Ahora puedes aplicar ",
+	"\"Frost Walker enchantment\"":"\"el encantamiento de Paso Helado\"",
+	" to any horse armor. Just combine it using the Technical Anvil.":" a cualquier armadura de caballo. Solo combínalo usando el Yunque Técnico.",
+
+
+
+
+
+
+
+
+
+
+
+	"__Comment9__":"Enchantments descriptions",
+
+
+	"__Comment9.1__":"Curse of Fragile",
+	"Curse":"Maldición de",
+	"Fragile :":"Fragilidad :",
+	"Every item is going to lose more durability each time you use the item. Unbreaking enchantment may counter this curse.":"Cada objeto perderá más durabilidad cuando lo uses. Irrompibilidad podría contrarrestar esto.",
+
+
+	"__Comment9.2__":"Curse of Sensitive",
+	"Sensitive :":"Sensibilidad :",
+	"Each time you take damage, you have a small probability to explode. This curse is cumulative, be careful when wearing more than one armor piece.":"Cada vez que recibes daño tienes una pequeña prbabilidad de explotar. Estas maldición es acumulativa, por lo que ten cuidado al llevar más de una pieza de armadura puesta.",
+	"Also, if you use a shield with this curse, each time it loses durability you have a chance to explode.":"También, si ocupas un escudo con esta maldición, cada vez que este pierda durabilidad, tendrá una probabilidad de explotar.",
+
+
+	"__Comment9.3__":"Curse of Slippery",
+	"Slippery :":"Resbalamiento :",
+	"When using an item, you'll have a small chance to drop it in front of you. A sound is going to play when this happens.":"Cuando usas un objeto, tu tendrás una pequeña probabilidad de que lo tires al frente tuyo. Un sonido te notificará cuando esto suceda.",
+
+
+	"__Comment9.4__":"Accuracy Shot",
+	"Enchantment":"Encantamiento",
+	"Accuracy Shot :":"Disparo Certero :",
+	"The arrows you shoot are no longer affected by gravity , it stays straight.":"Las flechas que tires no será afectadas por la gravedad.",
+
+
+	"__Comment9.5__":"Agility",
+	"Agility :":"Agilidad :",
+	"It goes from ":"Va desde ",
+	"Level":"Nivel",
+	"The Higher the ":"Mientras más alto el nivel ",
+	", the faster you run.":", más rápido te moverás.",
+
+
+	"__Comment9.6__":"Anti-Explosion",
+	"Anti-Explosion :":"Anti-Explosivo :",
+	"All Creepers and TNT nearby you, can't explode while using this enchantment.":"Todos los Creepers y TNT cercanos a tí, no podrán explotar mientras usas este encantamiento.",
+
+
+	"__Comment9.7__":"Anti-Explosion",
+	"Anti-Knockback :":"Solidez :",
+	"Level I to II.":"Nivel I a II.",
+	"This ":"Este ",
+	"enchantment ":"encantamiento ",
+	"Transforms you into a real tank,":"Te transforma en un tanque,",
+	" ignoring most of the effects of knockback, if you wear ":" ignorando la mayoría de los efectos del empuje, si llevas un ",
+	"full nehterite armor set with this shield!":"¡set completo de netherite con este escudo!",
+
+
+	"__Comment9.8__":"Anti-Venom",
+	"Anti-Venom :":"Purificador :",
+	"Level I ":"Nivel I ",
+	"Remove the Poison and wither effects.":"Elimina los efectos de veneno y dscomposición.",
+	"Level II ":"Nivel II ",
+	"Remove the slowness and weakness effects.":"Eliminalos efectos de lentitud y debilidad.",
+
+
+	"__Comment9.9__":"Arachnid",
+	"Arachnid :":"Arácnido :",
+	"When a the arrow lands, it generates a group od cobwebs.":"Cuando la flecha aterriza, generará un grupo de telarañas.",
+	"If the arrow hits a mob, it will pull it down the ground and generate the group of cobwebs arround it.":"Si la flecha golpea un mob, lo enviará hacia abajo y generará el grupo de telarañas alrededor.",
+
+
+	"__Comment9.9__":"Armored",
+	"Armored :":"Blindaje :",
+	": Adds 2 armor points to your Elytra.":": Agrega 2 puntos de armadura a tu Elytra.",
+	": Adds 4 armor points to your Elytra.":": Agrega 4 puntos de armadura a tu Elytra. ",
+	"You can ONLY get \"Armored I\" through the enchanting table if you have ":":Solo puedes obtener \"Blindaje I\" mediante la mesa de encantamientos si tienes ",
+	" more than 30 levels.":": más de 30 niveles. ",
+	" You may have a better chance by exploring":": Puedes tener mejores probabilidades si exploras",
+	" End city's loot.":": el loot de las Ciudades del End.",
+
+
+	"__Comment9.10__":"Attack Speed",
+	"Attack Speed :":"Rapidez de Ataque :",
+	"It increases your attack speed, per level.":"Aumenta tu velocidad de ataque por cada nivel.",
+
+
+	"__Comment9.11__":"Auto-Feed",
+	"Auto-Feed :":"Alimenta :",
+	" fills your hunger bar every minute.":" llena tu barra de hambre cada minuto.",
+
+
+	"__Comment9.12__":"Auto-Smelt",
+	"Auto-Smelt :":"Calentar :",
+	"smelts the blocks you're mining.":"Cocina los bloque que estas minando.",
+	"Compatible with \"Mining+ and Vein Miner\" ONLY for ores!":"Compatible con \"Tunelador y Mineralista\" ¡SOLO con minerales!",
+
+
+	"__Comment9.13__":"Big Path",
+	"Big Path :":"Gran Camino :",
+	"Generates a 3x3 path when you use a shovel.":"Genera un camino de 3x3 cuando usas una pala.",
+
+
+	"__Comment9.14__":"Dasher",
+	"Dasher :":"Estela :",
+	" creates a harmful trail behind you when you run.":" crea una estela dañina cuando corres.",
+	"Has a duration of 5 seconds.":"Tiene una duración de 5 segundos.",
+	"Has a duration of 10 seconds.":"Tiene una duración de 10 segundos.",
+	"To trigger it, you need to run for 5 seconds straight.":"Para activarlo, debes correr por 5 segundos de manera ininterrumpida.",
+	"The trail has a limited duration and can be vanished if you stop running.":"La estela tiene una duración limitada y puede desaparecer si dejas de correr.",
+
+
+	"__Comment9.15__":"Bloody Blade",
+	"Bloody Blade :":"Cuchilla Sangrienta :",
+	"gives you a thirst for blood!":"¡Te da una sed por sangre!",
+	"The more you kill entities consecutively in a short period of time, the stronger and faster you are.":"Cuanto más mates a entidades consecutivamente por un corto periodo de tiempo, más fuerte y rápido que convertiras.",
+	"The effects disappear quickly.":"Los efectos desaparecen rápidamente.",
+	"Killing mobs increases the duration of the effects.":"Matar mobs aumentará la duración de los efectos.",
+
+
+	"__Comment9.16__":"Bright Vision",
+	"Bright Vision :":"Claridad :",
+	" gives you unlimited night vision.":" te da visión nocturna ilimitada.",
+
+
+	"__Comment9.17__":"Chopping",
+	"Chopping :":"Triturador :",
+	" Allows to break wood related blocks in a 3x3 area.":" Permite romper bloques relacionados con la madera en un área 3x3.",
+
+
+	"__Comment9.18__":"Excavator",
+	"Excavator :":"Excavador :",
+	" Allows to mine in a 3x3 area.":" Permite minar en un área 3x3.",
+	"Only for shovel related blocks.":"Solo para bloques relacionados con la pala.",
+
+
+	"__Comment9.19__":"Explosive",
+	"Explosive :":"Explosivo :",
+	" Makes an explosion around the arrows you shoot.":" Crea una explosión alrededor de las flechas que dispares.",
+
+
+	"__Comment9.20__":"Fireball Wave",
+	"Fireball Wave :":"Ola de Fuego :",
+	" make your arrows when they hit a mob or the ground, it'll create a ring of fireballs.":" hace que las flechas cuando golpean un mob o el suelo, creará un aro de bolas de fuego.",
+
+
+	"__Comment9.21__":"Flaming Skin",
+	"Flaming Skin :":"Piel Llameante :",
+	" let you see clearly below lava! To trigger it you must be submerged into lava and then press shift.":" te permite ver ¡claramente bajo la lava! Para activarlo tienes que estar sumergido en lava y luego presionar agacharse.",
+	"Once this happens you can't move around for 3 seconds, after that there's a delay of 2 seconds to trigger this again.":"Cuando esto suceda no podrás moverte por 3 segundos, luego de eso hay un retraso de 2 segundos para volverlo a activar nuevamente.",
+	"A sound may help you to know when you can sneak to see in lava.":"Un sonido te ayudará a saber cuando puedes agacharte para ver de nuevo en la lava.",
+
+
+	"__Comment9.22__":"Grand Tilling",
+	"Grand Tilling :":"Labranza :",
+	"Generates a 3x3 farmland area when you use a hoe.":"Genera un área 3x3 de tierra labrada al usar esta azada.",
+
+
+	"__Comment9.23__":"Hardness+",
+	"Hardness+ :":"Dureza+ :",
+	"give you extra armor toughness.":"te proporciona con resistencia de armadura adicional.",
+
+
+	"__Comment9.24__":"Harvesting+",
+	"Harvesting+ :":"Cosechador :",
+	"While holding this hoe, every 3 minutes you'll get random vegetation items.":"Al sostener esta azada, cada 3 minutos obtendrás vegetación random.",
+	"This depends on the dimension you're in.":"Esto depende de la dimensión en la que te encuentres.",
+
+
+	"__Comment9.25__":"Haste",
+	"Haste :":"Prisa :",
+	", the faster you mine.":", más rápido minarás bloques.",
+
+
+	"__Comment9.26__":"Last Life",
+	"Last Life :":"Resurgir :",
+	"When your HP is low, an Automatic Healing is done.":"Cuando tu HP está bajo, una curación automática es llevada a cabo.",
+	"This doesn't mean it protect you against death!":"¡Esto no te protege de la muerte!",
+	"CoolDown : 5 minutes.":"Tiene un retraso se 5 minutos para volver a ser usado.",
+
+
+	"__Comment9.27__":"Last Stand",
+	"Last Stand :":"Último Aliento :",
+	"Makes you stronger the lower hp you are.":"Te vuelves más mientras menos vida tengas.",
+
+
+	"__Comment9.28__":"Lava Walker",
+	"Lava Walker :":"Paso Caliente :",
+	"Allows you to walk on lava.":"Te permite caminar sobre la lava.",
+
+
+	"__Comment9.29__":"Leaping",
+	"Leaping :":"Salto :",
+	", the higher you jump.":", mas alto saltarás.",
+
+
+	"__Comment9.30__":"Life+",
+	"Life+ :":"Vitalidad :",
+	"Level I to V.":"Nivel I a V.",
+	"Gives you extra hearts.":"Te proporciona con corazones extra.",
+	"2 extra ♥♥ by Level of enchantment.":"2 ♥♥ por cada nivel de encantamiento.",
+
+
+	"__Comment9.31__":"Life Steal",
+	"Life Steal :":"Sanguijuela :",
+	"Drains the health of your enemy.":"Drena la vida de tu enemigo.",
+
+
+	"__Comment9.32__":"Magnet",
+	"Magnet :":"Magnetismo :",
+	"Attracts all items arround you within 7 blocks.":"Atrae a todos los objetos alrededor tuyo en un área de 7 bloques.",
+
+
+	"__Comment9.33__":"Marine Grace",
+	"Marine Grace :":"Gracia Marina :",
+	"will spin your enemies, keeping them away with the help of a poweful current.":"hará girar a tus enemigos alejándolos de tí con la ayuda de una corriente poderosa.",
+	": Has a 25% chance to trigger.":": Tiene un 25% de probabilidades de activarlo.",
+	": Has a 50% chance to trigger.":": Tiene un 50% de probabilidades de activarlo.",
+	"You must attack an entity while being ":"Debes atacar a tu enemigo mientras te encuentras ",
+	"inside water or during raining or thundering.":"dentro del agua o mientras llueve o hace tormenta.",
+
+
+	"__Comment9.34__":"Mining+",
+	"Mining+ :":"Tunelador :",
+	" Allows you to mine in a 3x3 area.":" Permite romper bloques en un área 3x3.",
+	"Only for pickaxe related blocks.":"Solo para bloques relacionados con el pico.",
+
+
+	"__Comment9.35__":"Multicolor",
+	"Multicolor :":"Multicolor :",
+	" makes that each time you shear a sheep, you can get a random color of wool.":" hace que cada vez que trasquiles una oveja, esta te suelte colores random de lana.",
+	"This enchantment doesn't work with dispensers!":"Este encantamiento ¡no funciona con dispensadores!",
+	"You can ONLY get this enchantment if you have 30+ lvls, lapis lazuli and by throwing a book on the enchanting table.":"SOLO puedes obtener este encantamiento si tienes +30 nivles, lapislázuli y tirando un libro en la mesa de encantamientos.",
+
+
+	"__Comment9.36__":"Peaks",
+	"Peaks :":"Pinchos :",
+	" makes that whenever you block a mob with this shield, the mob will take damage.":" hace que cuando bloqueas un ataque físico con este escudo, la entidad más cercana recibirá daño.",
+
+
+	"__Comment9.37__":"Poison Aspect",
+	"Poison Aspect :":"Aspecto Venenoso :",
+	": Inflicts a Poison I effect on the attacked monster.":": La entidad atacada tendrá el efecto de Veneno I.",
+	": Inflicts a Poison II effect on the attacked monster.":": La entidad atacada tendrá el efecto de Veneno II.",
+	"Level III ":"change ",
+	": Inflicts a Poison III effect on the attacked monster.":": La entidad atacada tendrá el efecto de Veneno III.",
+
+
+	"__Comment9.38__":"Recovery",
+	"Recovery :":"Recuperación :",
+	"make you heal faster if you take too much damage.":"te regenerará mas rápido si recibes muchísimo daño.",
+	": Gives you regeneration II for 5 seconds.":": Obtendrás regeneración II por 5 segundos.",
+	": Gives you regeneration III for 3 seconds.":": Obtendrás regeneración III por 3 segundos.",
+
+
+	"__Comment9.39__":"Replant",
+	"Replant :":"Replantar :",
+	"Allows you to plant grown crops automatically (includes wheat, potatoes, carrots, beetroot and nether wart).":"Permite plantar cultivos automáticamente (incluyendo trigo, papas, zanahorias, betabel, y verruga del nether).",
+	"You need to break the crops while holding this hoe!":"Nececitas romper los cultivos ¡mientras sostienes esta azada!",
+
+
+	"__Comment9.40__":"Scyther",
+	"Scyther :":"Guadaña :",
+	": Breaks hoe related blocks within a 3x3 surface.":": Rompe bloques relacionados de la azada en una superficie 3x3.",
+	": Breaks hoe related blocks, crops and vegetation within a 3x3 area.":": Rompe bloques relacionados de la azada, cultivos y vegetación en una superficie 3x3.",
+	"Be careful! it will destroy any hoe related block (like leaves).":"¡Ten cuidado! puede destruir cualquier tipo de bloques relacionados con la azada (como las hojas).",
+	" You can avoid this if you combined it with silk touch.":" Puedes evitar esto su lo combinas con toque de seda.",
+
+
+	"__Comment9.41__":"Shock Fangs",
+	"Shock Fangs :":"Colmillos Afilados :",
+	" make your arrows when they hit a mob or the ground, it'll generate evoker fangs with the \"blindness\" effect.":" hace que las flechas cuando golpean una entidad o el suelo, se generen colmillos de invocador con el efecto de \"ceguera\".",
+
+
+	"__Comment9.42__":"Sky Walk",
+	"Sky Walk :":"Paso Flotante :",
+	"Allows you to walk into the sky, sneak to go down!":"Te permite ¡caminar en el cielo!, agáchate para descender",
+	"-For this to happen you need to have at least":"-Para que esto suceda necesitas tener al menos",
+	" 4 blocks":" 4 bloques",
+	" of air below you.":"de aire debajo tuyo.",
+	"-If you also have \"leaping\" enchantment, then you need to have at least":"-Si también llevas el encantamiento de \"Salto\", necesitarás tener al menos",
+	" 8 blocks":" 8 bloques",
+	"This enchantment doesn't work if you wear an Elytra!":"Este encantamiento ¡no funciona con la Elytra puesta!",
+
+
+	"__Comment9.43__":"Sniper",
+	"Sniper :":"Francotirador :",
+	"When you shoot an arrow, the furthest it goes, the more damage it will do.":"Cuando disparas una flecha, mientras esta viaje más lejos, más daño hará.",
+
+
+	"__Comment9.44__":"Soul Reaper",
+	"Soul Reaper :":"Segador de Almas :",
+	": Damage 3 mobs in a 5 block radious.":": Daña 3 enemigos en un radio de 5 bloques.",
+	": Damage 5 mobs in a 7 block radious.":": Daña 5 enemigos en un radio de 7 bloques.",
+	": Damage 7 mobs in a 9 block radious.":": Daña 7 enemigos en un radio de 9 bloques.",
+	"To trigger this enchantment, you need to hold this hoe on your":"Para activarlo, debes mantener esta azada en tu",
+	" offhand.":" mano secundaria.",
+	"The hoe will lose durability over time, so be careful.":"La azada perderá durabilidad al pasar un tiempo, asi que ten cuidado.",
+
+
+	"__Comment9.45__":"Splatter",
+	"Splatter :":"Salpicadura :",
+	"When equiped of your ":"Cuando la usas en tus ",
+	" offhand":" mano secundaria",
+	", each time you right clic, it'll shoot a powerfull water beam that damages entities ignoring their armor.":", cada vez que hagas clic derecho, se disapará un potente chorro de agua que lastimará entidades ignorando su armadura.",
+	" For each enchantment level, the distance of the beam increases ":" Por cada nivel de encantamiento, la distancia de alcance del chorro aumentará ",
+	"10 blocks":"10 bloques",
+	"To obtain this enchantment you need more than 20 levels on the enchanting table, or by fishing.":"Para obtener este encantamiento tienes que tener +20 niveles al usar la mesa de encantamientos, o simplemente  pescando.",
+	"Note that each time you use this fishing rod, it will lose it's durability regardless of unbreaking enchantment!":"Tomar en cuenta que cuando utilizas esta caña de pescar, esta perderá durabilidad ¡sin importar el encantamiento de irrompibilidad!",
+
+
+	"__Comment9.46__":"Striker",
+	"Striker :":"Estruendo :",
+	"Each time you do a":"Cada vez que hagas un",
+	" critical hit ":" golpe crítico ",
+	"with this axe, you will have a ":"con esta hacha, tendrpas un ",
+	"25% chance":"25% de probabilidades",
+	" to summon a lightning bolt your target.":" de invocar un trueno sobre tu víctima.",
+	": Summons only 1 lightning bolt.":": Invoca un solo trueno.",
+	": Summons 1 row of lightning bolts behind your target.":": Invoca una fila de truenos por detrás de tu objetivo.",
+	": Summons 3 rows of lightning bolts behind your target.":": Invoca tres filas de truenos por detrás y al lado de tu objetivo.",
+
+
+	"__Comment9.47__":"Swim+",
+	"Swim+ :":"Nado+ :",
+	"allows you to swim faster. It gives the \"dolphin's grace\" effect.":"te permite nadar más rápido. Te dá el efecto de \"gracia de delfín\".",
+
+
+	"__Comment9.48__":"Timber",
+	"Timber :":"Talador :",
+	"allows you to break the entire tree by only breaking one log or stem block. (This includes it's leaves).":"permite talar un árbol entero solo con romper un bloque de tronco. (Esto incluye a las hojas).",
+
+
+	"__Comment9.49__":"Time Breaker",
+	"Time Breaker :":"Inmovilidad :",
+	"To trigger it, you need to ":"Para activarlo, no necesitarás ",
+	"crouch for 4 seconds":"estar agachado por 4 segundos",
+	" without leaving the floor (like: jumping or staying at the edge of a block).":" sin dejar el piso (como: saltar o estar muy al borde de un bloque).",
+	": Apply a slowness V and weakness I effects to entities within 8 block radius.":": Aplicará lentitud V y debilidad I a las entidades en un radio de 8 bloques.",
+	": Apply a slowness V, weakness II and mining fatigue I effects to entities within 12 block radius.":": Aplicará lentitud V, debilidad II y fatiga minera I a las entidades en un radio de 12 bloques.",
+	"It has a 3 second cooldown each time you trigger it!":"Tiene un retraso de 3 segundos ¡por cada vez que lo activas!",
+
+
+	"__Comment9.50__":"Transmission",
+	"Transmission :":"Teletransporte :",
+	"Each time you hit a mob, it will have a chance to randomly ":"Cada vez que golpeas a una entidad, esta tendrá una probabilidad de ser aleatoriamente ",
+	"teleport aroud you.":"teletransportada alrededor tuyo.",
+	" For each enchantment level, the probability increases by ":" Por cada nivel de encantamiento, la probabilidad incrementa en un ",
+	"5%":"5%",
+
+
+	"__Comment9.51__":"Turtle Stiffness",
+	"Turtle Stiffness :":"Rigidez de Tortuga :",
+	" will defelct arrows and tridents and prevent other projectiles hitting you.":" va a repeler flechas y tridente, así como prevenir que otros tipos de proyectiles te peguen.",
+	"Turtle shells will protect you against any enemy nerby enemy for":"Unos caparazones de tortuga te protegerán frente a cualquier amenza cercana por",
+	" 10 seconds.":" 10 segundos.",
+	"To trigger it: ":"Para ctivarlo: ",
+	"Crouch while holding this shield in your offhand or mainhand and ":"Agáchate mientras sostienes este escudo en tu mano secundaria o principal, y ",
+	"successfully block an attack.":"bloquea exitosamente un ataque.",
+
+
+	"__Comment9.52__":"Vein Miner",
+	"Vein Miner :":"Mineralista :",
+	" break all veins of minerals [This includes overworld and nether]":" rompe todas las venas de minerales conectadas entre sí [Esto incluye el overworld y el nether]",
+	"Is compatible with \"Auto Smelt\", \"Fortune\", \"Silk Touch\"":" Es compatible con \"Calentar\", \"Fortuna\", \"Toque de Seda\"",
+
+
+	"__Comment9.53__":"Waterjet",
+	"Waterjet :":"Torrente :",
+	"Makes that when you throw a trident and if it hits a mob or a player, it will be sent up through the air (doesn't work inside water).":"Hace que cuando tires un tridente y este golpea una entidad, esta última será enviada hacia arriba (no funciona dentro del agua).",
+
+
+	"__Comment9.54__":"Xp Boost",
+	"Xp Boost :":"Experiencia+ :",
+	"give you additional experience when you kill a mob.":"te da orbes de experiencia adicionales cuando matas una entidad.",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"__Comment10__":"Addon Information",
+	"Custom Addons:":"Adiciones Custom:",
+	" Not detected":" No detectados",
+	"Want more enchantments? You can download addons created for Technical Enchant+ Renewed":"¿Te quedaste con ganas de más encantamientos? Puedes descagar adiciones creados para este datapack.",
+	" Were detected":" Han sido detectados",
+	"Enjoy new enchantments, you can even create your own!":"Disfruta de nuevos encantamientos, ¡incluso puedes crear los tuyos propios!"
+}
