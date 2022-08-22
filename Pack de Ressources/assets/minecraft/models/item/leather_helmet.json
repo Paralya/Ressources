@@ -1,5 +1,5 @@
 {
-	"parent": "item/generated",
+	"parent": "item/handheld",
 	"textures": {
 		"layer0": "item/leather_helmet",
 		"layer1": "item/leather_helmet_overlay"
