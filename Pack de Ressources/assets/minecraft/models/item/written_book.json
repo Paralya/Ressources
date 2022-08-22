@@ -12,30 +12,6 @@
 		},
 		{
 			"predicate": {
-				"custom_model_data": 330000
-			},
-			"model": "tcc:item/compendium"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 330000
-			},
-			"model": "tcc:item/compendium"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 330000
-			},
-			"model": "tcc:item/compendium"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1430000
-			},
-			"model": "simpledrawer:item/guide"
-		},
-		{
-			"predicate": {
 				"custom_model_data": 1430000
 			},
 			"model": "simpledrawer:item/guide"
@@ -45,18 +21,6 @@
 				"custom_model_data": 2012100
 			},
 			"model": "simplenergy:manual"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 2012100
-			},
-			"model": "simplenergy:manual"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 2013398
-			},
-			"model": "stardust:manual"
 		},
 		{
 			"predicate": {

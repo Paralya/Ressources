@@ -1,9 +1,9 @@
 {
-  "parent": "item/handheld_rod",
-  "textures": {
-    "layer0": "item/carrot_on_a_stick"
-  },
-  "overrides": [
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+    "overrides": [
     {
       "predicate": {
         "custom_model_data": 330000
@@ -3208,851 +3208,166 @@
       },
       "model": "tcc:item/ring/minecraft/netherite/dnd/amber"
     },
-    {
-      "predicate": {
-        "custom_model_data": 6421004
-      },
-      "model": "mechanization:base/energy_relay"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421007
-      },
-      "model": "mechanization:base/tier_1_machine_frame"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421008
-      },
-      "model": "mechanization:base/tier_2_machine_frame"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421009
-      },
-      "model": "mechanization:base/tier_3_machine_frame"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421100
-      },
-      "model": "mechanization:base/wrench"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421101
-      },
-      "model": "mechanization:base/multimeter"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421102
-      },
-      "model": "mechanization:base/machine_upgrade"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421103
-      },
-      "model": "mechanization:base/nether_upgrade"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421104
-      },
-      "model": "mechanization:base/ender_upgrade"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421109
-      },
-      "model": "mechanization:base/muffler_upgrade"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421110
-      },
-      "model": "mechanization:base/gps"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421900
-      },
-      "model": "mechanization:base/t1_battery/battery_empty"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421901
-      },
-      "model": "mechanization:base/t1_battery/battery_1"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421902
-      },
-      "model": "mechanization:base/t1_battery/battery_2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421903
-      },
-      "model": "mechanization:base/t1_battery/battery_3"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421904
-      },
-      "model": "mechanization:base/t1_battery/battery_4"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421905
-      },
-      "model": "mechanization:base/t1_battery/battery_5"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421906
-      },
-      "model": "mechanization:base/t1_battery/battery_6"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421907
-      },
-      "model": "mechanization:base/t1_battery/battery_7"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421908
-      },
-      "model": "mechanization:base/t1_battery/battery_8"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421909
-      },
-      "model": "mechanization:base/t2_battery/battery_empty"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421910
-      },
-      "model": "mechanization:base/t2_battery/battery_1"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421911
-      },
-      "model": "mechanization:base/t2_battery/battery_2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421912
-      },
-      "model": "mechanization:base/t2_battery/battery_3"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421913
-      },
-      "model": "mechanization:base/t2_battery/battery_4"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421914
-      },
-      "model": "mechanization:base/t2_battery/battery_5"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421915
-      },
-      "model": "mechanization:base/t2_battery/battery_6"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421916
-      },
-      "model": "mechanization:base/t2_battery/battery_7"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421917
-      },
-      "model": "mechanization:base/t2_battery/battery_8"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421918
-      },
-      "model": "mechanization:base/t3_battery/battery_empty"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421919
-      },
-      "model": "mechanization:base/t3_battery/battery_1"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421920
-      },
-      "model": "mechanization:base/t3_battery/battery_2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421921
-      },
-      "model": "mechanization:base/t3_battery/battery_3"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421922
-      },
-      "model": "mechanization:base/t3_battery/battery_4"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421923
-      },
-      "model": "mechanization:base/t3_battery/battery_5"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421924
-      },
-      "model": "mechanization:base/t3_battery/battery_6"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421925
-      },
-      "model": "mechanization:base/t3_battery/battery_7"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421926
-      },
-      "model": "mechanization:base/t3_battery/battery_8"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421927
-      },
-      "model": "mechanization:base/qu_battery/battery_empty"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421928
-      },
-      "model": "mechanization:base/qu_battery/battery_1"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421929
-      },
-      "model": "mechanization:base/qu_battery/battery_2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421930
-      },
-      "model": "mechanization:base/qu_battery/battery_3"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421931
-      },
-      "model": "mechanization:base/qu_battery/battery_4"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421932
-      },
-      "model": "mechanization:base/qu_battery/battery_5"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421933
-      },
-      "model": "mechanization:base/qu_battery/battery_6"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421934
-      },
-      "model": "mechanization:base/qu_battery/battery_7"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421935
-      },
-      "model": "mechanization:base/qu_battery/battery_8"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421936
-      },
-      "model": "mechanization:base/t1_capacitor/capacitor_empty"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421937
-      },
-      "model": "mechanization:base/t1_capacitor/capacitor_1"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421938
-      },
-      "model": "mechanization:base/t1_capacitor/capacitor_2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421939
-      },
-      "model": "mechanization:base/t1_capacitor/capacitor_3"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421940
-      },
-      "model": "mechanization:base/t1_capacitor/capacitor_4"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421941
-      },
-      "model": "mechanization:base/t1_capacitor/capacitor_5"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421942
-      },
-      "model": "mechanization:base/t1_capacitor/capacitor_6"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421943
-      },
-      "model": "mechanization:base/t1_capacitor/capacitor_7"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421944
-      },
-      "model": "mechanization:base/t1_capacitor/capacitor_8"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421945
-      },
-      "model": "mechanization:base/t2_capacitor/capacitor_empty"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421946
-      },
-      "model": "mechanization:base/t2_capacitor/capacitor_1"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421947
-      },
-      "model": "mechanization:base/t2_capacitor/capacitor_2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421948
-      },
-      "model": "mechanization:base/t2_capacitor/capacitor_3"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421949
-      },
-      "model": "mechanization:base/t2_capacitor/capacitor_4"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421950
-      },
-      "model": "mechanization:base/t2_capacitor/capacitor_5"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421951
-      },
-      "model": "mechanization:base/t2_capacitor/capacitor_6"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421952
-      },
-      "model": "mechanization:base/t2_capacitor/capacitor_7"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421953
-      },
-      "model": "mechanization:base/t2_capacitor/capacitor_8"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421954
-      },
-      "model": "mechanization:base/t3_capacitor/capacitor_empty"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421955
-      },
-      "model": "mechanization:base/t3_capacitor/capacitor_1"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421956
-      },
-      "model": "mechanization:base/t3_capacitor/capacitor_2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421957
-      },
-      "model": "mechanization:base/t3_capacitor/capacitor_3"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421958
-      },
-      "model": "mechanization:base/t3_capacitor/capacitor_4"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421959
-      },
-      "model": "mechanization:base/t3_capacitor/capacitor_5"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421960
-      },
-      "model": "mechanization:base/t3_capacitor/capacitor_6"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421961
-      },
-      "model": "mechanization:base/t3_capacitor/capacitor_7"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6421962
-      },
-      "model": "mechanization:base/t3_capacitor/capacitor_8"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6422019
-      },
-      "model": "mechanization:machines/spawner_controller"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6422200
-      },
-      "model": "mechanization:machines/spawner_mover"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6422201
-      },
-      "model": "mechanization:machines/spawner_mover_used"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6422964
-      },
-      "model": "mechanization:machines/casts/ingot"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6422965
-      },
-      "model": "mechanization:machines/casts/block"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6422966
-      },
-      "model": "mechanization:machines/casts/nugget"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6422967
-      },
-      "model": "mechanization:machines/casts/rod"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6422968
-      },
-      "model": "mechanization:machines/casts/plate"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6422969
-      },
-      "model": "mechanization:machines/casts/gear"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6422970
-      },
-      "model": "mechanization:machines/casts/gem"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424000
-      },
-      "model": "mechanization:gadgets/charging_station"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424001
-      },
-      "model": "mechanization:gadgets/tinker_table"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424100
-      },
-      "model": "mechanization:gadgets/energy_saber_red"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424101
-      },
-      "model": "mechanization:gadgets/drill"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424102
-      },
-      "model": "mechanization:gadgets/plasma_weapon_0"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424110
-      },
-      "model": "mechanization:gadgets/portable_battery_0"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424900
-      },
-      "model": "mechanization:gadgets/portable_battery_0"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424901
-      },
-      "model": "mechanization:gadgets/portable_battery_1"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424902
-      },
-      "model": "mechanization:gadgets/portable_battery_2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424903
-      },
-      "model": "mechanization:gadgets/portable_battery_3"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424904
-      },
-      "model": "mechanization:gadgets/portable_battery_4"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424905
-      },
-      "model": "mechanization:gadgets/portable_battery_5"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424906
-      },
-      "model": "mechanization:gadgets/portable_battery_6"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424907
-      },
-      "model": "mechanization:gadgets/portable_battery_7"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424908
-      },
-      "model": "mechanization:gadgets/portable_battery_8"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424909
-      },
-      "model": "mechanization:gadgets/energy_saber_white"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424910
-      },
-      "model": "mechanization:gadgets/energy_saber_orange"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424911
-      },
-      "model": "mechanization:gadgets/energy_saber_magenta"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424912
-      },
-      "model": "mechanization:gadgets/energy_saber_light_blue"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424913
-      },
-      "model": "mechanization:gadgets/energy_saber_yellow"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424914
-      },
-      "model": "mechanization:gadgets/energy_saber_lime"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424915
-      },
-      "model": "mechanization:gadgets/energy_saber_pink"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424916
-      },
-      "model": "mechanization:gadgets/energy_saber_gray"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424917
-      },
-      "model": "mechanization:gadgets/energy_saber_light_gray"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424918
-      },
-      "model": "mechanization:gadgets/energy_saber_cyan"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424919
-      },
-      "model": "mechanization:gadgets/energy_saber_purple"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424920
-      },
-      "model": "mechanization:gadgets/energy_saber_blue"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424921
-      },
-      "model": "mechanization:gadgets/energy_saber_brown"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424922
-      },
-      "model": "mechanization:gadgets/energy_saber_green"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424923
-      },
-      "model": "mechanization:gadgets/energy_saber_red"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424924
-      },
-      "model": "mechanization:gadgets/energy_saber_black"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424925
-      },
-      "model": "mechanization:gadgets/plasma_weapon_0"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424926
-      },
-      "model": "mechanization:gadgets/plasma_weapon_1"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424927
-      },
-      "model": "mechanization:gadgets/plasma_weapon_2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424928
-      },
-      "model": "mechanization:gadgets/plasma_weapon_3"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424929
-      },
-      "model": "mechanization:gadgets/plasma_weapon_4"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424930
-      },
-      "model": "mechanization:gadgets/plasma_weapon_5"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424931
-      },
-      "model": "mechanization:gadgets/plasma_weapon_6"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424932
-      },
-      "model": "mechanization:gadgets/plasma_weapon_7"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424933
-      },
-      "model": "mechanization:gadgets/plasma_weapon_8"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424934
-      },
-      "model": "mechanization:gadgets/plasma_weapon_9"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424935
-      },
-      "model": "mechanization:gadgets/plasma_weapon_10"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424936
-      },
-      "model": "mechanization:gadgets/plasma_weapon_11"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424937
-      },
-      "model": "mechanization:gadgets/plasma_weapon_12"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424938
-      },
-      "model": "mechanization:gadgets/plasma_weapon_13"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424939
-      },
-      "model": "mechanization:gadgets/plasma_weapon_14"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424940
-      },
-      "model": "mechanization:gadgets/plasma_weapon_15"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424941
-      },
-      "model": "mechanization:gadgets/plasma_weapon_16"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6424942
-      },
-      "model": "mechanization:gadgets/plasma_weapon_17"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6425100
-      },
-      "model": "mechanization:assembly/item_filter"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6425101
-      },
-      "model": "mechanization:assembly/disc_end_of_the_world"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6425102
-      },
-      "model": "mechanization:assembly/disc_hyperspace"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6425103
-      },
-      "model": "mechanization:assembly/disc_money_for_nothing"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6425104
-      },
-      "model": "mechanization:assembly/disc_wanderer"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6425105
-      },
-      "model": "mechanization:assembly/disc_stranger_think"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6425106
-      },
-      "model": "mechanization:assembly/mss_storage_drive"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 6425107
-      },
-      "model": "mechanization:assembly/disc_atomic_amnesia"
-    }
-  ]
+	{ "predicate": { "custom_model_data": 6421004 }, "model": "mechanization:base/energy_relay" },
+	{ "predicate": { "custom_model_data": 6421007 }, "model": "mechanization:base/tier_1_machine_frame" },
+	{ "predicate": { "custom_model_data": 6421008 }, "model": "mechanization:base/tier_2_machine_frame" },
+	{ "predicate": { "custom_model_data": 6421009 }, "model": "mechanization:base/tier_3_machine_frame" },
+	{ "predicate": { "custom_model_data": 6421100 }, "model": "mechanization:base/wrench" },
+	{ "predicate": { "custom_model_data": 6421101 }, "model": "mechanization:base/multimeter" },
+	{ "predicate": { "custom_model_data": 6421102 }, "model": "mechanization:base/machine_upgrade" },
+	{ "predicate": { "custom_model_data": 6421103 }, "model": "mechanization:base/nether_upgrade" },
+	{ "predicate": { "custom_model_data": 6421104 }, "model": "mechanization:base/ender_upgrade" },
+	{ "predicate": { "custom_model_data": 6421109 }, "model": "mechanization:base/muffler_upgrade" },
+	{ "predicate": { "custom_model_data": 6421110 }, "model": "mechanization:base/gps" },
+	
+	{ "predicate": { "custom_model_data": 6421900 }, "model": "mechanization:base/t1_battery/battery_empty" },
+	{ "predicate": { "custom_model_data": 6421901 }, "model": "mechanization:base/t1_battery/battery_1" },
+	{ "predicate": { "custom_model_data": 6421902 }, "model": "mechanization:base/t1_battery/battery_2" },
+	{ "predicate": { "custom_model_data": 6421903 }, "model": "mechanization:base/t1_battery/battery_3" },
+	{ "predicate": { "custom_model_data": 6421904 }, "model": "mechanization:base/t1_battery/battery_4" },
+	{ "predicate": { "custom_model_data": 6421905 }, "model": "mechanization:base/t1_battery/battery_5" },
+	{ "predicate": { "custom_model_data": 6421906 }, "model": "mechanization:base/t1_battery/battery_6" },
+	{ "predicate": { "custom_model_data": 6421907 }, "model": "mechanization:base/t1_battery/battery_7" },
+	{ "predicate": { "custom_model_data": 6421908 }, "model": "mechanization:base/t1_battery/battery_8" },
+
+	{ "predicate": { "custom_model_data": 6421909 }, "model": "mechanization:base/t2_battery/battery_empty" },
+	{ "predicate": { "custom_model_data": 6421910 }, "model": "mechanization:base/t2_battery/battery_1" },
+	{ "predicate": { "custom_model_data": 6421911 }, "model": "mechanization:base/t2_battery/battery_2" },
+	{ "predicate": { "custom_model_data": 6421912 }, "model": "mechanization:base/t2_battery/battery_3" },
+	{ "predicate": { "custom_model_data": 6421913 }, "model": "mechanization:base/t2_battery/battery_4" },
+	{ "predicate": { "custom_model_data": 6421914 }, "model": "mechanization:base/t2_battery/battery_5" },
+	{ "predicate": { "custom_model_data": 6421915 }, "model": "mechanization:base/t2_battery/battery_6" },
+	{ "predicate": { "custom_model_data": 6421916 }, "model": "mechanization:base/t2_battery/battery_7" },
+	{ "predicate": { "custom_model_data": 6421917 }, "model": "mechanization:base/t2_battery/battery_8" },
+	
+	{ "predicate": { "custom_model_data": 6421918 }, "model": "mechanization:base/t3_battery/battery_empty" },
+	{ "predicate": { "custom_model_data": 6421919 }, "model": "mechanization:base/t3_battery/battery_1" },
+	{ "predicate": { "custom_model_data": 6421920 }, "model": "mechanization:base/t3_battery/battery_2" },
+	{ "predicate": { "custom_model_data": 6421921 }, "model": "mechanization:base/t3_battery/battery_3" },
+	{ "predicate": { "custom_model_data": 6421922 }, "model": "mechanization:base/t3_battery/battery_4" },
+	{ "predicate": { "custom_model_data": 6421923 }, "model": "mechanization:base/t3_battery/battery_5" },
+	{ "predicate": { "custom_model_data": 6421924 }, "model": "mechanization:base/t3_battery/battery_6" },
+	{ "predicate": { "custom_model_data": 6421925 }, "model": "mechanization:base/t3_battery/battery_7" },
+	{ "predicate": { "custom_model_data": 6421926 }, "model": "mechanization:base/t3_battery/battery_8" },
+	
+	{ "predicate": { "custom_model_data": 6421927 }, "model": "mechanization:base/qu_battery/battery_empty" },
+	{ "predicate": { "custom_model_data": 6421928 }, "model": "mechanization:base/qu_battery/battery_1" },
+	{ "predicate": { "custom_model_data": 6421929 }, "model": "mechanization:base/qu_battery/battery_2" },
+	{ "predicate": { "custom_model_data": 6421930 }, "model": "mechanization:base/qu_battery/battery_3" },
+	{ "predicate": { "custom_model_data": 6421931 }, "model": "mechanization:base/qu_battery/battery_4" },
+	{ "predicate": { "custom_model_data": 6421932 }, "model": "mechanization:base/qu_battery/battery_5" },
+	{ "predicate": { "custom_model_data": 6421933 }, "model": "mechanization:base/qu_battery/battery_6" },
+	{ "predicate": { "custom_model_data": 6421934 }, "model": "mechanization:base/qu_battery/battery_7" },
+	{ "predicate": { "custom_model_data": 6421935 }, "model": "mechanization:base/qu_battery/battery_8" },
+	
+	{ "predicate": { "custom_model_data": 6421936 }, "model": "mechanization:base/t1_capacitor/capacitor_empty" },
+	{ "predicate": { "custom_model_data": 6421937 }, "model": "mechanization:base/t1_capacitor/capacitor_1" },
+	{ "predicate": { "custom_model_data": 6421938 }, "model": "mechanization:base/t1_capacitor/capacitor_2" },
+	{ "predicate": { "custom_model_data": 6421939 }, "model": "mechanization:base/t1_capacitor/capacitor_3" },
+	{ "predicate": { "custom_model_data": 6421940 }, "model": "mechanization:base/t1_capacitor/capacitor_4" },
+	{ "predicate": { "custom_model_data": 6421941 }, "model": "mechanization:base/t1_capacitor/capacitor_5" },
+	{ "predicate": { "custom_model_data": 6421942 }, "model": "mechanization:base/t1_capacitor/capacitor_6" },
+	{ "predicate": { "custom_model_data": 6421943 }, "model": "mechanization:base/t1_capacitor/capacitor_7" },
+	{ "predicate": { "custom_model_data": 6421944 }, "model": "mechanization:base/t1_capacitor/capacitor_8" },
+
+	{ "predicate": { "custom_model_data": 6421945 }, "model": "mechanization:base/t2_capacitor/capacitor_empty" },
+	{ "predicate": { "custom_model_data": 6421946 }, "model": "mechanization:base/t2_capacitor/capacitor_1" },
+	{ "predicate": { "custom_model_data": 6421947 }, "model": "mechanization:base/t2_capacitor/capacitor_2" },
+	{ "predicate": { "custom_model_data": 6421948 }, "model": "mechanization:base/t2_capacitor/capacitor_3" },
+	{ "predicate": { "custom_model_data": 6421949 }, "model": "mechanization:base/t2_capacitor/capacitor_4" },
+	{ "predicate": { "custom_model_data": 6421950 }, "model": "mechanization:base/t2_capacitor/capacitor_5" },
+	{ "predicate": { "custom_model_data": 6421951 }, "model": "mechanization:base/t2_capacitor/capacitor_6" },
+	{ "predicate": { "custom_model_data": 6421952 }, "model": "mechanization:base/t2_capacitor/capacitor_7" },
+	{ "predicate": { "custom_model_data": 6421953 }, "model": "mechanization:base/t2_capacitor/capacitor_8" },
+	
+	{ "predicate": { "custom_model_data": 6421954 }, "model": "mechanization:base/t3_capacitor/capacitor_empty" },
+	{ "predicate": { "custom_model_data": 6421955 }, "model": "mechanization:base/t3_capacitor/capacitor_1" },
+	{ "predicate": { "custom_model_data": 6421956 }, "model": "mechanization:base/t3_capacitor/capacitor_2" },
+	{ "predicate": { "custom_model_data": 6421957 }, "model": "mechanization:base/t3_capacitor/capacitor_3" },
+	{ "predicate": { "custom_model_data": 6421958 }, "model": "mechanization:base/t3_capacitor/capacitor_4" },
+	{ "predicate": { "custom_model_data": 6421959 }, "model": "mechanization:base/t3_capacitor/capacitor_5" },
+	{ "predicate": { "custom_model_data": 6421960 }, "model": "mechanization:base/t3_capacitor/capacitor_6" },
+	{ "predicate": { "custom_model_data": 6421961 }, "model": "mechanization:base/t3_capacitor/capacitor_7" },
+	{ "predicate": { "custom_model_data": 6421962 }, "model": "mechanization:base/t3_capacitor/capacitor_8" },
+	
+	
+	
+	{ "predicate": { "custom_model_data": 6422019 }, "model": "mechanization:machines/spawner_controller" },
+	{ "predicate": { "custom_model_data": 6422200 }, "model": "mechanization:machines/spawner_mover" },
+	{ "predicate": { "custom_model_data": 6422201 }, "model": "mechanization:machines/spawner_mover_used" },
+	
+	{ "predicate": { "custom_model_data": 6422964 }, "model": "mechanization:machines/casts/ingot" },
+	{ "predicate": { "custom_model_data": 6422965 }, "model": "mechanization:machines/casts/block" },
+	{ "predicate": { "custom_model_data": 6422966 }, "model": "mechanization:machines/casts/nugget" },
+	{ "predicate": { "custom_model_data": 6422967 }, "model": "mechanization:machines/casts/rod" },
+	{ "predicate": { "custom_model_data": 6422968 }, "model": "mechanization:machines/casts/plate" },
+	{ "predicate": { "custom_model_data": 6422969 }, "model": "mechanization:machines/casts/gear" },
+	{ "predicate": { "custom_model_data": 6422970 }, "model": "mechanization:machines/casts/gem" },
+	
+	
+	{ "predicate": { "custom_model_data": 6424000 }, "model": "mechanization:gadgets/charging_station" },
+	{ "predicate": { "custom_model_data": 6424001 }, "model": "mechanization:gadgets/tinker_table" },
+	
+	{ "predicate": { "custom_model_data": 6424100 }, "model": "mechanization:gadgets/energy_saber_red" },
+	{ "predicate": { "custom_model_data": 6424101 }, "model": "mechanization:gadgets/drill" },
+	{ "predicate": { "custom_model_data": 6424102 }, "model": "mechanization:gadgets/plasma_weapon_0" },
+	{ "predicate": { "custom_model_data": 6424110 }, "model": "mechanization:gadgets/portable_battery_0" },
+	
+	{ "predicate": { "custom_model_data": 6424900 }, "model": "mechanization:gadgets/portable_battery_0" },
+	{ "predicate": { "custom_model_data": 6424901 }, "model": "mechanization:gadgets/portable_battery_1" },
+	{ "predicate": { "custom_model_data": 6424902 }, "model": "mechanization:gadgets/portable_battery_2" },
+	{ "predicate": { "custom_model_data": 6424903 }, "model": "mechanization:gadgets/portable_battery_3" },
+	{ "predicate": { "custom_model_data": 6424904 }, "model": "mechanization:gadgets/portable_battery_4" },
+	{ "predicate": { "custom_model_data": 6424905 }, "model": "mechanization:gadgets/portable_battery_5" },
+	{ "predicate": { "custom_model_data": 6424906 }, "model": "mechanization:gadgets/portable_battery_6" },
+	{ "predicate": { "custom_model_data": 6424907 }, "model": "mechanization:gadgets/portable_battery_7" },
+	{ "predicate": { "custom_model_data": 6424908 }, "model": "mechanization:gadgets/portable_battery_8" },
+	
+	{ "predicate": { "custom_model_data": 6424909 }, "model": "mechanization:gadgets/energy_saber_white" },
+	{ "predicate": { "custom_model_data": 6424910 }, "model": "mechanization:gadgets/energy_saber_orange" },
+	{ "predicate": { "custom_model_data": 6424911 }, "model": "mechanization:gadgets/energy_saber_magenta" },
+	{ "predicate": { "custom_model_data": 6424912 }, "model": "mechanization:gadgets/energy_saber_light_blue" },
+	{ "predicate": { "custom_model_data": 6424913 }, "model": "mechanization:gadgets/energy_saber_yellow" },
+	{ "predicate": { "custom_model_data": 6424914 }, "model": "mechanization:gadgets/energy_saber_lime" },
+	{ "predicate": { "custom_model_data": 6424915 }, "model": "mechanization:gadgets/energy_saber_pink" },
+	{ "predicate": { "custom_model_data": 6424916 }, "model": "mechanization:gadgets/energy_saber_gray" },
+	{ "predicate": { "custom_model_data": 6424917 }, "model": "mechanization:gadgets/energy_saber_light_gray" },
+	{ "predicate": { "custom_model_data": 6424918 }, "model": "mechanization:gadgets/energy_saber_cyan" },
+	{ "predicate": { "custom_model_data": 6424919 }, "model": "mechanization:gadgets/energy_saber_purple" },
+	{ "predicate": { "custom_model_data": 6424920 }, "model": "mechanization:gadgets/energy_saber_blue" },
+	{ "predicate": { "custom_model_data": 6424921 }, "model": "mechanization:gadgets/energy_saber_brown" },
+	{ "predicate": { "custom_model_data": 6424922 }, "model": "mechanization:gadgets/energy_saber_green" },
+	{ "predicate": { "custom_model_data": 6424923 }, "model": "mechanization:gadgets/energy_saber_red" },
+	{ "predicate": { "custom_model_data": 6424924 }, "model": "mechanization:gadgets/energy_saber_black" },
+	
+	{ "predicate": { "custom_model_data": 6424925 }, "model": "mechanization:gadgets/plasma_weapon_0" },
+	{ "predicate": { "custom_model_data": 6424926 }, "model": "mechanization:gadgets/plasma_weapon_1" },
+	{ "predicate": { "custom_model_data": 6424927 }, "model": "mechanization:gadgets/plasma_weapon_2" },
+	{ "predicate": { "custom_model_data": 6424928 }, "model": "mechanization:gadgets/plasma_weapon_3" },
+	{ "predicate": { "custom_model_data": 6424929 }, "model": "mechanization:gadgets/plasma_weapon_4" },
+	{ "predicate": { "custom_model_data": 6424930 }, "model": "mechanization:gadgets/plasma_weapon_5" },
+	{ "predicate": { "custom_model_data": 6424931 }, "model": "mechanization:gadgets/plasma_weapon_6" },
+	{ "predicate": { "custom_model_data": 6424932 }, "model": "mechanization:gadgets/plasma_weapon_7" },
+	{ "predicate": { "custom_model_data": 6424933 }, "model": "mechanization:gadgets/plasma_weapon_8" },
+	{ "predicate": { "custom_model_data": 6424934 }, "model": "mechanization:gadgets/plasma_weapon_9" },
+	{ "predicate": { "custom_model_data": 6424935 }, "model": "mechanization:gadgets/plasma_weapon_10" },
+	{ "predicate": { "custom_model_data": 6424936 }, "model": "mechanization:gadgets/plasma_weapon_11" },
+	{ "predicate": { "custom_model_data": 6424937 }, "model": "mechanization:gadgets/plasma_weapon_12" },
+	{ "predicate": { "custom_model_data": 6424938 }, "model": "mechanization:gadgets/plasma_weapon_13" },
+	{ "predicate": { "custom_model_data": 6424939 }, "model": "mechanization:gadgets/plasma_weapon_14" },
+	{ "predicate": { "custom_model_data": 6424940 }, "model": "mechanization:gadgets/plasma_weapon_15" },
+	{ "predicate": { "custom_model_data": 6424941 }, "model": "mechanization:gadgets/plasma_weapon_16" },
+	{ "predicate": { "custom_model_data": 6424942 }, "model": "mechanization:gadgets/plasma_weapon_17" },
+	
+	
+	
+	{ "predicate": { "custom_model_data": 6425100 }, "model": "mechanization:assembly/item_filter" },
+	{ "predicate": { "custom_model_data": 6425101 }, "model": "mechanization:assembly/disc_end_of_the_world" },
+	{ "predicate": { "custom_model_data": 6425102 }, "model": "mechanization:assembly/disc_hyperspace" },
+	{ "predicate": { "custom_model_data": 6425103 }, "model": "mechanization:assembly/disc_money_for_nothing" },
+	{ "predicate": { "custom_model_data": 6425104 }, "model": "mechanization:assembly/disc_wanderer" },
+	{ "predicate": { "custom_model_data": 6425105 }, "model": "mechanization:assembly/disc_stranger_think" },
+	{ "predicate": { "custom_model_data": 6425106 }, "model": "mechanization:assembly/mss_storage_drive" },
+	{ "predicate": { "custom_model_data": 6425107 }, "model": "mechanization:assembly/disc_atomic_amnesia" }
+]
 }

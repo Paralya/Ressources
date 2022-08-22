@@ -161,11 +161,6 @@
       },
       "model": "crazy_adventure:equipments/californium_chestplate"
     },
-    {
-      "predicate": {
-        "custom_model_data": 6424107
-      },
-      "model": "mechanization:gadgets/modular_chestplate"
-    }
-  ]
+	{ "predicate": { "custom_model_data": 6424107 }, "model": "mechanization:gadgets/modular_chestplate" }
+]
 }
