@@ -157,13 +157,6 @@
 	" Configure the way the datapack works, like how to get and apply custom enchantments!":" カスタムエンチャントを取得して適用する方法など、データパックの動作方法を説明します.",
 	" Custom enchantments options:":" カスタムエンチャントオプション:",
 	" Enable and Disable the enchantments you want.":" 必要なエンチャントを有効または無効にします",
-	"Get Special Enchanted Books!":"特別な魔法の本を手に入れよう!",
-	"[SUPER]":"[スーパー]",
-	"[MEGA]":"[メガ]",
-	"[ULTRA]":"[ウルトラ]",
-	"Super Enchanted Book":"スーパーエンチャントの本",
-	"Mega Enchanted Book":"メガエンチャントの本",
-	"Ultra Enchanted Book":"ウルトラエンチャントの本",
 
 
 
@@ -171,25 +164,8 @@
 	"__Comment1__":"Gameplay config MENU information",
 
 	"                       GAMEPLAY OPTIONS MENU":"                       ゲームプレイオプションメニュー",
-	"Exceed vanilla enchantment level limit for books          ":"書籍のバニラエンチャントレベルの制限を超える                     ",
-	"Echanting system with enchanting table for books        ":"本のエンチャントシステム                                           ",
-	"Echanting system with enchanting table for items         ":"アイテムのエンチャントシステム                                     ",
-	"Combine an item with a custom enchanted book             ":"アイテムをカスタムエンチャントされた本と組み合わせる            ",
-	"Merge custom enchanted books in the Technical Anvil   ":"テクニカル金床でカスタムエンチャントされた本を併合する         ",
-	"Merge custom enchanted items in the Technical Anvil     ":"テクニカル金床でカスタムエンチャントされたアイテムを併合する   ",
-	"Extract enchantments using the Technical Anvil           ":"テクニカル金床を使用してエンチャントを抽出する                  ",
-	"Disenchant system using vanilla grindstone                ":"バニラ砥石でエンチャントを無くすシステム                          ",
-	"Soul Reaper affects entity:                          ":"ソウルリーパーは実体に影響を与える:                          ",
-	"Timber enchantment can break leaves                  ":"木こりエンチャントは木の葉っぱも壊せます                 ",
-	" [METHOD 1] ":" [方法 1] ",
-	" [METHOD 2] ":" [方法 2] ",
-	" [METHOD 3] ":" [方法 3] ",
-	" [METHOD 4] ":" [方法 4] ",
-	"Xp level cost to enchant with the Technical Anvil        ":"テクニカル金床でのエンチャントコスト                            ",
-	"1 Year Birthday potion                                      ":"1周年誕生日ポーション                                      ",
-	" Low performance mode                                 ":" 低パフォーマンスモード                                 ",
-	"[YES]":"[はい]",
-	"[NO]":"[いいえ]",
+	"Soul Reaper affects entity":"ソウルリーパーは実体に影響を与える:",
+	"Timber enchantment can break leaves":"木こりエンチャントは木の葉っぱも壊せます",
 
 
 
@@ -218,20 +194,13 @@
 	"Transmission":"小空間移動",
 	"Xp Boost":"レベルブースト",
 
-	"__Comment1.1__":"Enchantments config MENU extra things",
-	"[ENABLED]":"[有効]",
-	" WARNING!!! THIS IS PERMANENT  ":" 警告！！！これは永続的です  ",
-	"Are you sure you want to enable this?":"これを有効にしてよろしいですか?",
-	"If you continue, each player is allowed to merge this enchantment book with its corresponding item.":"続行すると、各プレイヤーはこのエンチャントブックを対応するアイテムとエンチャントできます。",
-	" Even if you uninstall this datapack, items with this enchantment will continue to work!":" このデータパックをアンインストールしても、このエンチャントのあるアイテムは引き続き機能します。",
-	"[RETURN]":"[戻る]",
-	"[CONTINUE]":"[はい]",
-
 
 
 	"__Comment2__":"Blocks and Technical Anvil UI",
 
 	"Charged Bookshelf":"充電された本棚",
+	"Place it down to increase the":"下に置くと増える",
+	"tier of an enchanting setup":"エンチャントの階層を増やす",
 	"Technical Anvil":"テクニカル金床",
 	"Place it down to merge or":"併合する",
 	"extract custom enchantments":"カスタムエンチャントを抽出する",
@@ -302,7 +271,7 @@
 	"Why did you made this?":"なぜこれを作ったのですか？",
 
     "Exceed the limit":"制限を超えました",
-	"Enable more enchantment level for vanilla books":"バニラのエンチャントレベルを上げる",
+	"Get an exceeded vanilla enchanted book!":"超過バニラエンチャントブックをゲット!",
 
 	"Vanilla +":"バニラ",
 	"Get the 12 new max level enchantment books":"12の新しい最大レベルのエンチャントブックを入手",
@@ -484,25 +453,15 @@
 	"__Comment5.1__":"Page 1",
 	"New Items":"新商品",
 	"Main Mechanics":"メインメカニックス",
-	"Enchanting":"魅惑的",
-	"rates":"レート",
 	
 
 	"__Comment5.2__":"Page 2",
-	"List of":"リスト",
-	"enchantments":"エンチャント",
-	"Additional":"追加",
-	"feature":"機能",
-	"Find":"検索",
 	"Admin Tools":"管理ツール",
 	"Credits":"クレジット",
 
 
 	"__Comment5.3__":"Page 3",
-	"Current datapack version:":"現在のデータパックのバージョン:",
-	"Compatible with  Minecraft 1.17+":"change  Minecraft 1.17+",
-	"Adds over 67 brand new enchantments for your tools, armor and weapons. With fully customisable gameplay.":"ツール、鎧、武器に67以上の新しいエンチャントを追加します。完全にカスタマイズ可能なゲームプレイを使用します。",
-	"(1 Year Birthday Potion)":"(1周年ポーション)",
+	"(Birthday Potion)":"(バースデー・ポーション)",
 	"Celebrate the best party,":"最高のパーティを祝って",
 	"with cakes, candles, fireworks":"ケーキ、ろうそく、花火で",
 	"and balloons!":"そして風船",
@@ -526,11 +485,8 @@
 	"__Comment6__":"LOAD - UNINSTALL message",
 	"Custom Villagers Module:":"カスタム村人モジュール:",
 	" Not installed":" インストールされていません",
-	"In case you want villagers to sell Custom Enchanted Books from TE+, clic ":"村人にカスタムエンチャントされた本を販売してもらいたい場合は、クリックしてください ",
 	"[HERE]":"[ここ]",
-	" to download ;)":" ダウンロードするには ;)",
 	" Installed":" インストール済み",
-	"Enjoy villagers selling most of Technical Enchant+ books!":"TechnicalEnchant+の本を販売している村人を楽しもう！",
 	" has been":" されている",
 	" uninstalled":" アンインストール",
 	" successfully.":" 正常に.",
@@ -704,55 +660,15 @@
 
 
 	"__Comment7.5__":"Additional Feature",
-	"\"This option is disabled by default\"":"\"このオプションはデフォルトで無効になっています\"",
-	"(You can enable it with Admin Tools Commands)":"(管理ツールコマンドで有効にできます)",
 	"By placing ":"配置することにより ",
 	"two same (MAXED OUT) vanilla enchanted books ":"2冊の同じ（限界に達した）バニラエンチャントされた本 ",
 	"in the technical anvil, you can obtain an enchantment level higher than in vanilla!":"テクニカル金床では、バニラよりも高いエンチャントレベルを得ることができます!",
-	" Then, you can apply that book to the item using the Technical Anvil.":" 次に、テクニカル金床を使用してその本をアイテムに適用できます.",
-
-	"Efficiency ----> ":"効率 ----> ",
-	" Up to lvl 6":" レベル6まで",
-	"Feather Falling ----> ":"落下耐性 ----> ",
-	" Up to lvl 5":" レベル5まで",
-	"Fortune ----> ":"幸運 ----> ",
-	" Up to lvl 4":" レベル4まで",
-	"Impaling ----> ":"水生特効 ----> ",
-	"Looting ----> ":"ドロップ増加 ----> ",
-	"Luck of the Sea ----> ":"宝釣り ----> ",
-	"Lure ----> ":"入れ食い ----> ",
-	"Power ----> ":"射撃ダメージ増加 ----> ",
-	"Protection ----> ":"飛び道具耐性 ----> ",
-	"Respiration ----> ":"水中呼吸 ----> ",
-	"Sharpness ----> ":"ダメージ増加 ----> ",
-	" Up to lvl 7":" レベル7まで",
-	"Unbreaking ----> ":"耐久力 ----> ",
 
 
 
 
 
 
-	"__Comment7.6__":"Find Enchantments",
-	"You can ":"あなたは ",
-	"find SOME enchantments Naturally":"自然にいくつかのエンチャントを見つけられる",
-	" without going through the enchanting table:":" エンチャントテーブルを見つける",
-	"There are three ways to get one:":"1つを取得するには3つの方法があります:",
-	"- killing monsters ":"- モンスターを殺す ",
-	"(Rare Drops, only using looting III)":"(レアドロップ、略奪IIIのみを使用)",
-	"- Exploring structures ":"- 構造の探索 ",
-	"(In chests)":"(チェスト内)",
-	"- And by fishing ":"- そして釣りで ",
-	"(Treasure Drops)":"(宝物ドロップ)",
-	"The Strucutres and Mobs will have ":"スケルトンとモブが持っている",
-	"Themed enchantments.":"テーマのエンチャント",
-	"Enchantments":"エンチャント",
-	" are unique to Structures Executed by the loot-table.":" 戦利品テーブルによって実行される構造に固有です.",
-	"Example:":"例:",
-	"The chests of the Nether Fortresses can contain ":"ネザー要塞のチェストには",
-	"Lava Walker.":"溶岩ウォーカー.",
-	"Evokers may drop ":"エヴォーカーが落ちるかもしれない ",
-	"Shock Fangs.":"ショックファング",
 
 
 
@@ -765,10 +681,6 @@
 	" To get a barrel full with ":" で樽いっぱいにすること。 ",
 	"all custom enchantments!":"すべてのカスタムエンチャント!",
 	" And items already enchanted at their max level.":" そして、アイテムはすでに最大レベルでエンチャントされています.",
-	" To uninstall the datpack. Keep in mind that items with: ":" datpackをアンインストールします。次のアイテムがあることに注意してください: ",
-	"Life+, Agility, Attack Speed, Anti-Knockback, Hardness+, Armored, or exceeded vanilla enchantment levels. ":"ライフ+、敏捷性、攻撃速度、アンチノックバック、ハードネス+、装甲、またはバニラエンチャントレベルを超えました.",
-	"Are still going to work after using this command.":"このコマンドを使用した後も引き続き機能します.",
-	" To change the datapack configuration as you want. ":" 要に応じてデータパック構成を変更します.",
 	" Format, to enchant a held item using commands.":" フォーマット、コマンドを使用して保有アイテムをエンチャントする.",
 	" Be aware that the Lore and Attributes will be overwritten.":" 伝承と属性が上書きされることに注意してください.",
 	"Error! ":"エラー! ",
@@ -1028,7 +940,7 @@
 
 	"__Comment9.11__":"Auto-Feed",
 	"Auto-Feed :":"自動食料 :",
-	" fills your hunger bar every minute.":" 1分ごとに空腹バーを満たす.",
+	" fills your hunger bar every 3 minutes.":" 1分ごとに空腹バーを満たす.",
 
 
 	"__Comment9.12__":"Auto-Smelt",
@@ -1334,7 +1246,248 @@
 	"__Comment10__":"Addon Information",
 	"Custom Addons:":"カスタムアドオン:",
 	" Not detected":" 検出されませんでした",
-	"Want more enchantments? You can download addons created for Technical Enchant+ Renewed":"もっとエンチャントが欲しい？テクニカルエンチャント+リニューアル用に作成されたアドオンがダウンロードできます",
 	" Were detected":" 検出されました",
-	"Enjoy new enchantments, you can even create your own!":"新しいエンチャントを楽しもう！自分で作ることもできます!"
+
+
+
+
+
+
+
+
+
+
+	"__Comment11__":"Information for v7.0",
+	"Enchanting Rates":"エンチャントレート",
+	"Enchantments List":"エンチャントリスト",
+	"Mobs use":"モブ使用",
+	"Mob spawning":"モブのスポーン",
+	"Mob drops":"モブドロップ",
+	"Chest loot":"チェストの戦利品",
+	"More ench lvl":"エンチャントLvを上げる",
+	"You can install addons in your world to have more TE+ custom enchantments!":"ワールドにアドオンをインストールしてTE+カスタムエンチャントを増やせる!",
+	"[Template Download]":"[テンプレートダウンロード]",
+	"[Collection Download]":"[コレクションダウンロード]",
+	"You can install complements to make TE+ enchantments be compatible with certain mod items!":"TE+のエンチャントを特定のMODアイテムに対応させるための補填をインストールすることができます!",
+	"[See Available]":"[利用可能]",
+
+
+	" To uninstall the datpack, complements and addons related with Technical Enchant+.":" テクニカルエンチャント+に関連するデータバック、コンプリメント、アドオンをアンインストールするには.",
+	" To change the default datapack configuration as you want.":" データバックの初期設定を好きなように変更するには.",
+	" To force the nearest entity to convert into an Enchanted Mob.":" 一番近いエンティティを強制的にエンチャントモブに変換するには.",
+
+
+	"Vanilla enchanting:":"バニラエンチャント:",
+	"Enchant items with vanilla enchantments when using an enchanting setup.":"エンチャント設定使用時にバニラエンチャントでアイテムをエンチャントする.",
+
+	"Book enchanting:":"ブックエンチャント:",
+	"Obtain custom enchanted books when using an enchanting setup.":"エンチャント設定時にカスタムエンチャントされた本を入手する.",
+
+	"Item enchanting:":"アイテムエンチャント:",
+	"Apply custom enchantments to items when using an enchanting setup.":"エンチャント設定時にカスタムエンチャントをアイテムに適用する.",
+
+	"Enchantments combination:":"エンチャントコンビネーション:",
+	"Apply custom enchantmets to items using books.":"本を使用しているアイテムにカスタムエンチャントを適用する.",
+
+	"Merge books:":"本を合成する:",
+	"Stack enchantments when combining books with books in the Technical Anvil.":"テクニカル金床で本と本を組み合わせたときにエンチャントをスタックする.",
+
+	"Merge items:":"アイテムを合成する:",
+	"Stack enchantments when combining an item with with the same item using the Technical Anvil.":"テクニカル金床を使ってアイテムと同じアイテムを結合するときにスタックエンチャントされます.",
+
+	"Extracting Mode:":"抽出モード:",
+	"Separate custom enchantments from an enchanted item using the Technical Anvil.":"テクニカル金床を使ってエンチャントされたアイテムからカスタムエンチャントを分離する.",
+
+	"Disenchant system:":"ディスエンチャントシステム:",
+	"Revome all custom and vanilla enchantments at once using the grindstone.":"change.",
+
+	"Low performance mode:":"change:",
+	"This will disable the enchanting table animation and many particles.":"砥石を使ってカスタムエンチャントとバニラエンチャントを全て一度に除去する.",
+
+	"1 Year Birthday potion will work":"1年誕生日ポーションが効くようになります",
+
+	"Xp level cost:":"Xpレベルコスト:",
+	"When using the Technical Anvil.":"テクニカルアンビル使用時.",
+
+	"All entities":"すべてのエンティティ",
+	"Not players Only":"プレイヤー以外",
+	"Not villagers and pets Only":"村人とペットのみ",
+	"Both: M2 and M3":"両方",
+
+
+	"Is now enabled!":"有効になりました!",
+	"In case you don't have the Attributes from this enchantment in your items,":"このエンチャントで得た属性がアイテムにない場合,",
+	"add this enchantment again using a Technical Anivl.":"テクニカル金床を使ってこのエンチャントを再度追加してください.",
+	"[Return to the Menu?]":"[メニューに戻る?]",
+
+
+
+
+
+
+
+	"Most Hostile Mobs ":"ほとんどの敵対的なモブ ",
+	"can use TE+ custom enchanted items. With this, you get an extra challenge when fighting against mobs with the following changes:":"TE+のカスタムエンチャントアイテムを使用することができます。これにより、以下の変更点を持つモブと戦う際に、さらなる挑戦ができるようになります:",
+
+	"Armor: ":"アーマー: ",
+	"Most of them can be used, ":"ほとんどのものが使用できる, ",
+	"including curse of sensitive":"敏感の呪いを含む",
+
+	"Tools: ":"道具: ",
+	"Only some axe and hoe enchantments will work for mobs, ":"モブに使えるのは一部の斧と鍬のエンチャントのみ, ",
+	"this also includes splatter":"スプラッターも含む",
+
+	"Weapons: ":"武器: ",
+	"Most enchantments will work for mobs, but it varies depening if the mob is capable of using":"ほとんどのエンチャントはMobに有効ですが、Mobが近接/遠距離武器を使えるかどうかによって異なります",
+	" melee/ranged weapons":" 近接/遠距離武器",
+	"This feature may compromise (a bit) the performance of your world, but you can disable it whenever you want.":"この機能はワールドのパフォーマンスを（少し）損なうかもしれませんが、いつでも無効にすることができます.",
+
+
+
+
+	"Every few often, ":"数回に一度, ",
+	"mobs will naturally spawn with TE+ enchanted gear!":"モブがTE+エンチャントされたギアを持って自然にスポーンするようになります",
+	"The gear varies in material, number of enchantments, and pieces:":"装備は素材、エンチャント数、ピースが異なります:",
+	" [Armor, mainhand and offhand item]":" [防具、メインハンド、オフハンドアイテム]",
+	" This means, that the mob can spawn with almost any enchantable item":" つまり、モブはほぼ全てのエンチャント可能なアイテムを持ってスポーンすることができる",
+	" (that isn't netherite) ":" (ネザライトでない) ",
+	"depending on it's type (melee or ranged).":"タイプ（近接、遠距離）によります.",
+	"You may encounter a mob fully enchanted with more than a custom enchantment or curse.":"カスタムエンチャントや呪い以上のもので完全にエンチャントされたモブに遭遇することがある.",
+	"You can modify the drop chances of the mob using the Config Menu.":"コンフィグメニューを使用してモブのドロップ確率を変更することができます.",
+	" By default, it is set to Minecraft's vanilla drop chance (very low).":"デフォルトでは、マインクラフトのバニラドロップ確率(非常に低い)に設定されています.",
+
+
+
+
+	"Every 3 minutes":"3分毎に",
+	" some random mobs will be ":" いくつかのランダムなモブが ",
+	"blessed":"祝福",
+	" with an enchanted book drop!": "エンチャントされた本のドロップで!",
+	"This mob will display a unique PARTICLE and will glow (if enabled) with different colors:":"このモブはユニークなパーティクルを表示し、（有効であれば）異なる色で光ります:",
+
+	"Green:":"緑:",
+	" Low custom enchanted book":" ローカスタムエンチャントブック",
+	"Aqua:":"アクア:",
+	" Average custom enchanted book":" アベレージカスタムエンチャントブック",
+	"Red:":"レッド:",
+	" Strong custom enchanted book":" ストロングカスタムエンチャントブック",
+	"Pink:":"ピンク:",
+	" Custom Cursed enchanted book":" カスタムカースドエンチャントブック",
+
+	"You MUST to kill this mob with at least":"このモブを殺すには、最低でも",
+	" looting III. ":" 戦利品III. ",
+	"Though, keep in mind that the enchanted book drop":"ただし、呪われた本のドロップに注意してください",
+	" isn't 100% guaranteed.":" 100%保証はできない.",
+
+	"Be careful!":"気をつけろよ!",
+	" These mobs will have ":" これらのモブには ",
+	"some buffs":"いくつかのバフ",
+	" that make them stronger and resistant.":" より強く、より耐性を持つようになる.",
+
+
+
+
+
+	"You can ":"あなたは ",
+	"find custom enchanted books":"カスタムエンチャントブックを見つけることができる",
+	" by exploring the world while ":" チェストの戦利品を探しながら、世界を探索することで ",
+	"searching for chest loot.":"戦利品を探すことができます.",
+	"Some structures will have ":"一部の建造物には ",
+	"themed enchantments.":"テーマのあるエンチャント.",
+	"Every structure has a ":"すべての構造物には ",
+	" to generate a custom enchanted book. And then it has a small chance of being a ":" を使って、カスタムエンチャント本を生成する。そして、それはわずかな確率で ",
+	"custom curse.":"カスタム呪文.",
+	"You can disable the whole extention or just disable a certain structure from generating a loot-table with custom enchantments.":"エクステンション全体を無効にしたり、特定の構造物だけカスタムエンチャント付きの戦利品テーブルを生成できないようにすることができます.",
+
+
+
+
+
+	" Then, you can apply that book to the item using the Technical Anvil. By default the new level is set for:":" その後,金床を使ってその本をアイテムに適用します。デフォルトでは、新しいレベルは次のように設定されています:",
+	" Up to level ":" レベルまで ",
+
+
+
+
+
+
+
+	"No entity has been found nearby":"近くに実体が見当たりません",
+	"This entity can't convert into an enchanted mob":"このエンティティはエンチャントされたモブに変換できません",
+	"Mob Drops Extention is currently disabled":"モブドロップスエクステンションは現在無効です",
+
+
+
+
+
+	"                        EXTENTIONS MANAGER":"                        エクステンションマネージャー",
+	" Extentions Manager:":" エクステンションマネージャー:",
+	" Change the behaviour of extra features from the datapack adjusting to your needs.":" データパックに含まれる追加機能の動作を、ニーズに合わせて変更します.",
+
+
+	"Select a category:":"カテゴリを選択:",
+	"(Enabled)":"(有効)",
+	"(Disabled)":"(無効)",
+	"Allow hostile mobs to use custom enchantments. Note that if the enchantment is disabled, the mob won't trigger it, even if this feature is enabled!":"敵対するMobがカスタムエンチャントを使用できるようにします。エンチャントが無効になっている場合、この機能が有効になっていてもmobは発動しないので注意!",
+
+	"- Open the Menu for:   ":"- メニューを開いてください:   ",
+	"Mob Spawning":"モブ・スポーン",
+	"Enchanted Mob Drops":"エンチャントモブドロップ",
+	"Structure Chest Loot":"ストラクチャーチェストの戦利品",
+	"Exceed vanilla enchant level":"バニラエンチャントレベルを超える",
+
+
+
+
+
+
+
+	"Mobs can spawn wearing armor and other items with custom enchantments. They can't spawn with netherite gear.":"モブがカスタムエンチャントされたアーマーなどを身につけてスポーンできるようになります。ネザーライトの装備ではスポーンできない.",
+	"- Helmet drop chance:":"- ヘルメットのドロップ確率:",
+	"- Chestplate drop chance:":"- チェストプレートのドロップ確率:",
+	"- Leggings drop chance:":"- レギンスドロップチャンス:",
+	"- Boots drop chance:":"- ブーツドロップ確率:",
+	"- Mainhand drop chance:":"- メインハンドドロップチャンス:",
+	"- Offhand drop chance:":"- オフハンドドロップチャンス:",
+	"[← Return]":"[← 戻る]",
+	"Edit":"編集",
+	"Vanilla (very low)":"バニラ (非常に低い)",
+
+
+	"Some random mobs (excluding bosses, pets and villagers) will spawn with the chance of dropping custom enchanted books.":"一部のランダムモブ (ボス、ペット、村人を除く) がカスタムエンチャント本をドロップする確率でスポーンする.",
+	"Will drop a custom enchanted book when killing them with Looting III or beyond":"略奪III以上で殺害するとカスタムエンチャントブックをドロップするようになる",
+	"Glow based on their rarity":"レアリティに応じた輝きを放つ",
+	"Can spawn with attributes and potion effects":"属性とポーションの効果でスポーンできる",
+	"Enchanted book drop chance when killed":"キルした時のエンチャントブックドロップ確率",
+	"Enchanted Mob spawning rates":"エンチャントモブのスポーン率",
+
+
+	"Generate custom enchanted books in any Minecraft Vanilla structure. This feature, don't overwrite the vanilla loot-table!":"任意のMinecraftバニラ構造でカスタムエンチャントブックを生成します。この機能は、バニラの戦利品テーブルを上書きしないように!",
+	"For a specific structure:":"特定の構造物について:",
+	"Abandoned Mineshaft":"見捨てられた鉱山採掘場",
+	"Ancient City":"古代都市",
+	"Bastion Remnant":"要塞の残骸",
+	"Buried Treasure":"埋もれた財宝",
+	"Desert Pyramid":"砂漠のピラミッド",
+	"End City":"エンドシティ",
+	"Igloo":"イグルー",
+	"Jungle Temple":"ジャングル寺院",
+	"Fortress":"フォートレス",
+	"Pillager Outpost":"ピラジャーズアウトポスト",
+	"Ruined Portal":"廃墟のポータル",
+	"Shipwreck":"難破船",
+	"Dungeon":"ダンジョン",
+	"Stronghold":"強襲砦",
+	"Stronghold Library":"地下牢図書館",
+	"Underwater Ruins":"海底遺跡",
+	"Villages":"村",
+	"Woodland Mansion":"森の洋館",
+
+
+	"Use the Technical Anvil to surpass the vanilla enchantment level for:":"テクニカル金床を使用して、バニラのエンチャントレベルを上回る:",
+	"Max level:":"最大レベル:",
+
+
+	"[Next →]":"[次 →]",
+	"[← Previous]":"[← 前]"
 }

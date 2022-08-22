@@ -157,39 +157,15 @@
 	" Configure the way the datapack works, like how to get and apply custom enchantments!":" Konfiguracja sposobu w jaki działa datapack (W jaki sposób nakładać customowe zaklęcia!)",
 	" Custom enchantments options:":" Opcje customowych zaklęć:",
 	" Enable and Disable the enchantments you want.":" Włącz lub wyłącz poszczególne zaklęcia",
-	"Get Special Enchanted Books!":"Zdobądź Specjalną Zaklętą Książkę!",
-	"[SUPER]":"[SUPER]",
-	"[MEGA]":"[MEGA]",
-	"[ULTRA]":"[ULTRA]",
-	"Super Enchanted Book":"SUPER zaklęta książka",
-	"Mega Enchanted Book":"MEGA zaklęta książka",
-	"Ultra Enchanted Book":"ULTRA zaklęta książka",
-
 
 
 
 	"__Comment1__":"Gameplay config MENU information",
 
 	"                       GAMEPLAY OPTIONS MENU":"                       Opcje rozgrywki",
-	"Exceed vanilla enchantment level limit for books          ":"Zwiękrz poziom podstawowych zaklęć dla książek          ",
-	"Echanting system with enchanting table for books        ":"System zaklinania z stołem do zaklęć dla książek          ",
-	"Echanting system with enchanting table for items         ":"System zaklinania z stołem do zaklęć dla przedmiotów    ",
-	"Combine an item with a custom enchanted book             ":"Łączenie przedmiotów z customowo zaklniętymi książkami                                                                                  ",
-	"Merge custom enchanted books in the Technical Anvil   ":"Łączenie customowo zaklniętych książek w Ultra Kowadle",
-	"Merge custom enchanted items in the Technical Anvil     ":"Łączenie customowo zaklniętych przedmiotów w Ultra Kowadle                                                                          ",
-	"Extract enchantments using the Technical Anvil           ":"Rozłączanie zaklęć używając Ultra Kowadła               ",
-	"Disenchant system using vanilla grindstone                ":"Rozłączanie używając kamienia szlifierskiego              ",
-	"Soul Reaper affects entity:                          ":"Żądza Krwi dotyczy bytów:                           ",
-	"Timber enchantment can break leaves                  ":"Zaklęcie Drwal może zniszczyć liście                    ",
-	" [METHOD 1] ":" [METODA 1] ",
-	" [METHOD 2] ":" [METODA 2] ",
-	" [METHOD 3] ":" [METODA 3] ",
-	" [METHOD 4] ":" [METODA 4] ",
-	"Xp level cost to enchant with the Technical Anvil        ":"Ultra Kowadło kosztuje poziomy doświadczenia          ",
-	"1 Year Birthday potion                                      ":"1-urodzinowa mikstura                                     ",
-	" Low performance mode                                 ":" Tryb niskiej jakości                                   ",
-	"[YES]":"[TAK]",
-	"[NO]":"[NIE]",
+	"Soul Reaper affects entity:":"Żądza Krwi dotyczy bytów:",
+	"Timber enchantment can break leaves":"Zaklęcie Drwal może zniszczyć liście",
+
 
 
 
@@ -218,20 +194,13 @@
 	"Transmission":"Taktyczny Odwrót",
 	"Xp Boost":"Grabież XP",
 
-	"__Comment1.1__":"Enchantments config MENU extra things",
-	"[ENABLED]":"[ZEZWOLONO]",
-	" WARNING!!! THIS IS PERMANENT  ":" UWAGA!!! To JEST TRWAŁA ZMIANA  ",
-	"Are you sure you want to enable this?":"Czy jesteś pewien, że chcesz na to zezwolić?",
-	"If you continue, each player is allowed to merge this enchantment book with its corresponding item.":"Jeśli będziesz kontynuował, każdy gracz będzie mógł połączyć tą zaklętą książkę z oddpowiadającym jej przedmiotem",
-	" Even if you uninstall this datapack, items with this enchantment will continue to work!":" Nawet jeśli odinstalujesz datapacka, przedmioty z tym zaklęciem będą dalej działać!",
-	"[RETURN]":"[ZATWIERDŹ]",
-	"[CONTINUE]":"[DALEJ]",
-
 
 
 	"__Comment2__":"Blocks and Technical Anvil UI",
 
 	"Charged Bookshelf":"Naładowane Biblioteczki",
+	"Place it down to increase the":"change",
+	"tier of an enchanting setup":"change",
 	"Technical Anvil":"Ultra Kowadło",
 	"Place it down to merge or":"Połóż tutaj aby połączyć, albo",
 	"extract custom enchantments":"wyodrębnić customowe zaklęcia",
@@ -302,7 +271,7 @@
 	"Why did you made this?":"Dlaczego to zrobiłeś?",
 
     "Exceed the limit":"Przełamuj bariery",
-	"Enable more enchantment level for vanilla books":"Zezwól na więkrzy poziom podstawowych zaklęć",
+	"Get an exceeded vanilla enchanted book!":"change",
 
 	"Vanilla +":"Vanilla+",
 	"Get the 12 new max level enchantment books":"Zdobądź 12 nowych wymaksowanych zaklętych książek",
@@ -484,25 +453,15 @@
 	"__Comment5.1__":"Page 1",
 	"New Items":"Nowe Przedmioty",
 	"Main Mechanics":"Podstawowe Mechaniki",
-	"Enchanting":"Zaklinanie",
-	"rates":"Satystyki",
 	
 
 	"__Comment5.2__":"Page 2",
-	"List of":"Lista",
-	"enchantments":"z",
-	"Additional":"Dodatkowe",
-	"feature":"funkcjonalności",
-	"Find":"Znajdywanie",
 	"Admin Tools":"Narzędzia Admina",
 	"Credits":"Podziękowania",
 
 
 	"__Comment5.3__":"Page 3",
-	"Current datapack version:":"Aktualna wersja datapacka:",
-	"Compatible with  Minecraft 1.17+":"Działa z Minecraft 1.17+",
-	"Adds over 67 brand new enchantments for your tools, armor and weapons. With fully customisable gameplay.":"Dodaje ponad 67 całkowicie nowych zaklęć dla twoich narządzi, zbroji i broni. Z customizowaną rozgrywką.",
-	"(1 Year Birthday Potion)":"(1-urodzinowa mikstura)",
+	"(Birthday Potion)":"(change)",
 	"Celebrate the best party,":"Baw się na najlepszej imprezie",
 	"with cakes, candles, fireworks":"z ciastami, świeczkami, fajerwerkami",
 	"and balloons!":"i balonami",
@@ -526,11 +485,8 @@
 	"__Comment6__":"LOAD - UNINSTALL message",
 	"Custom Villagers Module:":"Custom Villagers Module:",
 	" Not installed":" Nie zainstalowano",
-	"In case you want villagers to sell Custom Enchanted Books from TE+, clic ":"Jeśli chciałbyć aby wieśniaki mieli w swojej ofercie customowo zaklęte książki z TE+, kliknij ",
 	"[HERE]":"[TU]",
-	" to download ;)":" aby pobrać ;)",
 	" Installed":" Zainstalowano",
-	"Enjoy villagers selling most of Technical Enchant+ books!":"Ciesz się nowymi ofertami wieśniaków!",
 	" has been":" Zostało",
 	" uninstalled":" odinstalowane",
 	" successfully.":" pomyślnie.",
@@ -704,55 +660,15 @@
 
 
 	"__Comment7.5__":"Additional Feature",
-	"\"This option is disabled by default\"":"\"Ta opcja jest domyślnie wyłączona \"",
-	"(You can enable it with Admin Tools Commands)":"(Możesz ją włączyć poprzez Narzędzia Admina TOOLS)",
 	"By placing ":"Stawiając ",
 	"two same (MAXED OUT) vanilla enchanted books ":"dwie takie same (wymaksowane) podstawowe zaklęte książki ",
 	"in the technical anvil, you can obtain an enchantment level higher than in vanilla!":"w Ultra Kowadle, możesz pozyskać poziom zaklęcia wyższy niż podstawowy!",
-	" Then, you can apply that book to the item using the Technical Anvil.":" Następnie, możesz nałożyć to zaklęcie na przedmiot używając Ultra Kowadła.",
-
-	"Efficiency ----> ":"Wydajność ----> ",
-	" Up to lvl 6":" do poziomu VI",
-	"Feather Falling ----> ":"Powolne Opadanie ----> ",
-	" Up to lvl 5":" do poziomu V",
-	"Fortune ----> ":"Szczęście ----> ",
-	" Up to lvl 4":" do poziomu IV",
-	"Impaling ----> ":"Przebicie ----> ",
-	"Looting ----> ":"Grabież ----> ",
-	"Luck of the Sea ----> ":"Morska Fortuna ----> ",
-	"Lure ----> ":"Przynenta ----> ",
-	"Power ----> ":"Moc ----> ",
-	"Protection ----> ":"Ochrona ----> ",
-	"Respiration ----> ":"Oddychanie ----> ",
-	"Sharpness ----> ":"Ostrość ----> ",
-	" Up to lvl 7":" do poziomu VII",
-	"Unbreaking ----> ":"Niezniszczalność ----> ",
 
 
 
 
 
 
-	"__Comment7.6__":"Find Enchantments",
-	"You can ":"Możesz ",
-	"find SOME enchantments Naturally":"znaleść trochę zaklęć podróżując po świecie",
-	" without going through the enchanting table:":" bez przechodzenia przez stół do zaklęć:",
-	"There are three ways to get one:":"Są trzy drogi, aby to osiągnąć:",
-	"- killing monsters ":"- zabijanie potworów ",
-	"(Rare Drops, only using looting III)":"(Bardzo rzadki drop, tylko używając Grabieży III)",
-	"- Exploring structures ":"- zwiedzanie struktur ",
-	"(In chests)":"(w skrzyniach)",
-	"- And by fishing ":"- i przez łowienie ",
-	"(Treasure Drops)":"(podwodne skarby)",
-	"The Strucutres and Mobs will have ":"Struktury i moby będą miały ",
-	"Themed enchantments.":"tematyczne zaklęcia",
-	"Enchantments":"Zaklęcia",
-	" are unique to Structures Executed by the loot-table.":" są specjalne dla każdej struktury.",
-	"Example:":"Przykład:",
-	"The chests of the Nether Fortresses can contain ":"Skrzynia z Netherowej Fortecy może zawierać ",
-	"Lava Walker.":"Lawowy Piechur",
-	"Evokers may drop ":"Przyzywacz może upuścić ",
-	"Shock Fangs.":"Oszołomiające Kolce",
 
 
 
@@ -765,10 +681,6 @@
 	" To get a barrel full with ":" Aby dostać beczkę pełną ",
 	"all custom enchantments!":"wszystkich customowych zaklęć!",
 	" And items already enchanted at their max level.":" I wymaksowane przedmioty.",
-	" To uninstall the datpack. Keep in mind that items with: ":" Aby odinstalować datapack. Miej świadomość, że przedmioty z zaklęciami: ",
-	"Life+, Agility, Attack Speed, Anti-Knockback, Hardness+, Armored, or exceeded vanilla enchantment levels. ":"Life+, Zwinność, Prędkość, Przylepienie, Ultratwardość, Wzmocnienie i wzmocnionymi zaklęciami podstawowymi,  ",
-	"Are still going to work after using this command.":"będą nadal działać po użyciu tej komendy",
-	" To change the datapack configuration as you want. ":" Aby zmieniać ustawienia datapacka jak chcesz",
 	" Format, to enchant a held item using commands.":" Format, aby zaklnąć trzymany przedmiot używając komend.",
 	" Be aware that the Lore and Attributes will be overwritten.":" Bądź uważny, ponieważ wszystkie atrybuty zostaną nadpisane.",
 	"Error! ":"Błąd! ",
@@ -1029,7 +941,7 @@
 
 	"__Comment9.11__":"Auto-Feed",
 	"Auto-Feed :":"Karmnik :",
-	" fills your hunger bar every minute.":" Napełnia twój pasek głodu każdej minuty.",
+	" fills your hunger bar every 3 minutes.":" Napełnia twój pasek głodu każdej minuty.",
 
 
 	"__Comment9.12__":"Auto-Smelt",
@@ -1334,7 +1246,248 @@
 	"__Comment10__":"Addon Information",
 	"Custom Addons:":"Customowe Dodatki:",
 	" Not detected":" Nie wykryto",
-	"Want more enchantments? You can download addons created for Technical Enchant+ Renewed":"Chcesz więcej zaklęć? Możesz pobrać dodatki stwożone przez Technical Enchant+ Renewed",
 	" Were detected":" Wykryto",
-	"Enjoy new enchantments, you can even create your own!":"Baw się nowymi zaklęciami, możesz również stworzyć własne!"
+
+
+
+
+
+
+
+
+
+
+	"__Comment11__":"Information for v7.0",
+	"Enchanting Rates":"change",
+	"Enchantments List":"change",
+	"Mobs use":"change",
+	"Mob spawning":"change",
+	"Mob drops":"change",
+	"Chest loot":"change",
+	"More ench lvl":"change",
+	"You can install addons in your world to have more TE+ custom enchantments!":"change!",
+	"[Template Download]":"[change]",
+	"[Collection Download]":"[change]",
+	"You can install complements to make TE+ enchantments be compatible with certain mod items!":"change!",
+	"[See Available]":"[change]",
+
+
+	" To uninstall the datpack, complements and addons related with Technical Enchant+.":" change.",
+	" To change the default datapack configuration as you want.":" change.",
+	" To force the nearest entity to convert into an Enchanted Mob.":" change.",
+
+
+	"Vanilla enchanting:":"change:",
+	"Enchant items with vanilla enchantments when using an enchanting setup.":"change.",
+
+	"Book enchanting:":"change:",
+	"Obtain custom enchanted books when using an enchanting setup.":"change.",
+
+	"Item enchanting:":"change:",
+	"Apply custom enchantments to items when using an enchanting setup.":"change.",
+
+	"Enchantments combination:":"change:",
+	"Apply custom enchantmets to items using books.":"change.",
+
+	"Merge books:":"change:",
+	"Stack enchantments when combining books with books in the Technical Anvil.":"change.",
+
+	"Merge items:":"change:",
+	"Stack enchantments when combining an item with with the same item using the Technical Anvil.":"change.",
+
+	"Extracting Mode:":"change:",
+	"Separate custom enchantments from an enchanted item using the Technical Anvil.":"change.",
+
+	"Disenchant system:":"change:",
+	"Revome all custom and vanilla enchantments at once using the grindstone.":"change.",
+
+	"Low performance mode:":"change:",
+	"This will disable the enchanting table animation and many particles.":"change.",
+
+	"1 Year Birthday potion will work":"change",
+
+	"Xp level cost:":"change:",
+	"When using the Technical Anvil.":"change.",
+
+	"All entities":"change",
+	"Not players Only":"change",
+	"Not villagers and pets Only":"change",
+	"Both: M2 and M3":"change",
+
+
+	"Is now enabled!":"change!",
+	"In case you don't have the Attributes from this enchantment in your items,":"change,",
+	"add this enchantment again using a Technical Anivl.":"change.",
+	"[Return to the Menu?]":"[change]",
+
+
+
+
+
+
+
+	"Most Hostile Mobs ":"change ",
+	"can use TE+ custom enchanted items. With this, you get an extra challenge when fighting against mobs with the following changes:":"change change:",
+
+	"Armor: ":"change: ",
+	"Most of them can be used, ":"change, ",
+	"including curse of sensitive":"change",
+
+	"Tools: ":"change: ",
+	"Only some axe and hoe enchantments will work for mobs, ":"change, ",
+	"this also includes splatter":"change",
+
+	"Weapons: ":"change: ",
+	"Most enchantments will work for mobs, but it varies depening if the mob is capable of using":"change",
+	" melee/ranged weapons":" change",
+	"This feature may compromise (a bit) the performance of your world, but you can disable it whenever you want.":"change.",
+
+
+
+
+	"Every few often, ":"change, ",
+	"mobs will naturally spawn with TE+ enchanted gear!":"change",
+	"The gear varies in material, number of enchantments, and pieces:":"change:",
+	" [Armor, mainhand and offhand item]":" [change]",
+	" This means, that the mob can spawn with almost any enchantable item":" change",
+	" (that isn't netherite) ":" (change) ",
+	"depending on it's type (melee or ranged).":"change (change).",
+	"You may encounter a mob fully enchanted with more than a custom enchantment or curse.":"change.",
+	"You can modify the drop chances of the mob using the Config Menu.":"change.",
+	" By default, it is set to Minecraft's vanilla drop chance (very low).":"change (change).",
+
+
+
+
+	"Every 3 minutes":"change",
+	" some random mobs will be ":" change ",
+	"blessed":"change",
+	" with an enchanted book drop!": "change!",
+	"This mob will display a unique PARTICLE and will glow (if enabled) with different colors:":"change (change) change:",
+
+	"Green:":"change:",
+	" Low custom enchanted book":" change",
+	"Aqua:":"change:",
+	" Average custom enchanted book":" change",
+	"Red:":"change:",
+	" Strong custom enchanted book":" change",
+	"Pink:":"change:",
+	" Custom Cursed enchanted book":" change",
+
+	"You MUST to kill this mob with at least":"change",
+	" looting III. ":" change. ",
+	"Though, keep in mind that the enchanted book drop":"change",
+	" isn't 100% guaranteed.":" change.",
+
+	"Be careful!":"change!",
+	" These mobs will have ":" change ",
+	"some buffs":"change",
+	" that make them stronger and resistant.":" change.",
+
+
+
+
+
+	"You can ":"change ",
+	"find custom enchanted books":"change",
+	" by exploring the world while ":" change ",
+	"searching for chest loot.":"change.",
+	"Some structures will have ":"change ",
+	"themed enchantments.":"change.",
+	"Every structure has a ":"change ",
+	" to generate a custom enchanted book. And then it has a small chance of being a ":" change ",
+	"custom curse.":"change.",
+	"You can disable the whole extention or just disable a certain structure from generating a loot-table with custom enchantments.":"change.",
+
+
+
+
+
+	" Then, you can apply that book to the item using the Technical Anvil. By default the new level is set for:":" change, change. change change:",
+	" Up to level ":" change ",
+
+
+
+
+
+
+
+	"No entity has been found nearby":"change",
+	"This entity can't convert into an enchanted mob":"change",
+	"Mob Drops Extention is currently disabled":"change",
+
+
+
+
+
+	"                        EXTENTIONS MANAGER":"                        change",
+	" Extentions Manager:":" change:",
+	" Change the behaviour of extra features from the datapack adjusting to your needs.":" change.",
+
+
+	"Select a category:":"change:",
+	"(Enabled)":"(change)",
+	"(Disabled)":"(change)",
+	"Allow hostile mobs to use custom enchantments. Note that if the enchantment is disabled, the mob won't trigger it, even if this feature is enabled!":"change. change, change, change!",
+
+	"- Open the Menu for:   ":"- change:   ",
+	"Mob Spawning":"change",
+	"Enchanted Mob Drops":"change",
+	"Structure Chest Loot":"change",
+	"Exceed vanilla enchant level":"change",
+
+
+
+
+
+
+
+	"Mobs can spawn wearing armor and other items with custom enchantments. They can't spawn with netherite gear.":"change. change.",
+	"- Helmet drop chance:":"- change:",
+	"- Chestplate drop chance:":"- change:",
+	"- Leggings drop chance:":"- change:",
+	"- Boots drop chance:":"- change:",
+	"- Mainhand drop chance:":"- change:",
+	"- Offhand drop chance:":"- change:",
+	"[← Return]":"[← change]",
+	"Edit":"change",
+	"Vanilla (very low)":"change (change)",
+
+
+	"Some random mobs (excluding bosses, pets and villagers) will spawn with the chance of dropping custom enchanted books.":"change (change) change.",
+	"Will drop a custom enchanted book when killing them with Looting III or beyond":"change",
+	"Glow based on their rarity":"change",
+	"Can spawn with attributes and potion effects":"change",
+	"Enchanted book drop chance when killed":"change",
+	"Enchanted Mob spawning rates":"change",
+
+
+	"Generate custom enchanted books in any Minecraft Vanilla structure. This feature, don't overwrite the vanilla loot-table!":"change. change, change!",
+	"For a specific structure:":"change:",
+	"Abandoned Mineshaft":"change",
+	"Ancient City":"change",
+	"Bastion Remnant":"change",
+	"Buried Treasure":"change",
+	"Desert Pyramid":"change",
+	"End City":"change",
+	"Igloo":"change",
+	"Jungle Temple":"change",
+	"Fortress":"change",
+	"Pillager Outpost":"change",
+	"Ruined Portal":"change",
+	"Shipwreck":"change",
+	"Dungeon":"change",
+	"Stronghold":"change",
+	"Stronghold Library":"change",
+	"Underwater Ruins":"change",
+	"Villages":"change",
+	"Woodland Mansion":"change",
+
+
+	"Use the Technical Anvil to surpass the vanilla enchantment level for:":"change:",
+	"Max level:":"change:",
+
+
+	"[Next →]":"[change →]",
+	"[← Previous]":"[← change]"
 }
