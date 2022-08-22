@@ -1,6 +1,1 @@
-{
-    "parent":"mechanization:machines/grinder_off",
-    "textures": {
-        "1": "mechanization:machines/grinder_front_on"
-    }
-}
+{"parent":"mechanization:machines/grinder_off","textures":{"1":"mechanization:machines/grinder_front_on"}}

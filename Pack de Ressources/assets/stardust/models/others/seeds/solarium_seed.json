@@ -1,6 +1,1 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "stardust:others/solarium_seed"
-	}
-}
+{"parent":"item/handheld","textures":{"layer0":"stardust:others/solarium_seed"}}

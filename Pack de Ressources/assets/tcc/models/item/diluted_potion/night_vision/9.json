@@ -1,8 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-      "layer0": "tcc:item/diluted_potion/glass",
-      "layer1": "tcc:item/diluted_potion/night_vision/9"
-    }
-  }
-  
+{"parent":"item/generated","textures":{"layer0":"tcc:item/diluted_potion/glass","layer1":"tcc:item/diluted_potion/night_vision/9"}}

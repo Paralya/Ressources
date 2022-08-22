@@ -1,6 +1,1 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "crazy_adventure:materials/californium_waste"
-	}
-}
+{"parent":"item/handheld","textures":{"layer0":"crazy_adventure:materials/californium_waste"}}

@@ -1,7 +1,1 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "stardust:equipments/solarium_leggings",
-        "layer1": "stardust:equipments/solarium_leggings"
-    }
-}
+{"parent":"item/handheld","textures":{"layer0":"stardust:equipments/solarium_leggings","layer1":"stardust:equipments/solarium_leggings"}}

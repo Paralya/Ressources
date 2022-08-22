@@ -1,6 +1,1 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "crazy_adventure:gui/upgrader/attack_damage_upgrade_off"
-	}
-}
+{"parent":"item/generated","textures":{"layer0":"crazy_adventure:gui/upgrader/attack_damage_upgrade_off"}}

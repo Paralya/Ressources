@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "tcc:item/dyed_bundle/red"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"tcc:item/dyed_bundle/red"}}

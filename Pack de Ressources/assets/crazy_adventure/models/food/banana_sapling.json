@@ -1,6 +1,1 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "crazy_adventure:food/banana_sapling"
-	}
-}
+{"parent":"item/handheld","textures":{"layer0":"crazy_adventure:food/banana_sapling"}}

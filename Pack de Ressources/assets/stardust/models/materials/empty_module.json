@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "stardust:materials/empty_module"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"stardust:materials/empty_module"}}

@@ -1,6 +1,1 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "stardust:equipments/ultimate_helmet"
-    }
-}
+{"parent":"item/handheld","textures":{"layer0":"stardust:equipments/ultimate_helmet"}}

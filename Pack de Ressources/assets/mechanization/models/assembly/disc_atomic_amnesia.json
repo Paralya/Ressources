@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "mechanization:assembly/disc_atomic_amnesia"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"mechanization:assembly/disc_atomic_amnesia"}}

@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "stardust:materials/photovoltaic_cell/darkium"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"stardust:materials/photovoltaic_cell/darkium"}}

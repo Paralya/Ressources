@@ -1,7 +1,1 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "tcc:block/frostbloom",
-    "particle": "tcc:block/frostbloom"
-  }
-}
+{"parent":"item/generated","textures":{"layer0":"tcc:block/frostbloom","particle":"tcc:block/frostbloom"}}

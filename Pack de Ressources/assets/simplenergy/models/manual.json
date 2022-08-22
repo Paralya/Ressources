@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "simplenergy:manual"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"simplenergy:manual"}}

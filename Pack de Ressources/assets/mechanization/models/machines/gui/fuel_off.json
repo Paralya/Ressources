@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "mechanization:machines/gui/fuel_off"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"mechanization:machines/gui/fuel_off"}}

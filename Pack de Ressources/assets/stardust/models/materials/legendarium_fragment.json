@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "stardust:materials/legendarium_fragment"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"stardust:materials/legendarium_fragment"}}

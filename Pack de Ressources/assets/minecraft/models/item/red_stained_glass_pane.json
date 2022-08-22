@@ -1,14 +1,1 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:block/red_stained_glass"
-  },
-	"overrides": [
-    {"predicate": {"custom_model_data":70123}, "model": "teplus:ui/no_progress/merge_down"},
-    {"predicate": {"custom_model_data":70124}, "model": "teplus:ui/no_progress/merge_left"},
-    {"predicate": {"custom_model_data":70125}, "model": "teplus:ui/no_progress/merge_right"},
-    {"predicate": {"custom_model_data":70126}, "model": "teplus:ui/no_progress/arrow_left"},
-    {"predicate": {"custom_model_data":70127}, "model": "teplus:ui/no_progress/arrow_right"},
-    {"predicate": {"custom_model_data":70128}, "model": "teplus:ui/no_progress/extract"}
-	]
-}
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/red_stained_glass"},"overrides":[{"predicate":{"custom_model_data":70123},"model":"teplus:ui/no_progress/merge_down"},{"predicate":{"custom_model_data":70124},"model":"teplus:ui/no_progress/merge_left"},{"predicate":{"custom_model_data":70125},"model":"teplus:ui/no_progress/merge_right"},{"predicate":{"custom_model_data":70126},"model":"teplus:ui/no_progress/arrow_left"},{"predicate":{"custom_model_data":70127},"model":"teplus:ui/no_progress/arrow_right"},{"predicate":{"custom_model_data":70128},"model":"teplus:ui/no_progress/extract"}]}

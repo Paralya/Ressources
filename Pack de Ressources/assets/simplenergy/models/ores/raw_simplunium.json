@@ -1,6 +1,1 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "simplenergy:ores/raw_simplunium"
-	}
-}
+{"parent":"item/generated","textures":{"layer0":"simplenergy:ores/raw_simplunium"}}

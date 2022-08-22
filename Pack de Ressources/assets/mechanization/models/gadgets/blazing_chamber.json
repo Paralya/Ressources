@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "mechanization:gadgets/blazing_chamber"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"mechanization:gadgets/blazing_chamber"}}

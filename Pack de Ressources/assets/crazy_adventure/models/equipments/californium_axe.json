@@ -1,6 +1,1 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "crazy_adventure:equipments/californium_axe"
-	}
-}
+{"parent":"item/handheld","textures":{"layer0":"crazy_adventure:equipments/californium_axe"}}

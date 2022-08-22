@@ -1,7 +1,1 @@
-
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "mechanization:compat/verdant_gear"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"mechanization:compat/verdant_gear"}}

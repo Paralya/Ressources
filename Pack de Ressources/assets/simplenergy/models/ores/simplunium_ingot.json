@@ -1,6 +1,1 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "simplenergy:ores/simplunium_ingot"
-	}
-}
+{"parent":"item/generated","textures":{"layer0":"simplenergy:ores/simplunium_ingot"}}

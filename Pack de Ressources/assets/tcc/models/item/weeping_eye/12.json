@@ -1,6 +1,1 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "tcc:item/weeping_eye/12"
-  }
-}
+{"parent":"minecraft:item/generated","textures":{"layer0":"tcc:item/weeping_eye/12"}}

@@ -1,6 +1,1 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "stardust:equipments/speed_artifact_lvmax"
-    }
-}
+{"parent":"item/handheld","textures":{"layer0":"stardust:equipments/speed_artifact_lvmax"}}

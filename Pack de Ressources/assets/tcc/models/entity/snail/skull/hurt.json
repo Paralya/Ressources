@@ -1,6 +1,1 @@
-{
-	"parent": "tcc:entity/snail/template",
-	"textures": {
-		"0": "tcc:entity/snail/skull/hurt"
-	}
-}
+{"parent":"tcc:entity/snail/template","textures":{"0":"tcc:entity/snail/skull/hurt"}}

@@ -1,6 +1,1 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "stardust:equipments/item_magnet"
-    }
-}
+{"parent":"item/handheld","textures":{"layer0":"stardust:equipments/item_magnet"}}

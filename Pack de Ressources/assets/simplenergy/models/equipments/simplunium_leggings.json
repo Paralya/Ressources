@@ -1,7 +1,1 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "simplenergy:equipments/simplunium_leggings",
-        "layer1": "simplenergy:equipments/simplunium_leggings"
-    }
-}
+{"parent":"item/handheld","textures":{"layer0":"simplenergy:equipments/simplunium_leggings","layer1":"simplenergy:equipments/simplunium_leggings"}}

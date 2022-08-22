@@ -1,6 +1,1 @@
-{
-	"parent": "block/cube_all",
-	"textures": {
-		"all": "stardust:others/portals/celestial"
-	}
-}
+{"parent":"block/cube_all","textures":{"all":"stardust:others/portals/celestial"}}

@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "mechanization:machines/gui/gear_cast"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"mechanization:machines/gui/gear_cast"}}

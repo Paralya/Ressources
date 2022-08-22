@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "stardust:materials/dragon_pearl"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"stardust:materials/dragon_pearl"}}

@@ -1,6 +1,1 @@
-{
-    "parent": "teplus:ui/abstract/slot",
-    "textures": {
-        "layer0": "teplus:ui/progress/merge_down"
-    }
-}
+{"parent":"teplus:ui/abstract/slot","textures":{"layer0":"teplus:ui/progress/merge_down"}}

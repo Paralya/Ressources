@@ -1,7 +1,1 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "stardust:equipments/original_stardust_helmet",
-        "layer1": "stardust:equipments/original_stardust_helmet"
-    }
-}
+{"parent":"item/handheld","textures":{"layer0":"stardust:equipments/original_stardust_helmet","layer1":"stardust:equipments/original_stardust_helmet"}}

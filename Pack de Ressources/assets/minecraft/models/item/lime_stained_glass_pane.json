@@ -1,14 +1,1 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:block/lime_stained_glass"
-  },
-	"overrides": [
-    {"predicate": {"custom_model_data":70129}, "model": "teplus:ui/progress/merge_down"},
-    {"predicate": {"custom_model_data":70130}, "model": "teplus:ui/progress/merge_left"},
-    {"predicate": {"custom_model_data":70131}, "model": "teplus:ui/progress/merge_right"},
-    {"predicate": {"custom_model_data":70132}, "model": "teplus:ui/progress/arrow_left"},
-    {"predicate": {"custom_model_data":70133}, "model": "teplus:ui/progress/arrow_right"},
-    {"predicate": {"custom_model_data":70134}, "model": "teplus:ui/progress/extract"}
-	]
-}
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/lime_stained_glass"},"overrides":[{"predicate":{"custom_model_data":70129},"model":"teplus:ui/progress/merge_down"},{"predicate":{"custom_model_data":70130},"model":"teplus:ui/progress/merge_left"},{"predicate":{"custom_model_data":70131},"model":"teplus:ui/progress/merge_right"},{"predicate":{"custom_model_data":70132},"model":"teplus:ui/progress/arrow_left"},{"predicate":{"custom_model_data":70133},"model":"teplus:ui/progress/arrow_right"},{"predicate":{"custom_model_data":70134},"model":"teplus:ui/progress/extract"}]}

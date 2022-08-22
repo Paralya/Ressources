@@ -1,6 +1,1 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "stardust:equipments/solarium_sword"
-    }
-}
+{"parent":"item/handheld","textures":{"layer0":"stardust:equipments/solarium_sword"}}

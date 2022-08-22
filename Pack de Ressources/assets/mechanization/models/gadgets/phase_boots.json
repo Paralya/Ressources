@@ -1,7 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-		"layer0": "mechanization:gadgets/phase_boots",
-        "layer1": "mechanization:gadgets/phase_boots"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"mechanization:gadgets/phase_boots","layer1":"mechanization:gadgets/phase_boots"}}

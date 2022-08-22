@@ -1,6 +1,1 @@
-{
-	"parent":"mechanization:base/model_block",
-    "textures": {
-        "0": "mechanization:base/resources/uranium_raw_block"
-    }
-}
+{"parent":"mechanization:base/model_block","textures":{"0":"mechanization:base/resources/uranium_raw_block"}}

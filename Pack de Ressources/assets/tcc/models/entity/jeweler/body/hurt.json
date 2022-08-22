@@ -1,6 +1,1 @@
-{
-	"parent": "tcc:entity/jeweler/body/normal",
-	"textures": {
-		"0": "tcc:entity/jeweler/hurt"
-	}
-}
+{"parent":"tcc:entity/jeweler/body/normal","textures":{"0":"tcc:entity/jeweler/hurt"}}

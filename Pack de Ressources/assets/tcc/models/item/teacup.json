@@ -1,7 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "tcc:item/teacup_overlay",
-        "layer1": "tcc:item/teacup"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"tcc:item/teacup_overlay","layer1":"tcc:item/teacup"}}

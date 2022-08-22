@@ -1,6 +1,1 @@
-{
-	"parent": "tcc:entity/coral_drowned/head/template",
-	"textures": {
-		"0": "tcc:entity/coral_drowned/bubble"
-	}
-}
+{"parent":"tcc:entity/coral_drowned/head/template","textures":{"0":"tcc:entity/coral_drowned/bubble"}}

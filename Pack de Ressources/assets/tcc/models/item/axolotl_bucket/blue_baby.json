@@ -1,6 +1,1 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "tcc:item/axolotl_bucket/blue_baby"
-  }
-}
+{"parent":"item/generated","textures":{"layer0":"tcc:item/axolotl_bucket/blue_baby"}}

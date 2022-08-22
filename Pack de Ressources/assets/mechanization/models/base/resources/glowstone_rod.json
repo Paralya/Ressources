@@ -1,7 +1,1 @@
-
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "mechanization:base/resources/glowstone_rod"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"mechanization:base/resources/glowstone_rod"}}

@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-		"layer0": "mechanization:gadgets/modular_chestplate_jetpack"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"mechanization:gadgets/modular_chestplate_jetpack"}}

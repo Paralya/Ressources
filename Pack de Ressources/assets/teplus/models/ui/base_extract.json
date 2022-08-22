@@ -1,6 +1,1 @@
-{
-    "parent": "teplus:ui/root_extract",
-    "textures": {
-        "texture": "teplus:ui/base_extract"
-    }
-}
+{"parent":"teplus:ui/root_extract","textures":{"texture":"teplus:ui/base_extract"}}

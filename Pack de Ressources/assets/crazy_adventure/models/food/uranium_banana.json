@@ -1,6 +1,1 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "crazy_adventure:food/uranium_banana"
-	}
-}
+{"parent":"item/handheld","textures":{"layer0":"crazy_adventure:food/uranium_banana"}}

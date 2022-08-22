@@ -1,6 +1,1 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "crazy_adventure:gui/upgrader/speed_upgrade"
-	}
-}
+{"parent":"item/generated","textures":{"layer0":"crazy_adventure:gui/upgrader/speed_upgrade"}}

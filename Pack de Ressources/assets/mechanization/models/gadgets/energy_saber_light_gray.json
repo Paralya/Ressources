@@ -1,6 +1,1 @@
-{
-	"parent":"mechanization:gadgets/energy_saber_white",
-	"textures": {
-		"0": "mechanization:gadgets/energy_saber_light_gray"
-	}
-}
+{"parent":"mechanization:gadgets/energy_saber_white","textures":{"0":"mechanization:gadgets/energy_saber_light_gray"}}

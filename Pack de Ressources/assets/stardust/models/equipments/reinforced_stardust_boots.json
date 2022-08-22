@@ -1,7 +1,1 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "stardust:equipments/reinforced_stardust_boots",
-        "layer1": "stardust:equipments/reinforced_stardust_boots"
-    }
-}
+{"parent":"item/handheld","textures":{"layer0":"stardust:equipments/reinforced_stardust_boots","layer1":"stardust:equipments/reinforced_stardust_boots"}}

@@ -1,6 +1,1 @@
-{
-    "parent": "mechanization:gadgets/portable_battery_0",
-    "textures": {
-        "layer0": "mechanization:gadgets/portable_battery_8"
-    }
-}
+{"parent":"mechanization:gadgets/portable_battery_0","textures":{"layer0":"mechanization:gadgets/portable_battery_8"}}

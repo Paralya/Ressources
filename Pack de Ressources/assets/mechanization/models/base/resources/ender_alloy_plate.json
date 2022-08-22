@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "mechanization:base/resources/ender_alloy_plate"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"mechanization:base/resources/ender_alloy_plate"}}

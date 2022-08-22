@@ -1,6 +1,1 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "tcc:item/unlit_soul_campfire"
-  }
-}
+{"parent":"item/generated","textures":{"layer0":"tcc:item/unlit_soul_campfire"}}

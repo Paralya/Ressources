@@ -1,6 +1,1 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "crazy_adventure:equipments/fireball_stick"
-	}
-}
+{"parent":"item/handheld","textures":{"layer0":"crazy_adventure:equipments/fireball_stick"}}
