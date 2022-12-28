@@ -1,1 +1,3 @@
-{"parent":"minecraft:item/cauldron"}
+{
+	"parent": "minecraft:item/cauldron"
+}

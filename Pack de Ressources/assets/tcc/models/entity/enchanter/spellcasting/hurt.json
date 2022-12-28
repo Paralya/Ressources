@@ -1,1 +1,6 @@
-{"parent":"tcc:entity/enchanter/spellcasting/normal","textures":{"0":"tcc:entity/enchanter/main_hurt"}}
+{
+  "parent": "tcc:entity/enchanter/spellcasting/normal",
+  "textures": {
+    "0": "tcc:entity/enchanter/main_hurt"
+  }
+}

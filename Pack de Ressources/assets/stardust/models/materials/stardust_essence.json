@@ -1,1 +1,6 @@
-{"parent":"item/generated","textures":{"layer0":"stardust:materials/stardust_essence"}}
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "stardust:item/materials/stardust_essence"
+    }
+}

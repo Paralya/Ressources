@@ -1,1 +1,6 @@
-{"parent":"block/cube_all","textures":{"all":"simplenergy:ores/simplunium_block"}}
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "simplenergy:item/ores/simplunium_block"
+	}
+}

@@ -1,1 +1,6 @@
-{"parent":"item/handheld","textures":{"layer0":"stardust:equipments/legendarium_sword"}}
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "stardust:item/equipments/legendarium_sword"
+    }
+}

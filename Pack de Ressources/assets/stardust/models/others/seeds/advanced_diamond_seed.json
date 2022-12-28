@@ -1,1 +1,6 @@
-{"parent":"item/handheld","textures":{"layer0":"stardust:others/advanced_diamond_seed"}}
+{
+	"parent": "item/handheld",
+    "textures": {
+        "layer0": "stardust:item/others/advanced_diamond_seed"
+	}
+}

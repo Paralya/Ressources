@@ -1,1 +1,6 @@
-{"parent":"item/handheld","textures":{"layer0":"simplenergy:equipments/simplunium_axe"}}
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "simplenergy:item/equipments/simplunium_axe"
+    }
+}
